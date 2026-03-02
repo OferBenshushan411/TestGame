@@ -1,0 +1,8527 @@
+[
+  {
+    "word": "אָבְ ַיִים",
+    "level": 1,
+    "explanation": "אגן מים, בריכה קטנה"
+  },
+  {
+    "word": "אוֹצֵר",
+    "level": 1,
+    "explanation": "מקום לאחסון עושר, או האחראי עליו"
+  },
+  {
+    "word": "אָחוּ",
+    "level": 1,
+    "explanation": "ייחוד, אחדות"
+  },
+  {
+    "word": "אִיחוּי",
+    "level": 1,
+    "explanation": "חיבור ואיחוד שני דברים יחד"
+  },
+  {
+    "word": "אִלוּלֵא",
+    "level": 1,
+    "explanation": "אלמלא; לולא דבר מסוים"
+  },
+  {
+    "word": "אֲלוּמָּה",
+    "level": 1,
+    "explanation": "צרור מוצמד של גבעולים או קרניים"
+  },
+  {
+    "word": "אֲלוּמָּת אוֹר",
+    "level": 1,
+    "explanation": "קרן אור ממוקדת וצרה"
+  },
+  {
+    "word": "אָמוֹדַאי",
+    "level": 1,
+    "explanation": "בר-מדידה, ניתן להערכה"
+  },
+  {
+    "word": "אָמִיר",
+    "level": 1,
+    "explanation": "צמרת העץ, ענפיו העליונים"
+  },
+  {
+    "word": "אֲמַתְלָה",
+    "level": 1,
+    "explanation": "תירוץ שאינו אמיתי, עילה בדויה"
+  },
+  {
+    "word": "אָסָם",
+    "level": 1,
+    "explanation": "מחסן"
+  },
+  {
+    "word": "אֶצְבָּעוֹן",
+    "level": 1,
+    "explanation": "כיסוי אצבע למניעת דקירות"
+  },
+  {
+    "word": "אֶקְרָן",
+    "level": 1,
+    "explanation": "משטח לקרנת תמונות וסרטים"
+  },
+  {
+    "word": "אָרִיג",
+    "level": 1,
+    "explanation": "בד ארוג, טקסטיל"
+  },
+  {
+    "word": "אַרְכִיב / אַרְכִיּוֹן",
+    "level": 1,
+    "explanation": "מקום שמירת מסמכים היסטוריים"
+  },
+  {
+    "word": "אֲרָעִי",
+    "level": 1,
+    "explanation": "זמני, לא קבוע"
+  },
+  {
+    "word": "אֶשְׁכּוֹל",
+    "level": 1,
+    "explanation": "אשכול ענבים, פרי הגפן"
+  },
+  {
+    "word": "בֵּאוּר",
+    "level": 1,
+    "explanation": "הסבר, פירוש לטקסט"
+  },
+  {
+    "word": "בְּגִלּוּפִין",
+    "level": 1,
+    "explanation": "ברמז, בדרך עקיפה"
+  },
+  {
+    "word": "בְּגַפּוֹ",
+    "level": 1,
+    "explanation": "לבדו, ללא ליווי"
+  },
+  {
+    "word": "בּוּרְסְקִי / בּוּרְסְקַאי / בּוּרְסִי",
+    "level": 1,
+    "explanation": "קשור לעיבוד עורות"
+  },
+  {
+    "word": "בּוֹשׁ",
+    "level": 1,
+    "explanation": "חש בושה, מתבייש"
+  },
+  {
+    "word": "בּוֹשֵׁשׁ",
+    "level": 1,
+    "explanation": "מתמהמה, אחר לבוא"
+  },
+  {
+    "word": "בִּיּוּת",
+    "level": 1,
+    "explanation": "תהליך הכנסת חיה לביות"
+  },
+  {
+    "word": "בֵּית בַּד",
+    "level": 1,
+    "explanation": "מתקן לסחיטת שמן זית"
+  },
+  {
+    "word": "בֵּית מַרְזֵחַ",
+    "level": 1,
+    "explanation": "מקום מרזח, מפגש שתייה"
+  },
+  {
+    "word": "בַּלָּן",
+    "level": 1,
+    "explanation": "עובד בית מרחץ"
+  },
+  {
+    "word": "בְּמַפְגִּיעַ",
+    "level": 1,
+    "explanation": "בתוקף, בדחיפות, בנחרצות"
+  },
+  {
+    "word": "בַּעֲלִיל",
+    "level": 1,
+    "explanation": "בגלוי, בפרהסיה, לעיני כל"
+  },
+  {
+    "word": "בְּפוּמְבִּי / בְּפוּמְבֵּי",
+    "level": 1,
+    "explanation": "בציבור, בפרהסיה"
+  },
+  {
+    "word": "בָּצִיר",
+    "level": 1,
+    "explanation": "עונת בציר הענבים"
+  },
+  {
+    "word": "בָּצַר",
+    "level": 1,
+    "explanation": "קטף ענבים, קצר גפן"
+  },
+  {
+    "word": "בֵּרָא",
+    "level": 1,
+    "explanation": "ברא, יצר מאין"
+  },
+  {
+    "word": "גָּדָה",
+    "level": 1,
+    "explanation": "גדת נהר, שפת מים"
+  },
+  {
+    "word": "גָהַר",
+    "level": 1,
+    "explanation": "כרע, שחה קדימה"
+  },
+  {
+    "word": "גּוּר",
+    "level": 1,
+    "explanation": "לגור בארץ זרה כאורח"
+  },
+  {
+    "word": "גְזוּזְטְרָה",
+    "level": 1,
+    "explanation": "מרפסת בולטת, גזוזטרה"
+  },
+  {
+    "word": "גְּזִיר",
+    "level": 1,
+    "explanation": "דבר גזור, חלק שנגזר"
+  },
+  {
+    "word": "גִּלְעֵן",
+    "level": 1,
+    "explanation": "הסיר גרעינים מפרי"
+  },
+  {
+    "word": "ִגַף",
+    "level": 1,
+    "explanation": "כנף, אגף"
+  },
+  {
+    "word": "גַּרְגְרָן",
+    "level": 1,
+    "explanation": "אדם חמדן ורודף הנאות"
+  },
+  {
+    "word": "גַּת",
+    "level": 1,
+    "explanation": "מתקן לדריכת ענבים"
+  },
+  {
+    "word": "דָּגָה",
+    "level": 1,
+    "explanation": "דגים, בשר דגים"
+  },
+  {
+    "word": "דּוֹבֵב",
+    "level": 1,
+    "explanation": "גרם לדבר, הוציא שיח"
+  },
+  {
+    "word": "דִּידַקְטִי",
+    "level": 1,
+    "explanation": "קשור להוראה ולחינוך"
+  },
+  {
+    "word": "ָדָן",
+    "level": 1,
+    "explanation": "שפט, הכריע בדין"
+  },
+  {
+    "word": "דִּרְבּוּן",
+    "level": 1,
+    "explanation": "עידוד, דחיפה לפעולה"
+  },
+  {
+    "word": "הִ ְתַבֵּא",
+    "level": 1,
+    "explanation": "הסתתר, נחבא"
+  },
+  {
+    "word": "הִ ְתַכֵּר",
+    "level": 1,
+    "explanation": "התנכר, הציג עצמו כזר"
+  },
+  {
+    "word": "ֶהֶ ְתָן",
+    "level": 1,
+    "explanation": "נכנס בחתונה, הצטרף כחתן"
+  },
+  {
+    "word": "הִ ְתַצֵּחַ",
+    "level": 1,
+    "explanation": "התעמת, ויכח"
+  },
+  {
+    "word": "הִבְלִיג",
+    "level": 1,
+    "explanation": "בלם עצמו, כבש את כעסו"
+  },
+  {
+    "word": "הִגֵּר",
+    "level": 1,
+    "explanation": "נדד, גר בארץ זרה"
+  },
+  {
+    "word": "הֲדוֹם",
+    "level": 1,
+    "explanation": "שרפרף, כסא רגליים"
+  },
+  {
+    "word": "הֶדְיוֹט",
+    "level": 1,
+    "explanation": "אדם פשוט, חסר ידע"
+  },
+  {
+    "word": "הִיסָּה",
+    "level": 1,
+    "explanation": "הצווה לשתוק, השתיק"
+  },
+  {
+    "word": "ָהִיר",
+    "level": 1,
+    "explanation": "מיומן, מהיר ורהוט"
+  },
+  {
+    "word": "הִכְבִּיר בְּמִילִים",
+    "level": 1,
+    "explanation": "דיבר הרבה מדי"
+  },
+  {
+    "word": "הִכְחִישׁ",
+    "level": 1,
+    "explanation": "הכחיש, טען שאינו נכון"
+  },
+  {
+    "word": "הַס",
+    "level": 1,
+    "explanation": "שתיקה! אל תדבר"
+  },
+  {
+    "word": "הִסְכִּית",
+    "level": 1,
+    "explanation": "האזין בשקט ובתשומת לב"
+  },
+  {
+    "word": "הִסְלִים",
+    "level": 1,
+    "explanation": "הסלים סכסוך, החריף מצב"
+  },
+  {
+    "word": "הִסְמִי",
+    "level": 1,
+    "explanation": "הסתמא, סתם עיניו"
+  },
+  {
+    "word": "הֶעֱלָה אֲרוּכָה",
+    "level": 1,
+    "explanation": "ריפא פצע, השלים החלמה"
+  },
+  {
+    "word": "הִפְלִיא בּוֹ אֶת מַכּוֹתָיו",
+    "level": 1,
+    "explanation": "הכהו מכות רבות וחזקות"
+  },
+  {
+    "word": "הִפְלִיג  ְבּ-",
+    "level": 1,
+    "explanation": "הגזים, הגיע לקצה קיצוני"
+  },
+  {
+    "word": "הִצְפִּין",
+    "level": 1,
+    "explanation": "הסתיר, צפן בסתר"
+  },
+  {
+    "word": "הֵקִיץ",
+    "level": 1,
+    "explanation": "התעורר משנה"
+  },
+  {
+    "word": "הִשְׁחִיז",
+    "level": 1,
+    "explanation": "חידד להב, לטש סכין"
+  },
+  {
+    "word": "הִשְׁתָּאוּת",
+    "level": 1,
+    "explanation": "תדהמה, פליאה גדולה"
+  },
+  {
+    "word": "הִתְבַּשֵּׂר",
+    "level": 1,
+    "explanation": "קיבל בשורה טובה"
+  },
+  {
+    "word": "הִתְגּוֹדֵד",
+    "level": 1,
+    "explanation": "התאסף בקבוצה"
+  },
+  {
+    "word": "הִתְחַלָּה",
+    "level": 1,
+    "explanation": "התחלה, פתיחה"
+  },
+  {
+    "word": "הִתִּיר",
+    "level": 1,
+    "explanation": "אפשר, שחרר מאיסור"
+  },
+  {
+    "word": "הִתְכַּתֵּשׁ",
+    "level": 1,
+    "explanation": "נאבק, התמודד"
+  },
+  {
+    "word": "הִתְמוֹגֵג",
+    "level": 1,
+    "explanation": "נמוג מרוגש, נגע ללב"
+  },
+  {
+    "word": "הִתַּמֵּר",
+    "level": 1,
+    "explanation": "התמרד, סרב"
+  },
+  {
+    "word": "הִתְעַמֵּר",
+    "level": 1,
+    "explanation": "ניצל ועינה אחר"
+  },
+  {
+    "word": "הִתְרָה",
+    "level": 1,
+    "explanation": "הזהיר, אמר אזהרה"
+  },
+  {
+    "word": "הִתְרַצָּה",
+    "level": 1,
+    "explanation": "פייס, כיפר על עוון"
+  },
+  {
+    "word": "וֹטֵר",
+    "level": 1,
+    "explanation": "נוטר, שומר"
+  },
+  {
+    "word": "וֹטֵר טִיָה",
+    "level": 1,
+    "explanation": "נוטריה, מקצוע משפטי"
+  },
+  {
+    "word": "וּל",
+    "level": 1,
+    "explanation": "אולי, ייתכן"
+  },
+  {
+    "word": "זַבָּן",
+    "level": 1,
+    "explanation": "קונה, רוכש"
+  },
+  {
+    "word": "זֶרֶד",
+    "level": 1,
+    "explanation": "נחל קטן"
+  },
+  {
+    "word": "זָרָה מֶלַח עַל הַפְּצָעִים",
+    "level": 1,
+    "explanation": "ביטוי: הוסיף כאב לכאב"
+  },
+  {
+    "word": "חָ ָר",
+    "level": 1,
+    "explanation": "חרה, כעס"
+  },
+  {
+    "word": "ְחִיל",
+    "level": 1,
+    "explanation": "חיל, כוח צבאי"
+  },
+  {
+    "word": "ִחַם",
+    "level": 1,
+    "explanation": "התחמם, חם"
+  },
+  {
+    "word": "ֶחָמָה פּוּרְתָּא",
+    "level": 1,
+    "explanation": "מעט כעס, חרי אף קטן"
+  },
+  {
+    "word": "חַס",
+    "level": 1,
+    "explanation": "הרחמן, חמל על"
+  },
+  {
+    "word": "חֲרִי ) אַף(",
+    "level": 1,
+    "explanation": "חרי אף, כעס עז"
+  },
+  {
+    "word": "חָרִישׁ",
+    "level": 1,
+    "explanation": "עונת חרישה, זמן חריש"
+  },
+  {
+    "word": "חֲרִישִׁי",
+    "level": 1,
+    "explanation": "שקט, סמוי, חשאי"
+  },
+  {
+    "word": "טָוָה",
+    "level": 1,
+    "explanation": "טוה חוט, ספר סיפור"
+  },
+  {
+    "word": "טְלַאי",
+    "level": 1,
+    "explanation": "טלאי, ממלא חסר"
+  },
+  {
+    "word": "ִטְמַע",
+    "level": 1,
+    "explanation": "נטמע, התבולל בתוך קבוצה"
+  },
+  {
+    "word": "טְרָשִׁים",
+    "level": 1,
+    "explanation": "שטח סלעי, אבנים"
+  },
+  {
+    "word": "יָגֵעַ",
+    "level": 1,
+    "explanation": "עייף, כחוש מעבודה"
+  },
+  {
+    "word": "יָד רוֹחֶצֶת יָד",
+    "level": 1,
+    "explanation": "ביטוי: סיוע הדדי"
+  },
+  {
+    "word": "ִיחָא",
+    "level": 1,
+    "explanation": "יחיד, ייחודי"
+  },
+  {
+    "word": "ִיפָּה",
+    "level": 1,
+    "explanation": "יפה, נאה"
+  },
+  {
+    "word": "יְקִיצָה",
+    "level": 1,
+    "explanation": "התעוררות משנה"
+  },
+  {
+    "word": "יַרְכָתַיִים",
+    "level": 1,
+    "explanation": "קצה אחורי של חדר או ספינה"
+  },
+  {
+    "word": "כְּ ַר",
+    "level": 1,
+    "explanation": "כבר, מוקדם יותר"
+  },
+  {
+    "word": "כְּבַד לָשׁוֹן / פֶּה",
+    "level": 1,
+    "explanation": "קשה דיבור, גמגומי"
+  },
+  {
+    "word": "ִכּוּשׁ",
+    "level": 1,
+    "explanation": "כושי, מוצא אפריקאי"
+  },
+  {
+    "word": "כִּיחֵד",
+    "level": 1,
+    "explanation": "כחש, הכחיש"
+  },
+  {
+    "word": "כִּילָּה",
+    "level": 1,
+    "explanation": "כילה, השמיד לחלוטין"
+  },
+  {
+    "word": "ִכְלָם",
+    "level": 1,
+    "explanation": "הכלים, הביש"
+  },
+  {
+    "word": "כַּן / כַּנָּה",
+    "level": 1,
+    "explanation": "כן, ישר, אמיתי"
+  },
+  {
+    "word": "כְּסָיָה",
+    "level": 1,
+    "explanation": "כיסוי, מסתור"
+  },
+  {
+    "word": "לֵאוּת",
+    "level": 1,
+    "explanation": "עייפות, תשישות"
+  },
+  {
+    "word": "לְדִידוֹ",
+    "level": 1,
+    "explanation": "לדעתו, מנקודת מבטו"
+  },
+  {
+    "word": "לַהַג",
+    "level": 1,
+    "explanation": "פטפוט, שיחה ריקה"
+  },
+  {
+    "word": "לַהֲגָן",
+    "level": 1,
+    "explanation": "פטפטן, דברן ריק"
+  },
+  {
+    "word": "לוּלֵא",
+    "level": 1,
+    "explanation": "לולא, אלמלא"
+  },
+  {
+    "word": "לִיבָּה",
+    "level": 1,
+    "explanation": "ליבה, הצית, הגדיל"
+  },
+  {
+    "word": "לִיטֵּשׁ",
+    "level": 1,
+    "explanation": "ליטש, החליק ושיפר"
+  },
+  {
+    "word": "לִמְגִינַּת לִבּוֹ",
+    "level": 1,
+    "explanation": "לצערו הגדול"
+  },
+  {
+    "word": "מַאֲכֶלֶת",
+    "level": 1,
+    "explanation": "סכין גדול, להב"
+  },
+  {
+    "word": "מֵאֵן",
+    "level": 1,
+    "explanation": "סירב, לא הסכים"
+  },
+  {
+    "word": "מְבוּסָם",
+    "level": 1,
+    "explanation": "שיכור מעט, עליז"
+  },
+  {
+    "word": "מַגָּל",
+    "level": 1,
+    "explanation": "כלי חקלאי לקצירה"
+  },
+  {
+    "word": "מָהוּהַּ",
+    "level": 1,
+    "explanation": "מדולל, חלש"
+  },
+  {
+    "word": "מַזְמֵרָה",
+    "level": 1,
+    "explanation": "כלי לגיזום גפן"
+  },
+  {
+    "word": "מִכְמוֹרֶת",
+    "level": 1,
+    "explanation": "רשת דיג"
+  },
+  {
+    "word": "מֵלִיץ יוֹשֶר",
+    "level": 1,
+    "explanation": "סניגור, מי שמגן על אחר"
+  },
+  {
+    "word": "מָסִיק",
+    "level": 1,
+    "explanation": "קציר זיתים, בציר"
+  },
+  {
+    "word": "מִסְעָד",
+    "level": 1,
+    "explanation": "מקל תמיכה, מעצור"
+  },
+  {
+    "word": "מַפַּח ֶפֶשׁ",
+    "level": 1,
+    "explanation": "אכזבה עמוקה, תקווה שנכזבה"
+  },
+  {
+    "word": "מִצְ ֶפֶת",
+    "level": 1,
+    "explanation": "מצפת, מקום תצפית"
+  },
+  {
+    "word": "מִרְבָּץ",
+    "level": 1,
+    "explanation": "מקום שכיבת בהמות"
+  },
+  {
+    "word": "מְשׁוּנָּן",
+    "level": 1,
+    "explanation": "חד, מחודד"
+  },
+  {
+    "word": "מְתַאֲבֵן",
+    "level": 1,
+    "explanation": "מי שאוכל מנה ראשונה"
+  },
+  {
+    "word": "סָ ֵגוֹר",
+    "level": 1,
+    "explanation": "סגור, אטום"
+  },
+  {
+    "word": "סַוָּר",
+    "level": 1,
+    "explanation": "צוואר, צד הצוואר"
+  },
+  {
+    "word": "סוֹרֵר",
+    "level": 1,
+    "explanation": "סורר, מורד, עיקש"
+  },
+  {
+    "word": "סַיָּס",
+    "level": 1,
+    "explanation": "מטפל בסוסים, רוכב"
+  },
+  {
+    "word": "סִיקֵּל",
+    "level": 1,
+    "explanation": "סיקל, הסיר אבנים"
+  },
+  {
+    "word": "סַתָת",
+    "level": 1,
+    "explanation": "חצב, חטב אבנים"
+  },
+  {
+    "word": "עִילֵג",
+    "level": 1,
+    "explanation": "גמגם, דיבר בקושי"
+  },
+  {
+    "word": "עַלְוָוה",
+    "level": 1,
+    "explanation": "תוספת, עדיפות"
+  },
+  {
+    "word": "עָמַד מִנֶּגֶד / מִן הַצַּד",
+    "level": 1,
+    "explanation": "עמד מהצד בלי לעזור"
+  },
+  {
+    "word": "עָרֵב",
+    "level": 1,
+    "explanation": "ערב, ערם, פלה"
+  },
+  {
+    "word": "ֶעֱתַר",
+    "level": 1,
+    "explanation": "עתר, בקש בתחנונים"
+  },
+  {
+    "word": "פִּיר",
+    "level": 1,
+    "explanation": "פיר אנכי, בור מעלית"
+  },
+  {
+    "word": "פָּלָה",
+    "level": 1,
+    "explanation": "הפריד, בדל, הגן"
+  },
+  {
+    "word": "פָּמַלְיָה",
+    "level": 1,
+    "explanation": "פמליה, צוות מלווים"
+  },
+  {
+    "word": "ִפְעָם",
+    "level": 1,
+    "explanation": "פעם, פעם אחת"
+  },
+  {
+    "word": "פֶּרֶא",
+    "level": 1,
+    "explanation": "בעל חיים פרא, לא מבויית"
+  },
+  {
+    "word": "צִדֵד",
+    "level": 1,
+    "explanation": "צידד, תמך בצד"
+  },
+  {
+    "word": "ִקְוָוה",
+    "level": 1,
+    "explanation": "קוה, ייחל"
+  },
+  {
+    "word": "קוֹרֶט / קַרְטוֹב",
+    "level": 1,
+    "explanation": "כמות קטנה מאוד, קורטוב"
+  },
+  {
+    "word": "קוּשִיָה",
+    "level": 1,
+    "explanation": "קושיה, שאלה קשה"
+  },
+  {
+    "word": "קוֹשֵׁשׁ",
+    "level": 1,
+    "explanation": "אסף עצים, חיפש"
+  },
+  {
+    "word": "קִיטוֹן",
+    "level": 1,
+    "explanation": "חדר קטן, תא"
+  },
+  {
+    "word": "קָמַל",
+    "level": 1,
+    "explanation": "קמל, נבל, יבש"
+  },
+  {
+    "word": "קְרִיסָה",
+    "level": 1,
+    "explanation": "קריסה, נפילה, כישלון"
+  },
+  {
+    "word": "קְרִישָׁה",
+    "level": 1,
+    "explanation": "קרישה, קרישת דם"
+  },
+  {
+    "word": "קָשַׁר ) לוֹ ( כְּתָרִים",
+    "level": 1,
+    "explanation": "שיבח מאוד, עטר בכתרים"
+  },
+  {
+    "word": "קַת",
+    "level": 1,
+    "explanation": "כת, קבוצה, חוג"
+  },
+  {
+    "word": "ִרְגָּן",
+    "level": 1,
+    "explanation": "רגן, התלונן"
+  },
+  {
+    "word": "רָדָה",
+    "level": 1,
+    "explanation": "שלט, שלטה"
+  },
+  {
+    "word": "רָוָוה",
+    "level": 1,
+    "explanation": "שתה עד שובע"
+  },
+  {
+    "word": "ִרְפֶּה",
+    "level": 1,
+    "explanation": "התרפה, נחלש"
+  },
+  {
+    "word": "רָקִיק",
+    "level": 1,
+    "explanation": "לחמנייה דקה ורכה"
+  },
+  {
+    "word": "רָשַׁף",
+    "level": 1,
+    "explanation": "רשף, ניצוץ אש"
+  },
+  {
+    "word": "שָׁאוֹן",
+    "level": 1,
+    "explanation": "רעש, המולה"
+  },
+  {
+    "word": "שְׁאַט ֶפֶשׁ",
+    "level": 1,
+    "explanation": "בזיה ואדישות"
+  },
+  {
+    "word": "שׁוֹקֵק ) חַיִּים(",
+    "level": 1,
+    "explanation": "רוחש חיים, מלא תנועה"
+  },
+  {
+    "word": "שִׁיסָה",
+    "level": 1,
+    "explanation": "הסית, עורר לתקיפה"
+  },
+  {
+    "word": "שָׁכִיחַ",
+    "level": 1,
+    "explanation": "נפוץ, מצוי לעתים קרובות"
+  },
+  {
+    "word": "שָׁכַך",
+    "level": 1,
+    "explanation": "שקט, נרגע"
+  },
+  {
+    "word": "שָׁלָה",
+    "level": 1,
+    "explanation": "שלה, הוציא מן המים"
+  },
+  {
+    "word": "שַׁמַּאי",
+    "level": 1,
+    "explanation": "מי שמעריך שמאלית"
+  },
+  {
+    "word": "תֶּלֶם",
+    "level": 1,
+    "explanation": "תלם, חריץ בשדה"
+  },
+  {
+    "word": "אֲדָ ִית",
+    "level": 2,
+    "explanation": "אדמית, צבע אדום"
+  },
+  {
+    "word": "אֶדֶן",
+    "level": 2,
+    "explanation": "עדן, כן דלת, בסיס"
+  },
+  {
+    "word": "אִסְפְּלִָית",
+    "level": 2,
+    "explanation": "אספלנית, תחבושת"
+  },
+  {
+    "word": "אֵפוֹא",
+    "level": 2,
+    "explanation": "אפוא, אז, לכן"
+  },
+  {
+    "word": "אֶצְעָדָה",
+    "level": 2,
+    "explanation": "צמיד זרוע, תכשיט"
+  },
+  {
+    "word": "אֲרוּכָה",
+    "level": 2,
+    "explanation": "ריפוי, החלמה"
+  },
+  {
+    "word": "אֶרֶך אַפַּיִים",
+    "level": 2,
+    "explanation": "סבלנות, קור רוח"
+  },
+  {
+    "word": "אֵרַע",
+    "level": 2,
+    "explanation": "קרה, התרחש"
+  },
+  {
+    "word": "אַשְׁפָּה",
+    "level": 2,
+    "explanation": "פח אשפה, מקום פסולת"
+  },
+  {
+    "word": "בְּדִימוֹס",
+    "level": 2,
+    "explanation": "בפנסיה, לאחר פרישה"
+  },
+  {
+    "word": "בּוֹסֶר",
+    "level": 2,
+    "explanation": "פרי ירוק לא בשל"
+  },
+  {
+    "word": "בּוֹצֵר",
+    "level": 2,
+    "explanation": "בוצר ענבים"
+  },
+  {
+    "word": "בִּיוֹגְרַפְיָה",
+    "level": 2,
+    "explanation": "סיפור חיי אדם"
+  },
+  {
+    "word": "בַּלָאט",
+    "level": 2,
+    "explanation": "בשקט, בחשאי"
+  },
+  {
+    "word": "בְּעֶטְיוֹ",
+    "level": 2,
+    "explanation": "בגללו, עקב פעולתו"
+  },
+  {
+    "word": "בַּר- מִיָן",
+    "level": 2,
+    "explanation": "ניתן לסיווג, בר מינו"
+  },
+  {
+    "word": "בְּראֹשׁ חוּצוֹת",
+    "level": 2,
+    "explanation": "בגלוי ברחוב, בפרהסיה"
+  },
+  {
+    "word": "בָּרִי",
+    "level": 2,
+    "explanation": "בריא, חזק"
+  },
+  {
+    "word": "בְּרֵישׁ גְּלֵי",
+    "level": 2,
+    "explanation": "בגלוי לכל, ברבים"
+  },
+  {
+    "word": "בָּרַר",
+    "level": 2,
+    "explanation": "ברר, בחר, מיין"
+  },
+  {
+    "word": "גָּדַשׁ",
+    "level": 2,
+    "explanation": "גדש, מלא"
+  },
+  {
+    "word": "גָּדַש אֶת הַסְּאָה",
+    "level": 2,
+    "explanation": "גדש את הסאה, עבר כל גבול"
+  },
+  {
+    "word": "גָּז",
+    "level": 2,
+    "explanation": "עבר, גז, נעלם"
+  },
+  {
+    "word": "גְַּזַך",
+    "level": 2,
+    "explanation": "גזך, ממלכה עתיקה"
+  },
+  {
+    "word": "גְּזֵרָה",
+    "level": 2,
+    "explanation": "גזרה, צרה, פקודה"
+  },
+  {
+    "word": "גַּיְא",
+    "level": 2,
+    "explanation": "גיא, עמק, ואדי"
+  },
+  {
+    "word": "גִּיל / גִּילָה",
+    "level": 2,
+    "explanation": "שמחה גדולה"
+  },
+  {
+    "word": "גַּלְעִין",
+    "level": 2,
+    "explanation": "גלעין, ליבת פרי"
+  },
+  {
+    "word": "גְּמִילָה",
+    "level": 2,
+    "explanation": "גמילה, ניתוק מהרגל"
+  },
+  {
+    "word": "גַּפַּיִם",
+    "level": 2,
+    "explanation": "כנפיים, זרועות"
+  },
+  {
+    "word": "גָּרַע",
+    "level": 2,
+    "explanation": "גרע, הפחית, לקח"
+  },
+  {
+    "word": "דָּלָה",
+    "level": 2,
+    "explanation": "דלה, שאב מים"
+  },
+  {
+    "word": "דָלַק",
+    "level": 2,
+    "explanation": "דלק, בער"
+  },
+  {
+    "word": "דָּרוּך",
+    "level": 2,
+    "explanation": "מתוח, ערני, מוכן"
+  },
+  {
+    "word": "הֶאֱמִיר",
+    "level": 2,
+    "explanation": "העמיק, הגדיל"
+  },
+  {
+    "word": "הִבְלִיח",
+    "level": 2,
+    "explanation": "הציץ, הופיע בהפתעה"
+  },
+  {
+    "word": "הִגְדִּישׁ אֶת הַסְּאָה",
+    "level": 2,
+    "explanation": "עבר את הגבול"
+  },
+  {
+    "word": "הֵגִיף",
+    "level": 2,
+    "explanation": "הגיף, נגף בדלת"
+  },
+  {
+    "word": "הִדְבִּיר",
+    "level": 2,
+    "explanation": "הדביר, השמיד מזיקים"
+  },
+  {
+    "word": "הִדִּיר רַגְלָיו",
+    "level": 2,
+    "explanation": "נמנע מלבוא, הרחיק עצמו"
+  },
+  {
+    "word": "הִדִּיר שֵׁיָה מֵעֵיָיו",
+    "level": 2,
+    "explanation": "לא ישן כלל"
+  },
+  {
+    "word": "הֵהִין",
+    "level": 2,
+    "explanation": "העז, נועז לעשות"
+  },
+  {
+    "word": "הוֹכִיחַ",
+    "level": 2,
+    "explanation": "הוכיח, אישר אמינות"
+  },
+  {
+    "word": "הוֹקִיר רַגְלָיו",
+    "level": 2,
+    "explanation": "נמנע מבקר, הרחיק עצמו"
+  },
+  {
+    "word": "הִזְדַּכְּכוּת",
+    "level": 2,
+    "explanation": "התזדככות, טיהור עצמי"
+  },
+  {
+    "word": "הִטְלִיא",
+    "level": 2,
+    "explanation": "טלא, תיקן בטלאי"
+  },
+  {
+    "word": "הִטְמִיעַ",
+    "level": 2,
+    "explanation": "הטמיע, השריש מנהג"
+  },
+  {
+    "word": "הִכְמִין",
+    "level": 2,
+    "explanation": "הכמין, ארב"
+  },
+  {
+    "word": "הָלַם",
+    "level": 2,
+    "explanation": "הלם, הכה, זעזע"
+  },
+  {
+    "word": "הֵפִיס דַעֲתוֹ",
+    "level": 2,
+    "explanation": "שכנע, הרגיע"
+  },
+  {
+    "word": "הִשְׁכִּין",
+    "level": 2,
+    "explanation": "יישב, הרגיל לסביבה"
+  },
+  {
+    "word": "הִשְׁתּוֹקֵק",
+    "level": 2,
+    "explanation": "כמה מאוד, השתוקק"
+  },
+  {
+    "word": "הִתְחַבֵּט",
+    "level": 2,
+    "explanation": "התלבט, נאבק בהחלטה"
+  },
+  {
+    "word": "הִתְחַסֵּד",
+    "level": 2,
+    "explanation": "הצטדק, העמיד פנים של חסידות"
+  },
+  {
+    "word": "הִתְמַקֵּחַ",
+    "level": 2,
+    "explanation": "התמקח, ויכח על מחיר"
+  },
+  {
+    "word": "הִתְעַרְטֵל",
+    "level": 2,
+    "explanation": "פשט בגדים, נעשה ערום"
+  },
+  {
+    "word": "הִתְפַּעֵם",
+    "level": 2,
+    "explanation": "התרגש מאוד"
+  },
+  {
+    "word": "הִתְקַהֵל",
+    "level": 2,
+    "explanation": "התאסף, נכנס להמון"
+  },
+  {
+    "word": "וֹחַ לִכְעוֹס",
+    "level": 2,
+    "explanation": "קשה לכעוס, ארך אפיים"
+  },
+  {
+    "word": "זְמוֹרָה",
+    "level": 2,
+    "explanation": "זמורה, שריג גפן"
+  },
+  {
+    "word": "זָמַר",
+    "level": 2,
+    "explanation": "זמר, שר שיר"
+  },
+  {
+    "word": "חַבּוּט",
+    "level": 2,
+    "explanation": "חבוט, מוכה, שחוק"
+  },
+  {
+    "word": "חִלְחוּל",
+    "level": 2,
+    "explanation": "חדירה, ספיגה"
+  },
+  {
+    "word": "חמשיר",
+    "level": 2,
+    "explanation": "שיר בן חמש שורות"
+  },
+  {
+    "word": "חָרִיט",
+    "level": 2,
+    "explanation": "נרתיק, תיק"
+  },
+  {
+    "word": "חָרַץ לָשׁוֹן",
+    "level": 2,
+    "explanation": "ביקר בחריפות"
+  },
+  {
+    "word": "חָתָה",
+    "level": 2,
+    "explanation": "חתה אש, אסף גחלים"
+  },
+  {
+    "word": "טָבַע",
+    "level": 2,
+    "explanation": "טבע, שקע"
+  },
+  {
+    "word": "יָרַד לְסוֹף דַעְתּוֹ",
+    "level": 2,
+    "explanation": "הבין לחלוטין כוונתו"
+  },
+  {
+    "word": "יֵשׁ בְּלִבּוֹ עָלָיו",
+    "level": 2,
+    "explanation": "טינה בלב, קובלנה"
+  },
+  {
+    "word": "ִישָׂא",
+    "level": 2,
+    "explanation": "נשא, הרים"
+  },
+  {
+    "word": "כַּבִּיר",
+    "level": 2,
+    "explanation": "גדול ועצום, חזק"
+  },
+  {
+    "word": "כָּבַשׁ",
+    "level": 2,
+    "explanation": "כבש, לקח"
+  },
+  {
+    "word": "כִּבְשָׁן",
+    "level": 2,
+    "explanation": "תנור לשריפה"
+  },
+  {
+    "word": "כַּחַש",
+    "level": 2,
+    "explanation": "כחש, רזון, שקר"
+  },
+  {
+    "word": "כִּיבֵּד",
+    "level": 2,
+    "explanation": "כיבד, הגיש אורח"
+  },
+  {
+    "word": "כָּרַה",
+    "level": 2,
+    "explanation": "כרה, חפר בור"
+  },
+  {
+    "word": "כִּתְמוֹל שִׁלְשוֹם",
+    "level": 2,
+    "explanation": "כאתמול, בעבר הרחוק"
+  },
+  {
+    "word": "לאֹ שְׁזָפַתּוּ עַיִן",
+    "level": 2,
+    "explanation": "דבר שלא נראה לאחרים"
+  },
+  {
+    "word": "לַהַק",
+    "level": 2,
+    "explanation": "להקה, עדר, קבוצה"
+  },
+  {
+    "word": "לָקוִֹי",
+    "level": 2,
+    "explanation": "לקוי, פגום, חסר"
+  },
+  {
+    "word": "מִאוּס",
+    "level": 2,
+    "explanation": "מאוס, שנאוי, מגעיל"
+  },
+  {
+    "word": "ָמוֹג",
+    "level": 2,
+    "explanation": "מוג, נמוג, נשמד"
+  },
+  {
+    "word": "מוּמָר",
+    "level": 2,
+    "explanation": "מומר, מי שעזב דתו"
+  },
+  {
+    "word": "מוּסַר כְּלָיוֹת",
+    "level": 2,
+    "explanation": "נקיפת מצפון"
+  },
+  {
+    "word": "מָחָה",
+    "level": 2,
+    "explanation": "מחה, מחק, הביע מחאה"
+  },
+  {
+    "word": "מֶחֱוָה",
+    "level": 2,
+    "explanation": "מחווה, תנועת ידיים"
+  },
+  {
+    "word": "מְטֻלָּא",
+    "level": 2,
+    "explanation": "מטולא, מלא טלאים"
+  },
+  {
+    "word": "מִכְמוֶֹת",
+    "level": 2,
+    "explanation": "כמות, מידה"
+  },
+  {
+    "word": "מִכְמָן",
+    "level": 2,
+    "explanation": "מטמון, אוצר נסתר"
+  },
+  {
+    "word": "מִכְמַנִּים",
+    "level": 2,
+    "explanation": "מטמונים, אוצרות"
+  },
+  {
+    "word": "מְפוֹרָז",
+    "level": 2,
+    "explanation": "מפורז, ללא נשק"
+  },
+  {
+    "word": "מְצוּעֲצָע",
+    "level": 2,
+    "explanation": "מקושט, מסוגנן"
+  },
+  {
+    "word": "מֵצֵר",
+    "level": 2,
+    "explanation": "מצר, מקום צר"
+  },
+  {
+    "word": "מְרוּבָּב",
+    "level": 2,
+    "explanation": "מלא זבובים, מגעיל"
+  },
+  {
+    "word": "מִרְקָם",
+    "level": 2,
+    "explanation": "מרקם, מרקחת"
+  },
+  {
+    "word": "מָשָׁה",
+    "level": 2,
+    "explanation": "משה, שלף ממים"
+  },
+  {
+    "word": "מְשׂוּרָה",
+    "level": 2,
+    "explanation": "מידה מדויקת"
+  },
+  {
+    "word": "מָשַׁל בְּרוּחוֹ",
+    "level": 2,
+    "explanation": "שלט ביצריו, ריסן עצמו"
+  },
+  {
+    "word": "סָבָא",
+    "level": 2,
+    "explanation": "סב, זקן"
+  },
+  {
+    "word": "סַגְפָן",
+    "level": 2,
+    "explanation": "סגפן, מי שמייסר גופו"
+  },
+  {
+    "word": "סוּגַר",
+    "level": 2,
+    "explanation": "סוגר, ציד"
+  },
+  {
+    "word": "סֶכֶר",
+    "level": 2,
+    "explanation": "סכר, סגירה"
+  },
+  {
+    "word": "סָכַר אֶת פִּיו",
+    "level": 2,
+    "explanation": "הפסיקו לדבר"
+  },
+  {
+    "word": "סָרִיג",
+    "level": 2,
+    "explanation": "סרוג, ארוג"
+  },
+  {
+    "word": "סָתוּם",
+    "level": 2,
+    "explanation": "סתום, חסום, סגור"
+  },
+  {
+    "word": "עִבּוּי",
+    "level": 2,
+    "explanation": "עיבוי, הגדלת עובי"
+  },
+  {
+    "word": "ִעְבָּל",
+    "level": 2,
+    "explanation": "עיבל, ערה"
+  },
+  {
+    "word": "עֲדִי",
+    "level": 2,
+    "explanation": "תכשיט, קישוט"
+  },
+  {
+    "word": "עַל ְקַלָּה",
+    "level": 2,
+    "explanation": "בקלות, בלי מאמץ"
+  },
+  {
+    "word": "עָלוּם",
+    "level": 2,
+    "explanation": "עלום, נסתר, בגיל צעיר"
+  },
+  {
+    "word": "עֱלִי",
+    "level": 2,
+    "explanation": "עלי, מכתש"
+  },
+  {
+    "word": "עָסִיסִי",
+    "level": 2,
+    "explanation": "עסיסי, עשיר בטעם"
+  },
+  {
+    "word": "עֵָף",
+    "level": 2,
+    "explanation": "עייף, מותש"
+  },
+  {
+    "word": "עֲשָׁשִׁית",
+    "level": 2,
+    "explanation": "נר קטן, עששית"
+  },
+  {
+    "word": "פָּדָה",
+    "level": 2,
+    "explanation": "פדה, שחרר"
+  },
+  {
+    "word": "פּוּזְמָק",
+    "level": 2,
+    "explanation": "גרב, גרב רגל"
+  },
+  {
+    "word": "פּוּמִית",
+    "level": 2,
+    "explanation": "פיה, פי הכלי"
+  },
+  {
+    "word": "פִּיטּוּם",
+    "level": 2,
+    "explanation": "פיטום, האכלה בכמות"
+  },
+  {
+    "word": "פִּיֵּס",
+    "level": 2,
+    "explanation": "פייס, הרגיע, ריצה"
+  },
+  {
+    "word": "פִּיק בִּרְכַּיִּים",
+    "level": 2,
+    "explanation": "רעד ברכיים מפחד"
+  },
+  {
+    "word": "פֶּלֶג",
+    "level": 2,
+    "explanation": "פלג, יובל, חצי"
+  },
+  {
+    "word": "פָשָׂה",
+    "level": 2,
+    "explanation": "פשה, התפשט"
+  },
+  {
+    "word": "פִּשְפָּש",
+    "level": 2,
+    "explanation": "חרק, פרעוש"
+  },
+  {
+    "word": "פֶּתִי",
+    "level": 2,
+    "explanation": "פתי, תמים, כסיל"
+  },
+  {
+    "word": "צְדוּדִית",
+    "level": 2,
+    "explanation": "צדודית, פרופיל"
+  },
+  {
+    "word": "צוֹהַר",
+    "level": 2,
+    "explanation": "חלון, פתח אור"
+  },
+  {
+    "word": "קוּבְלָָה",
+    "level": 2,
+    "explanation": "קובלנה, תלונה"
+  },
+  {
+    "word": "קוּלְמוּס",
+    "level": 2,
+    "explanation": "קולמוס, עט כתיבה"
+  },
+  {
+    "word": "קוּף הַמַּחַט",
+    "level": 2,
+    "explanation": "אוגן המחט, פתח צר"
+  },
+  {
+    "word": "קוֹרַת רוּחַ",
+    "level": 2,
+    "explanation": "נחת, סיפוק"
+  },
+  {
+    "word": "ַקִיק",
+    "level": 2,
+    "explanation": "קיק, צמח"
+  },
+  {
+    "word": "קֶסֶת",
+    "level": 2,
+    "explanation": "קסת, קלמר דיו"
+  },
+  {
+    "word": "קָפַץ",
+    "level": 2,
+    "explanation": "קפץ, זינק, מיהר"
+  },
+  {
+    "word": "קָפַץ אֶת יָדוֹ",
+    "level": 2,
+    "explanation": "נמנע מלתת, קמץ"
+  },
+  {
+    "word": "קָרוּא",
+    "level": 2,
+    "explanation": "מוזמן, נקרא"
+  },
+  {
+    "word": "קְשֵׁה עוֹרֶף",
+    "level": 2,
+    "explanation": "עיקש, לא מוותר"
+  },
+  {
+    "word": "רַאַוְותָן",
+    "level": 2,
+    "explanation": "ראוותן, מי שאוהב הצגה"
+  },
+  {
+    "word": "רֶגֶב",
+    "level": 2,
+    "explanation": "גוש אדמה, רגב"
+  },
+  {
+    "word": "רְדִיד",
+    "level": 2,
+    "explanation": "רדיד, בד דק ועדין"
+  },
+  {
+    "word": "רוֹבֶד",
+    "level": 2,
+    "explanation": "רובד, שכבה, מישור"
+  },
+  {
+    "word": "רָווּי",
+    "level": 2,
+    "explanation": "רווי, מלא, שבע"
+  },
+  {
+    "word": "רֶכֶס",
+    "level": 2,
+    "explanation": "רכס, שרשרת הרים"
+  },
+  {
+    "word": "רִפְיוֹן יָדַיִּם",
+    "level": 2,
+    "explanation": "הרפיית ידיים, חוסר פעולה"
+  },
+  {
+    "word": "רִפְיוֹן רוּחַ",
+    "level": 2,
+    "explanation": "ייאוש, חוסר רצון"
+  },
+  {
+    "word": "רִתְמָה",
+    "level": 2,
+    "explanation": "רתמה, רתם לעגלה"
+  },
+  {
+    "word": "שְׁבָב",
+    "level": 2,
+    "explanation": "שבב, פסולת גילוף"
+  },
+  {
+    "word": "שַׁבְשֶׁבֶת",
+    "level": 2,
+    "explanation": "גלגלת רוח, שבשבת"
+  },
+  {
+    "word": "שִׁגְעוֹן גַּדְלוּת",
+    "level": 2,
+    "explanation": "מגלומניה, יהירות מוגזמת"
+  },
+  {
+    "word": "שְׁדֵמָה",
+    "level": 2,
+    "explanation": "שדמה, שדה יבש"
+  },
+  {
+    "word": "שׁוֹקֶת",
+    "level": 2,
+    "explanation": "שוקת, אבוס מים"
+  },
+  {
+    "word": "שִׁיסּוּי",
+    "level": 2,
+    "explanation": "שיסוי, הסתה"
+  },
+  {
+    "word": "שָׁלַט בְּרוּחוֹ",
+    "level": 2,
+    "explanation": "שלט ביצריו, ריסן עצמו"
+  },
+  {
+    "word": "שִׁעֲרוּך",
+    "level": 2,
+    "explanation": "שיערוך, הערכה כלכלית"
+  },
+  {
+    "word": "שִׁרְבּוּט",
+    "level": 2,
+    "explanation": "שרבוט, כתיבה בלתי מסודרת"
+  },
+  {
+    "word": "תָּאֵב",
+    "level": 2,
+    "explanation": "תאב, להוט, תאוותן"
+  },
+  {
+    "word": "תַּגְּרָן",
+    "level": 2,
+    "explanation": "תגרן, סוחר"
+  },
+  {
+    "word": "תּוֹחֶלֶת חַיִים",
+    "level": 2,
+    "explanation": "תוחלת חיים, גיל ממוצע"
+  },
+  {
+    "word": "ֵתַח",
+    "level": 2,
+    "explanation": "פתח, כניסה"
+  },
+  {
+    "word": "תְּלוּלִית",
+    "level": 2,
+    "explanation": "גבעה קטנה, תלולית"
+  },
+  {
+    "word": "ָא",
+    "level": 3,
+    "explanation": "אבי, אב"
+  },
+  {
+    "word": "אֲבוּקָה",
+    "level": 3,
+    "explanation": "לפיד, אש על מוט"
+  },
+  {
+    "word": "אֶבֶן מַשְׁחֶזֶת",
+    "level": 3,
+    "explanation": "אבן לחידוד סכינים"
+  },
+  {
+    "word": "אֶגֶד",
+    "level": 3,
+    "explanation": "אגד, חבילה"
+  },
+  {
+    "word": "אֵגֶל",
+    "level": 3,
+    "explanation": "אגל, ניצנץ"
+  },
+  {
+    "word": "אָהִיל",
+    "level": 3,
+    "explanation": "פרגולה, כיסוי"
+  },
+  {
+    "word": "אוֹבְּיֶקְטִיבִי",
+    "level": 3,
+    "explanation": "אובייקטיבי, לא מוטה"
+  },
+  {
+    "word": "אוּמְדָן",
+    "level": 3,
+    "explanation": "הערכה, אומדן"
+  },
+  {
+    "word": "אוֹרְחָה",
+    "level": 3,
+    "explanation": "שיירה, קבוצת נוסעים"
+  },
+  {
+    "word": "אוֹרְלוֹגִין",
+    "level": 3,
+    "explanation": "שעון, שעון קיר"
+  },
+  {
+    "word": "אָחוּז אֵימָה",
+    "level": 3,
+    "explanation": "אחוז פחד, נבהל"
+  },
+  {
+    "word": "ָאִין",
+    "level": 3,
+    "explanation": "אין, לא קיים"
+  },
+  {
+    "word": "אָכַף",
+    "level": 3,
+    "explanation": "אכף, כפה קיום"
+  },
+  {
+    "word": "אָפִיק",
+    "level": 3,
+    "explanation": "אפיק, נחל"
+  },
+  {
+    "word": "אָפַס",
+    "level": 3,
+    "explanation": "אפס, נגמר, אזל"
+  },
+  {
+    "word": "בָּא עַל שְׂכָרוֹ",
+    "level": 3,
+    "explanation": "קיבל שכר ראוי"
+  },
+  {
+    "word": "בּוֹסֵס",
+    "level": 3,
+    "explanation": "בסס, רמס ודרס"
+  },
+  {
+    "word": "בָּזָק",
+    "level": 3,
+    "explanation": "ברק, מהיר"
+  },
+  {
+    "word": "בְּחַדְרֵי חֲדָרִים",
+    "level": 3,
+    "explanation": "בסתר, בחשאי"
+  },
+  {
+    "word": "בִּיעוּת",
+    "level": 3,
+    "explanation": "בעיתה, פחד, בהלה"
+  },
+  {
+    "word": "בִּיעָף",
+    "level": 3,
+    "explanation": "מהר מאוד"
+  },
+  {
+    "word": "בֵּית מֶרְחָץ",
+    "level": 3,
+    "explanation": "אמבטיה ציבורית, חמאם"
+  },
+  {
+    "word": "ִבְצַר מִמֶנּוּ",
+    "level": 3,
+    "explanation": "לא יכול לעשות זאת"
+  },
+  {
+    "word": "בַּר",
+    "level": 3,
+    "explanation": "בר, שדה, פתוח"
+  },
+  {
+    "word": "בַּר- שְׁפִיטָה",
+    "level": 3,
+    "explanation": "ניתן לשפוט, בשל לדין"
+  },
+  {
+    "word": "בְּרִיּוֹת",
+    "level": 3,
+    "explanation": "בריות, יצורים, בני אדם"
+  },
+  {
+    "word": "בְּרִיחַ",
+    "level": 3,
+    "explanation": "בריח, נעל"
+  },
+  {
+    "word": "בְּשׁוֹגֵג",
+    "level": 3,
+    "explanation": "בשגגה, ללא כוונה"
+  },
+  {
+    "word": "גּוֹרֶן",
+    "level": 3,
+    "explanation": "גורן, מקום לדיש תבואה"
+  },
+  {
+    "word": "גָחַן",
+    "level": 3,
+    "explanation": "גחן, כרע, התכופף"
+  },
+  {
+    "word": "גַּלָב",
+    "level": 3,
+    "explanation": "ספר, גלב"
+  },
+  {
+    "word": "גַּמְלוִֹי",
+    "level": 3,
+    "explanation": "גמלאי, פנסיונר"
+  },
+  {
+    "word": "גֵּץ",
+    "level": 3,
+    "explanation": "ניצוץ אש"
+  },
+  {
+    "word": "גֶּשֶׁם זַלְעָפוֹת",
+    "level": 3,
+    "explanation": "גשם זלעפות, סופת גשמים"
+  },
+  {
+    "word": "דּוּמָם",
+    "level": 3,
+    "explanation": "דומם, חפץ"
+  },
+  {
+    "word": "דִידָה",
+    "level": 3,
+    "explanation": "דידה, שרשרת"
+  },
+  {
+    "word": "דָּלִיל",
+    "level": 3,
+    "explanation": "דליל, דק, דלוח"
+  },
+  {
+    "word": "דִמְעוֹת תַנִּין",
+    "level": 3,
+    "explanation": "דמעות תנין, בכי מזויף"
+  },
+  {
+    "word": "דֶּשֶׁן",
+    "level": 3,
+    "explanation": "דשן, פסולת שריפה, חומר דישן"
+  },
+  {
+    "word": "הִדִּיחַ",
+    "level": 3,
+    "explanation": "הדיח, הרחיק, שלח"
+  },
+  {
+    "word": "הַדְרָן",
+    "level": 3,
+    "explanation": "פרק חוזר, עוד פרק"
+  },
+  {
+    "word": "הוֹגִיעַ",
+    "level": 3,
+    "explanation": "הוגיע, עייף, הביא ליגיעה"
+  },
+  {
+    "word": "הִזְלִיף",
+    "level": 3,
+    "explanation": "הזליף, טפטף"
+  },
+  {
+    "word": "הִטִּיל אֶת חִתּוֹ / חִתָּתוֹ",
+    "level": 3,
+    "explanation": "הטיל אימה, הפחיד"
+  },
+  {
+    "word": "הֵטִיל מוֹרָא",
+    "level": 3,
+    "explanation": "הטיל פחד ואימה"
+  },
+  {
+    "word": "ְהִירָה",
+    "level": 3,
+    "explanation": "הירה, ייחוסי"
+  },
+  {
+    "word": "הָלַ רָכִיל",
+    "level": 3,
+    "explanation": "הלך רכיל, רכל"
+  },
+  {
+    "word": "הִלְאִים",
+    "level": 3,
+    "explanation": "הלאים, עייף מאוד"
+  },
+  {
+    "word": "הָלַך שְׁבִי",
+    "level": 3,
+    "explanation": "הולש שבי, נשבה"
+  },
+  {
+    "word": "הָלַך שׁוֹלַל",
+    "level": 3,
+    "explanation": "הולל, הוטעה"
+  },
+  {
+    "word": "הִלְעִיט",
+    "level": 3,
+    "explanation": "הלעיט, האכיל בכמות"
+  },
+  {
+    "word": "הֵמִיר",
+    "level": 3,
+    "explanation": "המיר, החליף"
+  },
+  {
+    "word": "הֵמֵס",
+    "level": 3,
+    "explanation": "הוריד מחיר, ריצה"
+  },
+  {
+    "word": "הֵסֵב",
+    "level": 3,
+    "explanation": "הסב, הפנה"
+  },
+  {
+    "word": "הֶעְפִּיל",
+    "level": 3,
+    "explanation": "עלה בסתר, פרץ"
+  },
+  {
+    "word": "הִפְצִיר",
+    "level": 3,
+    "explanation": "הפציר, ביקש בתחנונים"
+  },
+  {
+    "word": "הִפְקִיעַ",
+    "level": 3,
+    "explanation": "הפקיע, לקח בכוח"
+  },
+  {
+    "word": "הֵפֵר",
+    "level": 3,
+    "explanation": "הפר, ביטל, עבר"
+  },
+  {
+    "word": "הִצְטַנֵּף",
+    "level": 3,
+    "explanation": "התכסה, עטף עצמו"
+  },
+  {
+    "word": "הִקְ ִיט",
+    "level": 3,
+    "explanation": "הקיא, הוריד"
+  },
+  {
+    "word": "הֵקִיץ הַקֵץ",
+    "level": 3,
+    "explanation": "הסתיים, בא הסוף"
+  },
+  {
+    "word": "הִרְעִיף",
+    "level": 3,
+    "explanation": "הרעיף, שפך בשפע"
+  },
+  {
+    "word": "הִרְפָּה",
+    "level": 3,
+    "explanation": "הרפה, ויתר, שחרר"
+  },
+  {
+    "word": "הִשִּׂיא עֵצָה",
+    "level": 3,
+    "explanation": "נתן עצה, ייעץ"
+  },
+  {
+    "word": "הִשְׁרָה",
+    "level": 3,
+    "explanation": "השרה, ספג"
+  },
+  {
+    "word": "הִשְׁתַּיֵּר",
+    "level": 3,
+    "explanation": "נשאר, שאר"
+  },
+  {
+    "word": "הִשְׁתַּעְבֵּד",
+    "level": 3,
+    "explanation": "השתעבד, הפך לעבד"
+  },
+  {
+    "word": "הִתְאַבֵּק בַּעֲפַר רַגְלָיו",
+    "level": 3,
+    "explanation": "למד לרגלי מורה"
+  },
+  {
+    "word": "הִתִּי",
+    "level": 3,
+    "explanation": "התיר, פתח קשר"
+  },
+  {
+    "word": "הִתְיַמֵּר",
+    "level": 3,
+    "explanation": "התייהר, הציג עצמו"
+  },
+  {
+    "word": "הִתְלַקֵּחַ",
+    "level": 3,
+    "explanation": "התלקח, עלה באש"
+  },
+  {
+    "word": "הִתְעַשֵּׁת",
+    "level": 3,
+    "explanation": "נזכר, שב לעצמו"
+  },
+  {
+    "word": "הִתְפִּיל",
+    "level": 3,
+    "explanation": "התפיל, תלה תפילין"
+  },
+  {
+    "word": "הִתְקַנֵּא",
+    "level": 3,
+    "explanation": "התקנא, היה מקנא"
+  },
+  {
+    "word": "הִתְרַבְרֵב",
+    "level": 3,
+    "explanation": "התרברב, התגאה"
+  },
+  {
+    "word": "הִתְרַעֵם",
+    "level": 3,
+    "explanation": "התרעם, הביע כעס"
+  },
+  {
+    "word": "וּגֶה",
+    "level": 3,
+    "explanation": "צחוק, שחוק"
+  },
+  {
+    "word": "זַאֲטוּט",
+    "level": 3,
+    "explanation": "ילד קטן"
+  },
+  {
+    "word": "זְחוּחַ",
+    "level": 3,
+    "explanation": "זחוח, יהיר"
+  },
+  {
+    "word": "זִיקּוּק",
+    "level": 3,
+    "explanation": "זיקוק, ניקוי"
+  },
+  {
+    "word": "זַך",
+    "level": 3,
+    "explanation": "זך, טהור, נקי"
+  },
+  {
+    "word": "זִכּוּך",
+    "level": 3,
+    "explanation": "זיכוך, ניקוי"
+  },
+  {
+    "word": "זָרָה",
+    "level": 3,
+    "explanation": "זרה, זרקה"
+  },
+  {
+    "word": "זָרָה אֲבָק / חוֹל בַּעֵיַיִים",
+    "level": 3,
+    "explanation": "ביטוי: הטעה, סנוור עיניים"
+  },
+  {
+    "word": "חוֹשֶׁ  מִצְרַיִם",
+    "level": 3,
+    "explanation": "חושך כבד ועמוק"
+  },
+  {
+    "word": "חַיִּץ",
+    "level": 3,
+    "explanation": "מחיצה, גדר"
+  },
+  {
+    "word": "חִישֵּׁל",
+    "level": 3,
+    "explanation": "חישל, הקשה, אימן"
+  },
+  {
+    "word": "חֲפִיר",
+    "level": 3,
+    "explanation": "חפיר, תעלה"
+  },
+  {
+    "word": "חֵרֵף ַפְשוֹ",
+    "level": 3,
+    "explanation": "סיכן נפשו"
+  },
+  {
+    "word": "חֶרְפָּה",
+    "level": 3,
+    "explanation": "חרפה, בושה"
+  },
+  {
+    "word": "חֶשְׁבּוִֹיָּה",
+    "level": 3,
+    "explanation": "חשבונאות, ניהול חשבונות"
+  },
+  {
+    "word": "חַתְ ָרוּת",
+    "level": 3,
+    "explanation": "חתרנות, פעילות נגד הממסד"
+  },
+  {
+    "word": "ָטָה חֶסֶד",
+    "level": 3,
+    "explanation": "עשה חסד, גמל חסד"
+  },
+  {
+    "word": "טָחוּב",
+    "level": 3,
+    "explanation": "טחוב, לח, ממוגג"
+  },
+  {
+    "word": "טָמַן ראשׁוֹ בַּחוֹל",
+    "level": 3,
+    "explanation": "התעלם, התכחש"
+  },
+  {
+    "word": "טֶרָסָה",
+    "level": 3,
+    "explanation": "טרסה, מרפסת"
+  },
+  {
+    "word": "יָהִיר",
+    "level": 3,
+    "explanation": "יהיר, מתנשא"
+  },
+  {
+    "word": "יְחִידֵי סְגוּלָה",
+    "level": 3,
+    "explanation": "מעטים מובחרים"
+  },
+  {
+    "word": "יְלוּדָה",
+    "level": 3,
+    "explanation": "לידה, ילודה"
+  },
+  {
+    "word": "ִים וְלָא ִים",
+    "level": 3,
+    "explanation": "לא מחליט, מהסס"
+  },
+  {
+    "word": "יָצָא מִכֵּלָיו",
+    "level": 3,
+    "explanation": "כעס מאוד, יצא מדעתו"
+  },
+  {
+    "word": "יֶקֶב",
+    "level": 3,
+    "explanation": "יקב, מפעל יין"
+  },
+  {
+    "word": "יְקַר הַמְּצִיאוּת",
+    "level": 3,
+    "explanation": "נדיר, קשה למצוא"
+  },
+  {
+    "word": "יְשִׁימוֹן",
+    "level": 3,
+    "explanation": "מדבר, שממה"
+  },
+  {
+    "word": "יָשִׁישׁ",
+    "level": 3,
+    "explanation": "זקן, מבוגר מאוד"
+  },
+  {
+    "word": "כִּיכָּר",
+    "level": 3,
+    "explanation": "ככר, לחם עגול"
+  },
+  {
+    "word": "כָּלִיל",
+    "level": 3,
+    "explanation": "שלם, מושלם לחלוטין"
+  },
+  {
+    "word": "כְּלִימָה",
+    "level": 3,
+    "explanation": "כלימה, בושה"
+  },
+  {
+    "word": "כָּמוּש",
+    "level": 3,
+    "explanation": "כמוש, שעמום"
+  },
+  {
+    "word": "ִלְאֶה",
+    "level": 3,
+    "explanation": "לאה, עייפה"
+  },
+  {
+    "word": "לְבָָה",
+    "level": 3,
+    "explanation": "לבנה, ירח"
+  },
+  {
+    "word": "לְמוֹתָר",
+    "level": 3,
+    "explanation": "מיותר, לא נחוץ"
+  },
+  {
+    "word": "מבוֹאָר",
+    "level": 3,
+    "explanation": "מובהר, מוסבר"
+  },
+  {
+    "word": "מַגְבִּית",
+    "level": 3,
+    "explanation": "מגבית, גיוס כספי"
+  },
+  {
+    "word": "מַהְבִּיל",
+    "level": 3,
+    "explanation": "מהביל, מאדים"
+  },
+  {
+    "word": "מָהַל",
+    "level": 3,
+    "explanation": "מהל, דילל"
+  },
+  {
+    "word": "ְמוּך רוּחַ",
+    "level": 3,
+    "explanation": "ענוותן, שפל רוח"
+  },
+  {
+    "word": "מֵזַח",
+    "level": 3,
+    "explanation": "מזח, רציף, אגן"
+  },
+  {
+    "word": "מֵחוּשִׁים",
+    "level": 3,
+    "explanation": "מחושים, תחושות"
+  },
+  {
+    "word": "מַחֲלוֹקֶת",
+    "level": 3,
+    "explanation": "מחלוקת, ויכוח"
+  },
+  {
+    "word": "מַחְלָצוֹת",
+    "level": 3,
+    "explanation": "מחלצות, בגדים יפים"
+  },
+  {
+    "word": "מַטְפֶּה",
+    "level": 3,
+    "explanation": "מטף, גרזן"
+  },
+  {
+    "word": "מֵי תְּהוֹם",
+    "level": 3,
+    "explanation": "מי תהום, מים עמוקים"
+  },
+  {
+    "word": "מְיוֹעָר",
+    "level": 3,
+    "explanation": "מיוער, עמוס, ידועים"
+  },
+  {
+    "word": "ִמְיָן",
+    "level": 3,
+    "explanation": "סיווג, מיון"
+  },
+  {
+    "word": "מַכּוֹשׁ",
+    "level": 3,
+    "explanation": "מכוש, כלי חפירה"
+  },
+  {
+    "word": "מַעֲגָן",
+    "level": 3,
+    "explanation": "מעגן, נמל, עוגן"
+  },
+  {
+    "word": "מָעַל",
+    "level": 3,
+    "explanation": "מעל, בגד, עשה מעילה"
+  },
+  {
+    "word": "מִפְתָּן",
+    "level": 3,
+    "explanation": "מפתן, סף הדלת"
+  },
+  {
+    "word": "מַקְצֵרָה",
+    "level": 3,
+    "explanation": "מקצרה, כלי גיזום"
+  },
+  {
+    "word": "מַרְבָד",
+    "level": 3,
+    "explanation": "מרבד, שטיח"
+  },
+  {
+    "word": "מִשְׁעֶֶת  ָקֶה רָצוּץ",
+    "level": 3,
+    "explanation": "קנה רצוץ, כבר שבור"
+  },
+  {
+    "word": "מַתְבֵּן",
+    "level": 3,
+    "explanation": "מחסן קש"
+  },
+  {
+    "word": "סָבוּ",
+    "level": 3,
+    "explanation": "סבו, סבים, זקנים"
+  },
+  {
+    "word": "סוֹכֵ",
+    "level": 3,
+    "explanation": "סוכך, מגן"
+  },
+  {
+    "word": "סִיכֵּל",
+    "level": 3,
+    "explanation": "סיכל, מנע הצלחה"
+  },
+  {
+    "word": "סָר חִיוֹ",
+    "level": 3,
+    "explanation": "נאנח, כאב"
+  },
+  {
+    "word": "סָתוּר",
+    "level": 3,
+    "explanation": "סתור, פרום"
+  },
+  {
+    "word": "עָבִיט",
+    "level": 3,
+    "explanation": "עביט, כלי שתן"
+  },
+  {
+    "word": "עֶגְלוֹן",
+    "level": 3,
+    "explanation": "עגלון, נהג עגלה"
+  },
+  {
+    "word": "עוֹ ל",
+    "level": 3,
+    "explanation": "עולם, יקום"
+  },
+  {
+    "word": "עִישֵּׂב",
+    "level": 3,
+    "explanation": "עישב, ניקה עשבים"
+  },
+  {
+    "word": "עַל רֶגֶל אַחַת",
+    "level": 3,
+    "explanation": "בקצרה, בסיכום"
+  },
+  {
+    "word": "עָלַב",
+    "level": 3,
+    "explanation": "עלב, פגע ברגשות"
+  },
+  {
+    "word": "עָמַד עַל טִיבוֹ",
+    "level": 3,
+    "explanation": "בדק ובחן טיבו"
+  },
+  {
+    "word": "עֲקַלְקָל",
+    "level": 3,
+    "explanation": "עקלקל, עקום ומפותל"
+  },
+  {
+    "word": "עֲרוּגָה",
+    "level": 3,
+    "explanation": "ערוגה, חלקת גינה"
+  },
+  {
+    "word": "פּוֹרֶה",
+    "level": 3,
+    "explanation": "פורה, מפיק, יוצר הרבה"
+  },
+  {
+    "word": "פְּלָצוּר",
+    "level": 3,
+    "explanation": "פלצור, אכזרי"
+  },
+  {
+    "word": "פְּתַלְתְּל",
+    "level": 3,
+    "explanation": "פתלתל, מסלסל"
+  },
+  {
+    "word": "צִי",
+    "level": 3,
+    "explanation": "צי, ספינות"
+  },
+  {
+    "word": "ְצִים",
+    "level": 3,
+    "explanation": "ציים, אניות"
+  },
+  {
+    "word": "צִיר",
+    "level": 3,
+    "explanation": "ציר, מפרק"
+  },
+  {
+    "word": "ָצַר אֶת לְשׁוֹוֹ / פִּיו",
+    "level": 3,
+    "explanation": "שמר פיו, לא דיבר"
+  },
+  {
+    "word": "ִקְבָּה",
+    "level": 3,
+    "explanation": "קיבה, בטן"
+  },
+  {
+    "word": "ַקְבּוּבִית",
+    "level": 3,
+    "explanation": "קבבית, עגול קטן"
+  },
+  {
+    "word": "קוֹצֶר רוּחַ",
+    "level": 3,
+    "explanation": "חוסר סבלנות"
+  },
+  {
+    "word": "קִידָּה",
+    "level": 3,
+    "explanation": "קידה, השתחוויה"
+  },
+  {
+    "word": "קֶלַח",
+    "level": 3,
+    "explanation": "קלח, גבעול"
+  },
+  {
+    "word": "קְלִישָאַה / קְלִישָה",
+    "level": 3,
+    "explanation": "קלישאה, ביטוי שחוק"
+  },
+  {
+    "word": "קָמִין",
+    "level": 3,
+    "explanation": "קמין, תנור אח"
+  },
+  {
+    "word": "קְשֵׁה לֵב",
+    "level": 3,
+    "explanation": "קשה לב, אכזרי"
+  },
+  {
+    "word": "רוֹחַב יָד / לֵב",
+    "level": 3,
+    "explanation": "נדיבות, לב רחב"
+  },
+  {
+    "word": "רִיפָּה אֶת יָדָיו",
+    "level": 3,
+    "explanation": "הרפה ידיו, פסיבי"
+  },
+  {
+    "word": "שְׂבָכָה",
+    "level": 3,
+    "explanation": "שבכה, רשת"
+  },
+  {
+    "word": "שַׁבְרִיר",
+    "level": 3,
+    "explanation": "שבר קטן, פגם קל"
+  },
+  {
+    "word": "שִׁדֵּל",
+    "level": 3,
+    "explanation": "שידל, שכנע"
+  },
+  {
+    "word": "שׁוֹבָ",
+    "level": 3,
+    "explanation": "שובה, שוב"
+  },
+  {
+    "word": "שָׁחוּק",
+    "level": 3,
+    "explanation": "שחוק, מבולה"
+  },
+  {
+    "word": "שִׁחֵת",
+    "level": 3,
+    "explanation": "שיחת, הרס"
+  },
+  {
+    "word": "שִׁיכּוּך",
+    "level": 3,
+    "explanation": "שיכוך, הפחתת כאב"
+  },
+  {
+    "word": "שִׁכְתּוּב",
+    "level": 3,
+    "explanation": "שכתוב, כתיבה מחדש"
+  },
+  {
+    "word": "שִׁלְהֵי",
+    "level": 3,
+    "explanation": "שלהי, קצה, סוף"
+  },
+  {
+    "word": "שָׁלַח יָד בְּ ַפְשוֹ",
+    "level": 3,
+    "explanation": "ניסה להתאבד"
+  },
+  {
+    "word": "שִׂמְחָה לְאֵיד",
+    "level": 3,
+    "explanation": "שמחה לרעת זולת"
+  },
+  {
+    "word": "שָׁפָל",
+    "level": 3,
+    "explanation": "שפל, נמוך, ירוד"
+  },
+  {
+    "word": "שַׁרְלְטָן",
+    "level": 3,
+    "explanation": "שרלטן, נוכל"
+  },
+  {
+    "word": "תֶּבֶן",
+    "level": 3,
+    "explanation": "שם תואר/עצם: תֶּבֶן"
+  },
+  {
+    "word": "תָּדִיר",
+    "level": 3,
+    "explanation": "מילה עברית: תָּדִיר"
+  },
+  {
+    "word": "תִּיעוּב",
+    "level": 3,
+    "explanation": "מילה עברית: תִּיעוּב"
+  },
+  {
+    "word": "תַּסְמִין",
+    "level": 3,
+    "explanation": "שם תואר/עצם: תַּסְמִין"
+  },
+  {
+    "word": "תִּפְרַחַת",
+    "level": 3,
+    "explanation": "מילה עברית: תִּפְרַחַת"
+  },
+  {
+    "word": "תַּתְרָן",
+    "level": 3,
+    "explanation": "שם תואר/עצם: תַּתְרָן"
+  },
+  {
+    "word": "אֶבְרָה",
+    "level": 4,
+    "explanation": "שם עצם: אֶבְרָה"
+  },
+  {
+    "word": "אַדְוָה",
+    "level": 4,
+    "explanation": "שם עצם: אַדְוָה"
+  },
+  {
+    "word": "אִוְושָׁה",
+    "level": 4,
+    "explanation": "אוושה, קול רחש"
+  },
+  {
+    "word": "אָזְלַת יָד",
+    "level": 4,
+    "explanation": "ביטוי: אָזְלַת יָד"
+  },
+  {
+    "word": "אֲחִיזַת עֵיַיִים",
+    "level": 4,
+    "explanation": "ביטוי: אֲחִיזַת עֵיַיִים"
+  },
+  {
+    "word": "אֵיכָה?",
+    "level": 4,
+    "explanation": "מילה עברית: אֵיכָה?"
+  },
+  {
+    "word": "אִיכּוּל",
+    "level": 4,
+    "explanation": "מילה עברית: אִיכּוּל"
+  },
+  {
+    "word": "אִימּוּם",
+    "level": 4,
+    "explanation": "שם תואר/עצם: אִימּוּם"
+  },
+  {
+    "word": "אֵיפָה וְאֵיפָה",
+    "level": 4,
+    "explanation": "ביטוי לאי-שוויון"
+  },
+  {
+    "word": "אֵיתָן",
+    "level": 4,
+    "explanation": "איתן, חזק"
+  },
+  {
+    "word": "אֵיתָן בְּדַעְתוֹ",
+    "level": 4,
+    "explanation": "ביטוי: אֵיתָן בְּדַעְתוֹ"
+  },
+  {
+    "word": "אָמַד",
+    "level": 4,
+    "explanation": "אמד, העריך"
+  },
+  {
+    "word": "אַמַּת מַיִם",
+    "level": 4,
+    "explanation": "ביטוי: אַמַּת מַיִם"
+  },
+  {
+    "word": "אֲפַרְכֶּסֶת",
+    "level": 4,
+    "explanation": "מילה עברית: אֲפַרְכֶּסֶת"
+  },
+  {
+    "word": "אִצְטַבָּה",
+    "level": 4,
+    "explanation": "שם עצם: אִצְטַבָּה"
+  },
+  {
+    "word": "אֲָקָה",
+    "level": 4,
+    "explanation": "מילה עברית: אֲָקָה"
+  },
+  {
+    "word": "אַרְכָּה",
+    "level": 4,
+    "explanation": "שם עצם: אַרְכָּה"
+  },
+  {
+    "word": "בְּדִיעֲבַד",
+    "level": 4,
+    "explanation": "מילה עברית: בְּדִיעֲבַד"
+  },
+  {
+    "word": "בּוּר",
+    "level": 4,
+    "explanation": "בור, בור מים"
+  },
+  {
+    "word": "בּוּר  )וְעַם הָאָרֶץ (",
+    "level": 4,
+    "explanation": "ביטוי: בּוּר  )וְעַם הָאָרֶץ ("
+  },
+  {
+    "word": "בֵּיבָר",
+    "level": 4,
+    "explanation": "מילה עברית: בֵּיבָר"
+  },
+  {
+    "word": "בְּכִי תַּמְרוּרִים",
+    "level": 4,
+    "explanation": "ביטוי: בְּכִי תַּמְרוּרִים"
+  },
+  {
+    "word": "בֶּכֶר",
+    "level": 4,
+    "explanation": "מילה עברית: בֶּכֶר"
+  },
+  {
+    "word": "בִּמְשוּרָה",
+    "level": 4,
+    "explanation": "שם עצם: בִּמְשוּרָה"
+  },
+  {
+    "word": "בָּעֲרָה חֲמָתוֹ",
+    "level": 4,
+    "explanation": "ביטוי: בָּעֲרָה חֲמָתוֹ"
+  },
+  {
+    "word": "בַּר- כִּבּוּשׁ",
+    "level": 4,
+    "explanation": "ביטוי: בַּר- כִּבּוּשׁ"
+  },
+  {
+    "word": "גֵּאוּת",
+    "level": 4,
+    "explanation": "שם עצם: גֵּאוּת"
+  },
+  {
+    "word": "גִּבֵּב",
+    "level": 4,
+    "explanation": "מילה עברית: גִּבֵּב"
+  },
+  {
+    "word": "גָּדִיד",
+    "level": 4,
+    "explanation": "מילה עברית: גָּדִיד"
+  },
+  {
+    "word": "גוּמְחָה",
+    "level": 4,
+    "explanation": "שם עצם: גוּמְחָה"
+  },
+  {
+    "word": "גִּידֵּף",
+    "level": 4,
+    "explanation": "מילה עברית: גִּידֵּף"
+  },
+  {
+    "word": "גַלְעֶד",
+    "level": 4,
+    "explanation": "מילה עברית: גַלְעֶד"
+  },
+  {
+    "word": "דָּווּי",
+    "level": 4,
+    "explanation": "שם תואר/עצם: דָּווּי"
+  },
+  {
+    "word": "דִּכְדּוּ",
+    "level": 4,
+    "explanation": "מילה עברית: דִּכְדּוּ"
+  },
+  {
+    "word": "דַּש",
+    "level": 4,
+    "explanation": "מילה עברית: דַּש"
+  },
+  {
+    "word": "דָּשׁ בַּעֲקֵבָיו",
+    "level": 4,
+    "explanation": "ביטוי: דָּשׁ בַּעֲקֵבָיו"
+  },
+  {
+    "word": "הֵ ִיא",
+    "level": 4,
+    "explanation": "ביטוי: הֵ ִיא"
+  },
+  {
+    "word": "הִ ְצִיעַ",
+    "level": 4,
+    "explanation": "ביטוי: הִ ְצִיעַ"
+  },
+  {
+    "word": "הֵאִיץ",
+    "level": 4,
+    "explanation": "פועל: הֵאִיץ"
+  },
+  {
+    "word": "הִגְלָה",
+    "level": 4,
+    "explanation": "פועל: הִגְלָה"
+  },
+  {
+    "word": "הַדְלִיף",
+    "level": 4,
+    "explanation": "פועל: הַדְלִיף"
+  },
+  {
+    "word": "הוָֹה",
+    "level": 4,
+    "explanation": "פועל: הוָֹה"
+  },
+  {
+    "word": "הוּעַם",
+    "level": 4,
+    "explanation": "פועל: הוּעַם"
+  },
+  {
+    "word": "הֶחְטִיא",
+    "level": 4,
+    "explanation": "פועל: הֶחְטִיא"
+  },
+  {
+    "word": "הָלַ עִמּוֹ בְּקֶרִי",
+    "level": 4,
+    "explanation": "ביטוי: הָלַ עִמּוֹ בְּקֶרִי"
+  },
+  {
+    "word": "הִלְבִּין פִָּים",
+    "level": 4,
+    "explanation": "ביטוי: הִלְבִּין פִָּים"
+  },
+  {
+    "word": "הֲלָצָה",
+    "level": 4,
+    "explanation": "פועל: הֲלָצָה"
+  },
+  {
+    "word": "הִסְבִּיר פִָּים",
+    "level": 4,
+    "explanation": "ביטוי: הִסְבִּיר פִָּים"
+  },
+  {
+    "word": "הִסְתּוֹדֵד",
+    "level": 4,
+    "explanation": "פועל: הִסְתּוֹדֵד"
+  },
+  {
+    "word": "הֶעְתִּיר",
+    "level": 4,
+    "explanation": "פועל: הֶעְתִּיר"
+  },
+  {
+    "word": "הֵצֵר צְעָדָיו",
+    "level": 4,
+    "explanation": "ביטוי: הֵצֵר צְעָדָיו"
+  },
+  {
+    "word": "הִקָּווּת",
+    "level": 4,
+    "explanation": "פועל: הִקָּווּת"
+  },
+  {
+    "word": "הִקְשָה אֶת לִיבּוֹ / עָרְפּוֹ",
+    "level": 4,
+    "explanation": "ביטוי: הִקְשָה אֶת לִיבּוֹ / עָרְפּוֹ"
+  },
+  {
+    "word": "הֶרֶף עַיִן",
+    "level": 4,
+    "explanation": "ביטוי: הֶרֶף עַיִן"
+  },
+  {
+    "word": "הִשְׁתַּנֵּק",
+    "level": 4,
+    "explanation": "פועל: הִשְׁתַּנֵּק"
+  },
+  {
+    "word": "הִתְוַדֵּעַ",
+    "level": 4,
+    "explanation": "פועל: הִתְוַדֵּעַ"
+  },
+  {
+    "word": "הִתְפַּלֵּשׁ",
+    "level": 4,
+    "explanation": "פועל: הִתְפַּלֵּשׁ"
+  },
+  {
+    "word": "הִתְרַפֵּס",
+    "level": 4,
+    "explanation": "פועל: הִתְרַפֵּס"
+  },
+  {
+    "word": "זָלַג",
+    "level": 4,
+    "explanation": "מילה עברית: זָלַג"
+  },
+  {
+    "word": "זָעוּם",
+    "level": 4,
+    "explanation": "שם תואר/עצם: זָעוּם"
+  },
+  {
+    "word": "זַרְזִיף",
+    "level": 4,
+    "explanation": "מילה עברית: זַרְזִיף"
+  },
+  {
+    "word": "חַבּוּרָה",
+    "level": 4,
+    "explanation": "שם עצם: חַבּוּרָה"
+  },
+  {
+    "word": "ֶחְוִָי",
+    "level": 4,
+    "explanation": "שם תואר/עצם: ֶחְוִָי"
+  },
+  {
+    "word": "חוּצוֹת",
+    "level": 4,
+    "explanation": "שם עצם: חוּצוֹת"
+  },
+  {
+    "word": "ְחוּשְתַּיִים",
+    "level": 4,
+    "explanation": "שם תואר/עצם: ְחוּשְתַּיִים"
+  },
+  {
+    "word": "חִיבּוּץ",
+    "level": 4,
+    "explanation": "מילה עברית: חִיבּוּץ"
+  },
+  {
+    "word": "חַלּוּק ַחַל",
+    "level": 4,
+    "explanation": "ביטוי: חַלּוּק ַחַל"
+  },
+  {
+    "word": "חַרְטוֹם",
+    "level": 4,
+    "explanation": "שם תואר/עצם: חַרְטוֹם"
+  },
+  {
+    "word": "חָשׁ",
+    "level": 4,
+    "explanation": "מילה עברית: חָשׁ"
+  },
+  {
+    "word": "חֲתִימַת שָׂפָם",
+    "level": 4,
+    "explanation": "ביטוי: חֲתִימַת שָׂפָם"
+  },
+  {
+    "word": "טָמִיר",
+    "level": 4,
+    "explanation": "מילה עברית: טָמִיר"
+  },
+  {
+    "word": "טָף",
+    "level": 4,
+    "explanation": "מילה עברית: טָף"
+  },
+  {
+    "word": "טַרְחָן",
+    "level": 4,
+    "explanation": "שם תואר/עצם: טַרְחָן"
+  },
+  {
+    "word": "יְבָבָה",
+    "level": 4,
+    "explanation": "שם עצם: יְבָבָה"
+  },
+  {
+    "word": "יְדִיד ֶפֶשׁ",
+    "level": 4,
+    "explanation": "ביטוי: יְדִיד ֶפֶשׁ"
+  },
+  {
+    "word": "ַיָּח",
+    "level": 4,
+    "explanation": "מילה עברית: ַיָּח"
+  },
+  {
+    "word": "ִיחוֹח",
+    "level": 4,
+    "explanation": "מילה עברית: ִיחוֹח"
+  },
+  {
+    "word": "יִלּוֹד",
+    "level": 4,
+    "explanation": "מילה עברית: יִלּוֹד"
+  },
+  {
+    "word": "יָצוּעַ",
+    "level": 4,
+    "explanation": "מילה עברית: יָצוּעַ"
+  },
+  {
+    "word": "יָרֵא",
+    "level": 4,
+    "explanation": "ירא, פחד"
+  },
+  {
+    "word": "יָרַד לַטִּמְיוֹן",
+    "level": 4,
+    "explanation": "ביטוי: יָרַד לַטִּמְיוֹן"
+  },
+  {
+    "word": "יְשׁוּעָה",
+    "level": 4,
+    "explanation": "שם עצם: יְשׁוּעָה"
+  },
+  {
+    "word": "ִיתֵּץ",
+    "level": 4,
+    "explanation": "מילה עברית: ִיתֵּץ"
+  },
+  {
+    "word": "כּוֵֹן",
+    "level": 4,
+    "explanation": "שם תואר/עצם: כּוֵֹן"
+  },
+  {
+    "word": "כִּחְכּוּחַ",
+    "level": 4,
+    "explanation": "מילה עברית: כִּחְכּוּחַ"
+  },
+  {
+    "word": "כִּיסוּפִים",
+    "level": 4,
+    "explanation": "שם תואר/עצם: כִּיסוּפִים"
+  },
+  {
+    "word": "כְּלָיָה",
+    "level": 4,
+    "explanation": "שם עצם: כְּלָיָה"
+  },
+  {
+    "word": "כְּמִיהָה",
+    "level": 4,
+    "explanation": "שם עצם: כְּמִיהָה"
+  },
+  {
+    "word": "ִ ְכַס בָּעֳבִי הַקוֹרָה",
+    "level": 4,
+    "explanation": "ביטוי: ִ ְכַס בָּעֳבִי הַקוֹרָה"
+  },
+  {
+    "word": "כְרוֹוֹלוֹגִי",
+    "level": 4,
+    "explanation": "שם תואר/עצם: כְרוֹוֹלוֹגִי"
+  },
+  {
+    "word": "כִּתֵּת אֶת רַגְלָיו",
+    "level": 4,
+    "explanation": "ביטוי: כִּתֵּת אֶת רַגְלָיו"
+  },
+  {
+    "word": "לַהַב",
+    "level": 4,
+    "explanation": "מילה עברית: לַהַב"
+  },
+  {
+    "word": "לָקָה",
+    "level": 4,
+    "explanation": "מילה עברית: לָקָה"
+  },
+  {
+    "word": "מְאוּבָּן",
+    "level": 4,
+    "explanation": "שם עצם: מְאוּבָּן"
+  },
+  {
+    "word": "מְבוֹאָה",
+    "level": 4,
+    "explanation": "שם עצם: מְבוֹאָה"
+  },
+  {
+    "word": "מַהַתַלָה",
+    "level": 4,
+    "explanation": "שם עצם: מַהַתַלָה"
+  },
+  {
+    "word": "מְזָוֶוה",
+    "level": 4,
+    "explanation": "שם עצם: מְזָוֶוה"
+  },
+  {
+    "word": "מְחִית",
+    "level": 4,
+    "explanation": "שם עצם: מְחִית"
+  },
+  {
+    "word": "מָחַל",
+    "level": 4,
+    "explanation": "מילה עברית: מָחַל"
+  },
+  {
+    "word": "מַחְצָב",
+    "level": 4,
+    "explanation": "שם עצם: מַחְצָב"
+  },
+  {
+    "word": "מַחְצָבָה",
+    "level": 4,
+    "explanation": "שם עצם: מַחְצָבָה"
+  },
+  {
+    "word": "מְטִיל",
+    "level": 4,
+    "explanation": "שם עצם: מְטִיל"
+  },
+  {
+    "word": "מַטָף",
+    "level": 4,
+    "explanation": "מילה עברית: מַטָף"
+  },
+  {
+    "word": "מִיכֵּן",
+    "level": 4,
+    "explanation": "שם עצם: מִיכֵּן"
+  },
+  {
+    "word": "מְכוָּף",
+    "level": 4,
+    "explanation": "שם עצם: מְכוָּף"
+  },
+  {
+    "word": "מַכּוֹת ֶאֱ ָמוֹת / ִמְרָצוֹת",
+    "level": 4,
+    "explanation": "ביטוי: מַכּוֹת ֶאֱ ָמוֹת / ִמְרָצוֹת"
+  },
+  {
+    "word": "מִכְסָה",
+    "level": 4,
+    "explanation": "שם עצם: מִכְסָה"
+  },
+  {
+    "word": "מַעֲטֶה",
+    "level": 4,
+    "explanation": "שם עצם: מַעֲטֶה"
+  },
+  {
+    "word": "מְפַעְפֵּעַ",
+    "level": 4,
+    "explanation": "שם עצם: מְפַעְפֵּעַ"
+  },
+  {
+    "word": "מַצְבִּיא",
+    "level": 4,
+    "explanation": "שם עצם: מַצְבִּיא"
+  },
+  {
+    "word": "מַקְרֵן",
+    "level": 4,
+    "explanation": "שם עצם: מַקְרֵן"
+  },
+  {
+    "word": "מִקְשָׁה",
+    "level": 4,
+    "explanation": "שם עצם: מִקְשָׁה"
+  },
+  {
+    "word": "מַרְזֵב",
+    "level": 4,
+    "explanation": "שם עצם: מַרְזֵב"
+  },
+  {
+    "word": "מַרְשֶה",
+    "level": 4,
+    "explanation": "שם עצם: מַרְשֶה"
+  },
+  {
+    "word": "מְשׁוּבָה",
+    "level": 4,
+    "explanation": "שם עצם: מְשׁוּבָה"
+  },
+  {
+    "word": "מְשׁוּבַת ְעוּרִים",
+    "level": 4,
+    "explanation": "ביטוי: מְשׁוּבַת ְעוּרִים"
+  },
+  {
+    "word": "מָשַׁח",
+    "level": 4,
+    "explanation": "מילה עברית: מָשַׁח"
+  },
+  {
+    "word": "מִשְׁלַח יָד",
+    "level": 4,
+    "explanation": "ביטוי: מִשְׁלַח יָד"
+  },
+  {
+    "word": "מִשְׁעוֹל",
+    "level": 4,
+    "explanation": "שם עצם: מִשְׁעוֹל"
+  },
+  {
+    "word": "מִשְׁתָּלָה",
+    "level": 4,
+    "explanation": "שם עצם: מִשְׁתָּלָה"
+  },
+  {
+    "word": "מִתְרָס",
+    "level": 4,
+    "explanation": "שם עצם: מִתְרָס"
+  },
+  {
+    "word": "ָס",
+    "level": 4,
+    "explanation": "מילה עברית: ָס"
+  },
+  {
+    "word": "סָבַב אוֹתוֹ בְּכַחַשׁ",
+    "level": 4,
+    "explanation": "ביטוי: סָבַב אוֹתוֹ בְּכַחַשׁ"
+  },
+  {
+    "word": "סוֹאֵן",
+    "level": 4,
+    "explanation": "שם תואר/עצם: סוֹאֵן"
+  },
+  {
+    "word": "סוּמָא",
+    "level": 4,
+    "explanation": "מילה עברית: סוּמָא"
+  },
+  {
+    "word": "סִיכָה",
+    "level": 4,
+    "explanation": "שם עצם: סִיכָה"
+  },
+  {
+    "word": "סִמְטָה",
+    "level": 4,
+    "explanation": "שם עצם: סִמְטָה"
+  },
+  {
+    "word": "סַף",
+    "level": 4,
+    "explanation": "מילה עברית: סַף"
+  },
+  {
+    "word": "סִפּוּן",
+    "level": 4,
+    "explanation": "שם תואר/עצם: סִפּוּן"
+  },
+  {
+    "word": "עוּל יָמִים",
+    "level": 4,
+    "explanation": "ביטוי: עוּל יָמִים"
+  },
+  {
+    "word": "עָָיו",
+    "level": 4,
+    "explanation": "מילה עברית: עָָיו"
+  },
+  {
+    "word": "עָכוּר",
+    "level": 4,
+    "explanation": "מילה עברית: עָכוּר"
+  },
+  {
+    "word": "עַל כַּרְעֵי תַּרְ ְגוֹלֶת",
+    "level": 4,
+    "explanation": "ביטוי: עַל כַּרְעֵי תַּרְ ְגוֹלֶת"
+  },
+  {
+    "word": "עַל מֵי מְ וּחוֹת",
+    "level": 4,
+    "explanation": "ביטוי: עַל מֵי מְ וּחוֹת"
+  },
+  {
+    "word": "עָלַץ",
+    "level": 4,
+    "explanation": "מילה עברית: עָלַץ"
+  },
+  {
+    "word": "עָמַד עַל דַּעְתוֹ",
+    "level": 4,
+    "explanation": "ביטוי: עָמַד עַל דַּעְתוֹ"
+  },
+  {
+    "word": "עִמְעוּם",
+    "level": 4,
+    "explanation": "שם תואר/עצם: עִמְעוּם"
+  },
+  {
+    "word": "עֲקֵב בְּצַד אֲגוּדָל",
+    "level": 4,
+    "explanation": "ביטוי: עֲקֵב בְּצַד אֲגוּדָל"
+  },
+  {
+    "word": "עָשָׂה שַׁמּוֹת",
+    "level": 4,
+    "explanation": "ביטוי: עָשָׂה שַׁמּוֹת"
+  },
+  {
+    "word": "פַּדַחַת",
+    "level": 4,
+    "explanation": "מילה עברית: פַּדַחַת"
+  },
+  {
+    "word": "פִּדְיוֹן",
+    "level": 4,
+    "explanation": "שם תואר/עצם: פִּדְיוֹן"
+  },
+  {
+    "word": "פּוֹשֵׁט יָד",
+    "level": 4,
+    "explanation": "ביטוי: פּוֹשֵׁט יָד"
+  },
+  {
+    "word": "פִּכְפּוּך",
+    "level": 4,
+    "explanation": "מילה עברית: פִּכְפּוּך"
+  },
+  {
+    "word": "ָפַל עַל אוֹזְַיים עֲרֵלוֹת",
+    "level": 4,
+    "explanation": "ביטוי: ָפַל עַל אוֹזְַיים עֲרֵלוֹת"
+  },
+  {
+    "word": "פִּסְגָּה",
+    "level": 4,
+    "explanation": "שם עצם: פִּסְגָּה"
+  },
+  {
+    "word": "פְּצִירָה",
+    "level": 4,
+    "explanation": "שם עצם: פְּצִירָה"
+  },
+  {
+    "word": "פְּרִימָה",
+    "level": 4,
+    "explanation": "שם עצם: פְּרִימָה"
+  },
+  {
+    "word": "פְּרַקְדָן",
+    "level": 4,
+    "explanation": "שם תואר/עצם: פְּרַקְדָן"
+  },
+  {
+    "word": "פָּשַׁט יָד",
+    "level": 4,
+    "explanation": "ביטוי: פָּשַׁט יָד"
+  },
+  {
+    "word": "פְּתִית",
+    "level": 4,
+    "explanation": "שם עצם: פְּתִית"
+  },
+  {
+    "word": "ִפְתָּל",
+    "level": 4,
+    "explanation": "מילה עברית: ִפְתָּל"
+  },
+  {
+    "word": "ִצָּב",
+    "level": 4,
+    "explanation": "מילה עברית: ִצָּב"
+  },
+  {
+    "word": "צַחֲָה",
+    "level": 4,
+    "explanation": "מילה עברית: צַחֲָה"
+  },
+  {
+    "word": "צָחִיחַ",
+    "level": 4,
+    "explanation": "מילה עברית: צָחִיחַ"
+  },
+  {
+    "word": "צִיטָטָה",
+    "level": 4,
+    "explanation": "שם עצם: צִיטָטָה"
+  },
+  {
+    "word": "צָלוּל",
+    "level": 4,
+    "explanation": "מילה עברית: צָלוּל"
+  },
+  {
+    "word": "צָפוּן",
+    "level": 4,
+    "explanation": "שם תואר/עצם: צָפוּן"
+  },
+  {
+    "word": "ָקָה  )לוֹ(  שְׁבִיתָה",
+    "level": 4,
+    "explanation": "ביטוי: ָקָה  )לוֹ(  שְׁבִיתָה"
+  },
+  {
+    "word": "קֵהֶה",
+    "level": 4,
+    "explanation": "מילה עברית: קֵהֶה"
+  },
+  {
+    "word": "קָטֵגוֹר",
+    "level": 4,
+    "explanation": "מילה עברית: קָטֵגוֹר"
+  },
+  {
+    "word": "ְקִי כַּפַּיִים",
+    "level": 4,
+    "explanation": "ביטוי: ְקִי כַּפַּיִים"
+  },
+  {
+    "word": "ִקְלֶה",
+    "level": 4,
+    "explanation": "מילה עברית: ִקְלֶה"
+  },
+  {
+    "word": "קְלִיָּה",
+    "level": 4,
+    "explanation": "שם עצם: קְלִיָּה"
+  },
+  {
+    "word": "קָמוּר",
+    "level": 4,
+    "explanation": "מילה עברית: קָמוּר"
+  },
+  {
+    "word": "ְקָפוֹ לִבּוֹ / מַצְפּוּוֹ",
+    "level": 4,
+    "explanation": "ביטוי: ְקָפוֹ לִבּוֹ / מַצְפּוּוֹ"
+  },
+  {
+    "word": "קָתֶדְרָה",
+    "level": 4,
+    "explanation": "שם עצם: קָתֶדְרָה"
+  },
+  {
+    "word": "רִדֵּד",
+    "level": 4,
+    "explanation": "מילה עברית: רִדֵּד"
+  },
+  {
+    "word": "רָדוּד",
+    "level": 4,
+    "explanation": "מילה עברית: רָדוּד"
+  },
+  {
+    "word": "רִיק",
+    "level": 4,
+    "explanation": "מילה עברית: רִיק"
+  },
+  {
+    "word": "רִקֵּעַ",
+    "level": 4,
+    "explanation": "מילה עברית: רִקֵּעַ"
+  },
+  {
+    "word": "רָתַח",
+    "level": 4,
+    "explanation": "מילה עברית: רָתַח"
+  },
+  {
+    "word": "שְׁאָר רוּחַ",
+    "level": 4,
+    "explanation": "ביטוי: שְׁאָר רוּחַ"
+  },
+  {
+    "word": "שְׁבִיתַת ֶשֶׁק",
+    "level": 4,
+    "explanation": "ביטוי: שְׁבִיתַת ֶשֶׁק"
+  },
+  {
+    "word": "ִשְׂגָב מִבִּיָתוֹ",
+    "level": 4,
+    "explanation": "ביטוי: ִשְׂגָב מִבִּיָתוֹ"
+  },
+  {
+    "word": "שְׂדֵרָה",
+    "level": 4,
+    "explanation": "שם עצם: שְׂדֵרָה"
+  },
+  {
+    "word": "שַׁלְשֶׁלֶת",
+    "level": 4,
+    "explanation": "מילה עברית: שַׁלְשֶׁלֶת"
+  },
+  {
+    "word": "שָׂם לְאַל",
+    "level": 4,
+    "explanation": "ביטוי: שָׂם לְאַל"
+  },
+  {
+    "word": "שִׁנֵּן",
+    "level": 4,
+    "explanation": "שם תואר/עצם: שִׁנֵּן"
+  },
+  {
+    "word": "שָׁפַ לִבּוֹ",
+    "level": 4,
+    "explanation": "ביטוי: שָׁפַ לִבּוֹ"
+  },
+  {
+    "word": "שָׁרָב",
+    "level": 4,
+    "explanation": "מילה עברית: שָׁרָב"
+  },
+  {
+    "word": "שְׁרַפְרַף",
+    "level": 4,
+    "explanation": "מילה עברית: שְׁרַפְרַף"
+  },
+  {
+    "word": "תָּהָה עַל  ַקְקַנּוֹ",
+    "level": 4,
+    "explanation": "ביטוי: תָּהָה עַל  ַקְקַנּוֹ"
+  },
+  {
+    "word": "תּוֹרֶן",
+    "level": 4,
+    "explanation": "שם תואר/עצם: תּוֹרֶן"
+  },
+  {
+    "word": "תֵּל",
+    "level": 4,
+    "explanation": "מילה עברית: תֵּל"
+  },
+  {
+    "word": "תָּמַהּ",
+    "level": 4,
+    "explanation": "מילה עברית: תָּמַהּ"
+  },
+  {
+    "word": "תַּסְכִּית",
+    "level": 4,
+    "explanation": "שם עצם: תַּסְכִּית"
+  },
+  {
+    "word": "תָּעַה",
+    "level": 4,
+    "explanation": "מילה עברית: תָּעַה"
+  },
+  {
+    "word": "תַּרְעוֹמֶת",
+    "level": 4,
+    "explanation": "מילה עברית: תַּרְעוֹמֶת"
+  },
+  {
+    "word": "תְּשׁוּקָה",
+    "level": 4,
+    "explanation": "שם עצם: תְּשׁוּקָה"
+  },
+  {
+    "word": "אָבוּס",
+    "level": 5,
+    "explanation": "אבוס, מזנון"
+  },
+  {
+    "word": "אֶבֶן בּוֹחַן",
+    "level": 5,
+    "explanation": "אבן בוחן, ניסיון"
+  },
+  {
+    "word": "אוּרְבִָּי",
+    "level": 5,
+    "explanation": "עירוני, קשור לעיר"
+  },
+  {
+    "word": "אוֹתִיוֹת קִדּוּשׁ לְבָָה",
+    "level": 5,
+    "explanation": "ביטוי לטיפש"
+  },
+  {
+    "word": "אֵיד",
+    "level": 5,
+    "explanation": "אסון, קטסטרופה"
+  },
+  {
+    "word": "אַיֵּה?",
+    "level": 5,
+    "explanation": "איה? היכן?"
+  },
+  {
+    "word": "אֵין -אוִֹים",
+    "level": 5,
+    "explanation": "אין אפשרות"
+  },
+  {
+    "word": "אִיפּוּל",
+    "level": 5,
+    "explanation": "איפול, הכהייה"
+  },
+  {
+    "word": "אֲלוְּטִית",
+    "level": 5,
+    "explanation": "שם עצם: אֲלוְּטִית"
+  },
+  {
+    "word": "אִלְפָּס",
+    "level": 5,
+    "explanation": "מילה עברית: אִלְפָּס"
+  },
+  {
+    "word": "אָמָה",
+    "level": 5,
+    "explanation": "אמה, יחידת מידה"
+  },
+  {
+    "word": "אֶמְפִּירִי",
+    "level": 5,
+    "explanation": "שם תואר/עצם: אֶמְפִּירִי"
+  },
+  {
+    "word": "אִמְרָה",
+    "level": 5,
+    "explanation": "שם עצם: אִמְרָה"
+  },
+  {
+    "word": "אַסְדָּה",
+    "level": 5,
+    "explanation": "שם עצם: אַסְדָּה"
+  },
+  {
+    "word": "אַסְקופָּה",
+    "level": 5,
+    "explanation": "שם עצם: אַסְקופָּה"
+  },
+  {
+    "word": "אַסְקופָּה הַנִּדְרֶסֶת",
+    "level": 5,
+    "explanation": "ביטוי: אַסְקופָּה הַנִּדְרֶסֶת"
+  },
+  {
+    "word": "אָרְכָה לוֹ הַשָּׁעָה",
+    "level": 5,
+    "explanation": "ביטוי: אָרְכָה לוֹ הַשָּׁעָה"
+  },
+  {
+    "word": "אַרְכּוֹף",
+    "level": 5,
+    "explanation": "מילה עברית: אַרְכּוֹף"
+  },
+  {
+    "word": "אַרְכִָי",
+    "level": 5,
+    "explanation": "שם תואר/עצם: אַרְכִָי"
+  },
+  {
+    "word": "אַשְׁמוֹרֶת",
+    "level": 5,
+    "explanation": "מילה עברית: אַשְׁמוֹרֶת"
+  },
+  {
+    "word": "אָתֵאִיסְט",
+    "level": 5,
+    "explanation": "מילה עברית: אָתֵאִיסְט"
+  },
+  {
+    "word": "בְּ ֶהֵף יָד",
+    "level": 5,
+    "explanation": "ביטוי: בְּ ֶהֵף יָד"
+  },
+  {
+    "word": "בָּא בַּיָּמִים",
+    "level": 5,
+    "explanation": "ביטוי: בָּא בַּיָּמִים"
+  },
+  {
+    "word": "בֶּדֶק בַּיִת",
+    "level": 5,
+    "explanation": "ביטוי: בֶּדֶק בַּיִת"
+  },
+  {
+    "word": "בּוֹר סוּד  )שֶׁאֵיוֹ מְאַבֵּד טִפָּה(",
+    "level": 5,
+    "explanation": "ביטוי: בּוֹר סוּד  )שֶׁאֵיוֹ מְאַבֵּד טִפָּה("
+  },
+  {
+    "word": "בָּזִי",
+    "level": 5,
+    "explanation": "שם תואר/עצם: בָּזִי"
+  },
+  {
+    "word": "בִּזְעֵיר אְֲפִּין",
+    "level": 5,
+    "explanation": "ביטוי: בִּזְעֵיר אְֲפִּין"
+  },
+  {
+    "word": "בִּזֵּר",
+    "level": 5,
+    "explanation": "מילה עברית: בִּזֵּר"
+  },
+  {
+    "word": "בָּחַשׁ בַּקַּלַּחַת",
+    "level": 5,
+    "explanation": "ביטוי: בָּחַשׁ בַּקַּלַּחַת"
+  },
+  {
+    "word": "בֵּין הַמְּצָרִים",
+    "level": 5,
+    "explanation": "ביטוי: בֵּין הַמְּצָרִים"
+  },
+  {
+    "word": "בֵּין הַשִּׁיטִין",
+    "level": 5,
+    "explanation": "ביטוי: בֵּין הַשִּׁיטִין"
+  },
+  {
+    "word": "בֵּית גְָּזִים",
+    "level": 5,
+    "explanation": "ביטוי: בֵּית גְָּזִים"
+  },
+  {
+    "word": "בֵּית ְכוֹת",
+    "level": 5,
+    "explanation": "ביטוי: בֵּית ְכוֹת"
+  },
+  {
+    "word": "בֵּית עֲבוֹט",
+    "level": 5,
+    "explanation": "ביטוי: בֵּית עֲבוֹט"
+  },
+  {
+    "word": "בְּלִיל",
+    "level": 5,
+    "explanation": "מילה עברית: בְּלִיל"
+  },
+  {
+    "word": "בֶּן- דְּמוּתוֹ",
+    "level": 5,
+    "explanation": "ביטוי: בֶּן- דְּמוּתוֹ"
+  },
+  {
+    "word": "בֶּן- כִּלְאַיִים",
+    "level": 5,
+    "explanation": "ביטוי: בֶּן- כִּלְאַיִים"
+  },
+  {
+    "word": "בְּעָלְמָא",
+    "level": 5,
+    "explanation": "מילה עברית: בְּעָלְמָא"
+  },
+  {
+    "word": "בְּעָתָה",
+    "level": 5,
+    "explanation": "שם עצם: בְּעָתָה"
+  },
+  {
+    "word": "בְּצוֹק הָעִתִּים",
+    "level": 5,
+    "explanation": "ביטוי: בְּצוֹק הָעִתִּים"
+  },
+  {
+    "word": "בְּשָׂפָה רָפָה",
+    "level": 5,
+    "explanation": "ביטוי: בְּשָׂפָה רָפָה"
+  },
+  {
+    "word": "גֶזֶם",
+    "level": 5,
+    "explanation": "שם תואר/עצם: גֶזֶם"
+  },
+  {
+    "word": "גִּילָּה אֶת אָזְוֹ",
+    "level": 5,
+    "explanation": "ביטוי: גִּילָּה אֶת אָזְוֹ"
+  },
+  {
+    "word": "גָמָא / גָמַע",
+    "level": 5,
+    "explanation": "ביטוי: גָמָא / גָמַע"
+  },
+  {
+    "word": "גֶּפֶת",
+    "level": 5,
+    "explanation": "מילה עברית: גֶּפֶת"
+  },
+  {
+    "word": "גֶּרֶם",
+    "level": 5,
+    "explanation": "גרם, סיבה"
+  },
+  {
+    "word": "דְּבָרִים בְּעָלְמָא",
+    "level": 5,
+    "explanation": "ביטוי: דְּבָרִים בְּעָלְמָא"
+  },
+  {
+    "word": "ִדְּדֵּן",
+    "level": 5,
+    "explanation": "שם תואר/עצם: ִדְּדֵּן"
+  },
+  {
+    "word": "דָּחַק אֶת הַקֵּץ",
+    "level": 5,
+    "explanation": "ביטוי: דָּחַק אֶת הַקֵּץ"
+  },
+  {
+    "word": "דָּחַק אֶת הַשָּעָה",
+    "level": 5,
+    "explanation": "ביטוי: דָּחַק אֶת הַשָּעָה"
+  },
+  {
+    "word": "דָּחַק אֶת רַגְלָיו",
+    "level": 5,
+    "explanation": "ביטוי: דָּחַק אֶת רַגְלָיו"
+  },
+  {
+    "word": "דַּעְתָּן",
+    "level": 5,
+    "explanation": "שם תואר/עצם: דַּעְתָּן"
+  },
+  {
+    "word": "דָּרְבָּן",
+    "level": 5,
+    "explanation": "שם תואר/עצם: דָּרְבָּן"
+  },
+  {
+    "word": "הֶאֱבִיס",
+    "level": 5,
+    "explanation": "פועל: הֶאֱבִיס"
+  },
+  {
+    "word": "הֶאֱִישׁ",
+    "level": 5,
+    "explanation": "פועל: הֶאֱִישׁ"
+  },
+  {
+    "word": "הֶדוִֹיזְם",
+    "level": 5,
+    "explanation": "פועל: הֶדוִֹיזְם"
+  },
+  {
+    "word": "הוֹלֵך עַל קֶרַח דַּק",
+    "level": 5,
+    "explanation": "ביטוי: הוֹלֵך עַל קֶרַח דַּק"
+  },
+  {
+    "word": "הִזָּה",
+    "level": 5,
+    "explanation": "פועל: הִזָּה"
+  },
+  {
+    "word": "הִידֵס",
+    "level": 5,
+    "explanation": "פועל: הִידֵס"
+  },
+  {
+    "word": "הִיפּוֹתֶטִי",
+    "level": 5,
+    "explanation": "פועל: הִיפּוֹתֶטִי"
+  },
+  {
+    "word": "הֵלִיט",
+    "level": 5,
+    "explanation": "פועל: הֵלִיט"
+  },
+  {
+    "word": "הָלַך עַל חֶבֶל דַּק",
+    "level": 5,
+    "explanation": "ביטוי: הָלַך עַל חֶבֶל דַּק"
+  },
+  {
+    "word": "הֲלַָת שָׂכָר",
+    "level": 5,
+    "explanation": "ביטוי: הֲלַָת שָׂכָר"
+  },
+  {
+    "word": "הִפְטִיר",
+    "level": 5,
+    "explanation": "פועל: הִפְטִיר"
+  },
+  {
+    "word": "הִפְרִיט",
+    "level": 5,
+    "explanation": "פועל: הִפְרִיט"
+  },
+  {
+    "word": "הִקְדִּיחַ",
+    "level": 5,
+    "explanation": "פועל: הִקְדִּיחַ"
+  },
+  {
+    "word": "הַרְרֵי זָהָב",
+    "level": 5,
+    "explanation": "ביטוי: הַרְרֵי זָהָב"
+  },
+  {
+    "word": "הִתְחַוֵּר",
+    "level": 5,
+    "explanation": "פועל: הִתְחַוֵּר"
+  },
+  {
+    "word": "הִתַּמֵּם",
+    "level": 5,
+    "explanation": "פועל: הִתַּמֵּם"
+  },
+  {
+    "word": "וָאדִי",
+    "level": 5,
+    "explanation": "שם תואר/עצם: וָאדִי"
+  },
+  {
+    "word": "ווּלְגָרִי",
+    "level": 5,
+    "explanation": "שם תואר/עצם: ווּלְגָרִי"
+  },
+  {
+    "word": "זוֹג",
+    "level": 5,
+    "explanation": "מילה עברית: זוֹג"
+  },
+  {
+    "word": "חָ וּט",
+    "level": 5,
+    "explanation": "ביטוי: חָ וּט"
+  },
+  {
+    "word": "ֶחְבָּא אֶל הַכֵּלִים",
+    "level": 5,
+    "explanation": "ביטוי: ֶחְבָּא אֶל הַכֵּלִים"
+  },
+  {
+    "word": "חֲדַל פֵּרָעוֹן",
+    "level": 5,
+    "explanation": "ביטוי: חֲדַל פֵּרָעוֹן"
+  },
+  {
+    "word": "חוֹרֵשׁ מְזִמּוֹת",
+    "level": 5,
+    "explanation": "ביטוי: חוֹרֵשׁ מְזִמּוֹת"
+  },
+  {
+    "word": "חֲִיטָה",
+    "level": 5,
+    "explanation": "שם עצם: חֲִיטָה"
+  },
+  {
+    "word": "חֵלֶב",
+    "level": 5,
+    "explanation": "חלב, נוזל"
+  },
+  {
+    "word": "חִלּוּפֵי גַּבְרֵי",
+    "level": 5,
+    "explanation": "ביטוי: חִלּוּפֵי גַּבְרֵי"
+  },
+  {
+    "word": "חָלַט",
+    "level": 5,
+    "explanation": "מילה עברית: חָלַט"
+  },
+  {
+    "word": "חֲלִיפַת מִכְתָּבִים",
+    "level": 5,
+    "explanation": "ביטוי: חֲלִיפַת מִכְתָּבִים"
+  },
+  {
+    "word": "חֵמָה",
+    "level": 5,
+    "explanation": "מילה עברית: חֵמָה"
+  },
+  {
+    "word": "חֲפוּי ראֹשׁ",
+    "level": 5,
+    "explanation": "ביטוי: חֲפוּי ראֹשׁ"
+  },
+  {
+    "word": "חֻרְשָף",
+    "level": 5,
+    "explanation": "מילה עברית: חֻרְשָף"
+  },
+  {
+    "word": "טִכֵּס עֵצָה",
+    "level": 5,
+    "explanation": "ביטוי: טִכֵּס עֵצָה"
+  },
+  {
+    "word": "טְפָחוֹת",
+    "level": 5,
+    "explanation": "שם עצם: טְפָחוֹת"
+  },
+  {
+    "word": "טְרוּט עֵיַיִם",
+    "level": 5,
+    "explanation": "ביטוי: טְרוּט עֵיַיִם"
+  },
+  {
+    "word": "טְרוְּיָה",
+    "level": 5,
+    "explanation": "שם עצם: טְרוְּיָה"
+  },
+  {
+    "word": "יָגוֹן",
+    "level": 5,
+    "explanation": "שם תואר/עצם: יָגוֹן"
+  },
+  {
+    "word": "יוּבַל",
+    "level": 5,
+    "explanation": "מילה עברית: יוּבַל"
+  },
+  {
+    "word": "יוֹגֵב",
+    "level": 5,
+    "explanation": "מילה עברית: יוֹגֵב"
+  },
+  {
+    "word": "יוֹשֵׁב קְ ָרוֹת",
+    "level": 5,
+    "explanation": "ביטוי: יוֹשֵׁב קְ ָרוֹת"
+  },
+  {
+    "word": "יֵש דְּבָרִים בְּגוֹ",
+    "level": 5,
+    "explanation": "ביטוי: יֵש דְּבָרִים בְּגוֹ"
+  },
+  {
+    "word": "כָּאוֹטי",
+    "level": 5,
+    "explanation": "שם תואר/עצם: כָּאוֹטי"
+  },
+  {
+    "word": "כָּאוֹס",
+    "level": 5,
+    "explanation": "מילה עברית: כָּאוֹס"
+  },
+  {
+    "word": "כְּבוּדָּה",
+    "level": 5,
+    "explanation": "שם עצם: כְּבוּדָּה"
+  },
+  {
+    "word": "כּוֹרֵם",
+    "level": 5,
+    "explanation": "שם תואר/עצם: כּוֹרֵם"
+  },
+  {
+    "word": "כּוֹתֶרֶת",
+    "level": 5,
+    "explanation": "מילה עברית: כּוֹתֶרֶת"
+  },
+  {
+    "word": "כְּזַיִת",
+    "level": 5,
+    "explanation": "שם עצם: כְּזַיִת"
+  },
+  {
+    "word": "כִּישוֹר",
+    "level": 5,
+    "explanation": "מילה עברית: כִּישוֹר"
+  },
+  {
+    "word": "כִּמְטַחֲוֵי קֶשֶׁת",
+    "level": 5,
+    "explanation": "ביטוי: כִּמְטַחֲוֵי קֶשֶׁת"
+  },
+  {
+    "word": "כָּפִיס",
+    "level": 5,
+    "explanation": "מילה עברית: כָּפִיס"
+  },
+  {
+    "word": "לָ ֶטְטי",
+    "level": 5,
+    "explanation": "ביטוי: לָ ֶטְטי"
+  },
+  {
+    "word": "לַבְלָר",
+    "level": 5,
+    "explanation": "מילה עברית: לַבְלָר"
+  },
+  {
+    "word": "לוֹיָאלִי",
+    "level": 5,
+    "explanation": "שם תואר/עצם: לוֹיָאלִי"
+  },
+  {
+    "word": "לְעֵילָא וּלְעֵילָא",
+    "level": 5,
+    "explanation": "ביטוי: לְעֵילָא וּלְעֵילָא"
+  },
+  {
+    "word": "מָ ַשׁ בְּעֵט",
+    "level": 5,
+    "explanation": "ביטוי: מָ ַשׁ בְּעֵט"
+  },
+  {
+    "word": "מַבּוּעַ",
+    "level": 5,
+    "explanation": "שם עצם: מַבּוּעַ"
+  },
+  {
+    "word": "מוֹוֹגַמְיָה",
+    "level": 5,
+    "explanation": "שם עצם: מוֹוֹגַמְיָה"
+  },
+  {
+    "word": "מוֹוֹתֵאִיזְם",
+    "level": 5,
+    "explanation": "שם עצם: מוֹוֹתֵאִיזְם"
+  },
+  {
+    "word": "מַזְלֵף",
+    "level": 5,
+    "explanation": "שם עצם: מַזְלֵף"
+  },
+  {
+    "word": "מְחַרְחֵר  )רִיב (",
+    "level": 5,
+    "explanation": "ביטוי: מְחַרְחֵר  )רִיב ("
+  },
+  {
+    "word": "מִיטַת סְדוֹם",
+    "level": 5,
+    "explanation": "ביטוי: מִיטַת סְדוֹם"
+  },
+  {
+    "word": "מָלַק",
+    "level": 5,
+    "explanation": "מילה עברית: מָלַק"
+  },
+  {
+    "word": "מַסָּד",
+    "level": 5,
+    "explanation": "מילה עברית: מַסָּד"
+  },
+  {
+    "word": "מְסוּפָּק",
+    "level": 5,
+    "explanation": "שם עצם: מְסוּפָּק"
+  },
+  {
+    "word": "מְעֻקָּר",
+    "level": 5,
+    "explanation": "שם עצם: מְעֻקָּר"
+  },
+  {
+    "word": "מַקְצוּעָה",
+    "level": 5,
+    "explanation": "שם עצם: מַקְצוּעָה"
+  },
+  {
+    "word": "מַרְבֵּק",
+    "level": 5,
+    "explanation": "שם עצם: מַרְבֵּק"
+  },
+  {
+    "word": "מַרְחֶשֶׁת",
+    "level": 5,
+    "explanation": "שם עצם: מַרְחֶשֶׁת"
+  },
+  {
+    "word": "מַרְצֵע",
+    "level": 5,
+    "explanation": "שם עצם: מַרְצֵע"
+  },
+  {
+    "word": "מַשְׂכִּית",
+    "level": 5,
+    "explanation": "שם עצם: מַשְׂכִּית"
+  },
+  {
+    "word": "ָס לֵחוֹ",
+    "level": 5,
+    "explanation": "ביטוי: ָס לֵחוֹ"
+  },
+  {
+    "word": "סַדָן",
+    "level": 5,
+    "explanation": "שם תואר/עצם: סַדָן"
+  },
+  {
+    "word": "עוֹלָל / עוֹלֵל",
+    "level": 5,
+    "explanation": "ביטוי: עוֹלָל / עוֹלֵל"
+  },
+  {
+    "word": "עָטָה",
+    "level": 5,
+    "explanation": "מילה עברית: עָטָה"
+  },
+  {
+    "word": "עָיִר",
+    "level": 5,
+    "explanation": "מילה עברית: עָיִר"
+  },
+  {
+    "word": "עָרַג",
+    "level": 5,
+    "explanation": "מילה עברית: עָרַג"
+  },
+  {
+    "word": "עֲרִירִי",
+    "level": 5,
+    "explanation": "שם תואר/עצם: עֲרִירִי"
+  },
+  {
+    "word": "עֲשָׂבִים שּׁוֹטִים",
+    "level": 5,
+    "explanation": "ביטוי: עֲשָׂבִים שּׁוֹטִים"
+  },
+  {
+    "word": "פוֹרְס מָז'וֹר",
+    "level": 5,
+    "explanation": "ביטוי: פוֹרְס מָז'וֹר"
+  },
+  {
+    "word": "פּוֹשֵט עוֹרוֹת",
+    "level": 5,
+    "explanation": "ביטוי: פּוֹשֵט עוֹרוֹת"
+  },
+  {
+    "word": "פַּרְגּוֹל",
+    "level": 5,
+    "explanation": "מילה עברית: פַּרְגּוֹל"
+  },
+  {
+    "word": "פְּרֶמְיֵירָה",
+    "level": 5,
+    "explanation": "שם עצם: פְּרֶמְיֵירָה"
+  },
+  {
+    "word": "צִיקְלוֹן",
+    "level": 5,
+    "explanation": "שם תואר/עצם: צִיקְלוֹן"
+  },
+  {
+    "word": "צַיְקָן",
+    "level": 5,
+    "explanation": "שם תואר/עצם: צַיְקָן"
+  },
+  {
+    "word": "צָפִיר",
+    "level": 5,
+    "explanation": "מילה עברית: צָפִיר"
+  },
+  {
+    "word": "ֶקֶב / ַקְבּוּבִית",
+    "level": 5,
+    "explanation": "ביטוי: ֶקֶב / ַקְבּוּבִית"
+  },
+  {
+    "word": "קֻבַּעַת",
+    "level": 5,
+    "explanation": "מילה עברית: קֻבַּעַת"
+  },
+  {
+    "word": "קוֹהֶ ֶרְטִי",
+    "level": 5,
+    "explanation": "ביטוי: קוֹהֶ ֶרְטִי"
+  },
+  {
+    "word": "קוֹקֵטִי",
+    "level": 5,
+    "explanation": "שם תואר/עצם: קוֹקֵטִי"
+  },
+  {
+    "word": "קוֹרֶקְטִי",
+    "level": 5,
+    "explanation": "שם תואר/עצם: קוֹרֶקְטִי"
+  },
+  {
+    "word": "קִלְטֵר",
+    "level": 5,
+    "explanation": "מילה עברית: קִלְטֵר"
+  },
+  {
+    "word": "קָפָא עַל שְׁמָרָיו",
+    "level": 5,
+    "explanation": "ביטוי: קָפָא עַל שְׁמָרָיו"
+  },
+  {
+    "word": "קֹצֶר רוּחַ",
+    "level": 5,
+    "explanation": "ביטוי: קֹצֶר רוּחַ"
+  },
+  {
+    "word": "קַרְ ָתִּי",
+    "level": 5,
+    "explanation": "ביטוי: קַרְ ָתִּי"
+  },
+  {
+    "word": "קֶרֶת",
+    "level": 5,
+    "explanation": "מילה עברית: קֶרֶת"
+  },
+  {
+    "word": "קַרְתָן",
+    "level": 5,
+    "explanation": "שם תואר/עצם: קַרְתָן"
+  },
+  {
+    "word": "רוֹדֵף שְׂרָרָה",
+    "level": 5,
+    "explanation": "ביטוי: רוֹדֵף שְׂרָרָה"
+  },
+  {
+    "word": "שִׁבֹּלֶת",
+    "level": 5,
+    "explanation": "מילה עברית: שִׁבֹּלֶת"
+  },
+  {
+    "word": "שָׁדוּד",
+    "level": 5,
+    "explanation": "מילה עברית: שָׁדוּד"
+  },
+  {
+    "word": "שׁוֹבֵב אֶת ַפְשׁוֹ",
+    "level": 5,
+    "explanation": "ביטוי: שׁוֹבֵב אֶת ַפְשׁוֹ"
+  },
+  {
+    "word": "שָׂטַם",
+    "level": 5,
+    "explanation": "שם תואר/עצם: שָׂטַם"
+  },
+  {
+    "word": "שֶׂכְוִי",
+    "level": 5,
+    "explanation": "שם תואר/עצם: שֶׂכְוִי"
+  },
+  {
+    "word": "שָׁעָה קַלָּה",
+    "level": 5,
+    "explanation": "ביטוי: שָׁעָה קַלָּה"
+  },
+  {
+    "word": "שַׁפִּיר",
+    "level": 5,
+    "explanation": "מילה עברית: שַׁפִּיר"
+  },
+  {
+    "word": "שָׂפַת",
+    "level": 5,
+    "explanation": "מילה עברית: שָׂפַת"
+  },
+  {
+    "word": "שָׁקַט עַל שְׁמָרָיו",
+    "level": 5,
+    "explanation": "ביטוי: שָׁקַט עַל שְׁמָרָיו"
+  },
+  {
+    "word": "ְשָׁתוֹת",
+    "level": 5,
+    "explanation": "שם עצם: ְשָׁתוֹת"
+  },
+  {
+    "word": "תּוּגָה",
+    "level": 5,
+    "explanation": "שם עצם: תּוּגָה"
+  },
+  {
+    "word": "תּוֹפֶת",
+    "level": 5,
+    "explanation": "מילה עברית: תּוֹפֶת"
+  },
+  {
+    "word": "תַּרְוָוד",
+    "level": 5,
+    "explanation": "מילה עברית: תַּרְוָוד"
+  },
+  {
+    "word": "אֶ ְשָׁב",
+    "level": 6,
+    "explanation": "ביטוי: אֶ ְשָׁב"
+  },
+  {
+    "word": "אֶבֶן דֶּ ֶר",
+    "level": 6,
+    "explanation": "ביטוי: אֶבֶן דֶּ ֶר"
+  },
+  {
+    "word": "אֶבֶן רֵחַיִים עַל צַוָּוארוֹ",
+    "level": 6,
+    "explanation": "עול כבד, נטל"
+  },
+  {
+    "word": "אֲבַק אָדָם",
+    "level": 6,
+    "explanation": "אבק אדם, אשפה"
+  },
+  {
+    "word": "אַדֶּרֶת",
+    "level": 6,
+    "explanation": "אדרת, גלימה"
+  },
+  {
+    "word": "אוֹ ֶר רוּחַ",
+    "level": 6,
+    "explanation": "ביטוי: אוֹ ֶר רוּחַ"
+  },
+  {
+    "word": "אוּד",
+    "level": 6,
+    "explanation": "אוד, גחלת"
+  },
+  {
+    "word": "אוֹפּוֹרְטוִּיזְם",
+    "level": 6,
+    "explanation": "שם תואר/עצם: אוֹפּוֹרְטוִּיזְם"
+  },
+  {
+    "word": "אֲחוּז תְּזָזִית",
+    "level": 6,
+    "explanation": "ביטוי: אֲחוּז תְּזָזִית"
+  },
+  {
+    "word": "אֵימָתַי",
+    "level": 6,
+    "explanation": "שם תואר/עצם: אֵימָתַי"
+  },
+  {
+    "word": "אֵין יָדוֹ מַשֶּׂגֶת",
+    "level": 6,
+    "explanation": "ביטוי: אֵין יָדוֹ מַשֶּׂגֶת"
+  },
+  {
+    "word": "אִישׁ קְּצָווֹת",
+    "level": 6,
+    "explanation": "ביטוי: אִישׁ קְּצָווֹת"
+  },
+  {
+    "word": "אִלְחוּשׁ",
+    "level": 6,
+    "explanation": "מילה עברית: אִלְחוּשׁ"
+  },
+  {
+    "word": "אַלְיָה וְקוֹץ בָּהּ",
+    "level": 6,
+    "explanation": "ביטוי: אַלְיָה וְקוֹץ בָּהּ"
+  },
+  {
+    "word": "אַמְבָּר",
+    "level": 6,
+    "explanation": "מילה עברית: אַמְבָּר"
+  },
+  {
+    "word": "אִמֵּץ אֶת יָדָיו",
+    "level": 6,
+    "explanation": "ביטוי: אִמֵּץ אֶת יָדָיו"
+  },
+  {
+    "word": "אַרְכָאִי",
+    "level": 6,
+    "explanation": "שם תואר/עצם: אַרְכָאִי"
+  },
+  {
+    "word": "אַרְכִיפֶּלָג",
+    "level": 6,
+    "explanation": "מילה עברית: אַרְכִיפֶּלָג"
+  },
+  {
+    "word": "אַשְׁפָּרָה",
+    "level": 6,
+    "explanation": "שם עצם: אַשְׁפָּרָה"
+  },
+  {
+    "word": "בָּא בִּדְבָרִים",
+    "level": 6,
+    "explanation": "ביטוי: בָּא בִּדְבָרִים"
+  },
+  {
+    "word": "בָּא כֹּחַ",
+    "level": 6,
+    "explanation": "ביטוי: בָּא כֹּחַ"
+  },
+  {
+    "word": "בָּאוּ לְעֵמֶק הַשָּׁוֶוה",
+    "level": 6,
+    "explanation": "ביטוי: בָּאוּ לְעֵמֶק הַשָּׁוֶוה"
+  },
+  {
+    "word": "ָבוּב",
+    "level": 6,
+    "explanation": "מילה עברית: ָבוּב"
+  },
+  {
+    "word": "בּוּסְתָן",
+    "level": 6,
+    "explanation": "שם תואר/עצם: בּוּסְתָן"
+  },
+  {
+    "word": "בַּחֲרוּת",
+    "level": 6,
+    "explanation": "שם עצם: בַּחֲרוּת"
+  },
+  {
+    "word": "בֵּין הַעַרְבַּיִם",
+    "level": 6,
+    "explanation": "בין ערביים, בדמדומים"
+  },
+  {
+    "word": "בֵּין הַשְׁמָשוֹת",
+    "level": 6,
+    "explanation": "ביטוי: בֵּין הַשְׁמָשוֹת"
+  },
+  {
+    "word": "בֵּית מִטְבָּחַיִם",
+    "level": 6,
+    "explanation": "ביטוי: בֵּית מִטְבָּחַיִם"
+  },
+  {
+    "word": "בֵּית ְתִיבוֹת",
+    "level": 6,
+    "explanation": "ביטוי: בֵּית ְתִיבוֹת"
+  },
+  {
+    "word": "בֵּית תַּמְחוּי",
+    "level": 6,
+    "explanation": "ביטוי: בֵּית תַּמְחוּי"
+  },
+  {
+    "word": "בִּמְחִי יָד",
+    "level": 6,
+    "explanation": "ביטוי: בִּמְחִי יָד"
+  },
+  {
+    "word": "בֶּן -לְוָיָה",
+    "level": 6,
+    "explanation": "ביטוי: בֶּן -לְוָיָה"
+  },
+  {
+    "word": "בַּעֲלֵי שְׂרָרָה",
+    "level": 6,
+    "explanation": "ביטוי: בַּעֲלֵי שְׂרָרָה"
+  },
+  {
+    "word": "בַּעֲרוֹב יָמָיו",
+    "level": 6,
+    "explanation": "ביטוי: בַּעֲרוֹב יָמָיו"
+  },
+  {
+    "word": "בְּשׂוֹרָה",
+    "level": 6,
+    "explanation": "שם עצם: בְּשׂוֹרָה"
+  },
+  {
+    "word": "גֶּבֶר",
+    "level": 6,
+    "explanation": "מילה עברית: גֶּבֶר"
+  },
+  {
+    "word": "גּוּזְמָה",
+    "level": 6,
+    "explanation": "שם עצם: גּוּזְמָה"
+  },
+  {
+    "word": "גּוּשְׁפְַּקָה",
+    "level": 6,
+    "explanation": "שם עצם: גּוּשְׁפְַּקָה"
+  },
+  {
+    "word": "גָּזַר",
+    "level": 6,
+    "explanation": "מילה עברית: גָּזַר"
+  },
+  {
+    "word": "גְּזֵרָה שָׁוָוה",
+    "level": 6,
+    "explanation": "ביטוי: גְּזֵרָה שָׁוָוה"
+  },
+  {
+    "word": "גַּיִס חֲמִישִׁי",
+    "level": 6,
+    "explanation": "ביטוי: גַּיִס חֲמִישִׁי"
+  },
+  {
+    "word": "גָּמַר בְּדַעְתּוֹ/ בְּלִבּוֹ / אוֹמֶר",
+    "level": 6,
+    "explanation": "ביטוי: גָּמַר בְּדַעְתּוֹ/ בְּלִבּוֹ / אוֹמֶר"
+  },
+  {
+    "word": "דִּיאָלוֹג",
+    "level": 6,
+    "explanation": "מילה עברית: דִּיאָלוֹג"
+  },
+  {
+    "word": "דְּיוֹטָה",
+    "level": 6,
+    "explanation": "שם עצם: דְּיוֹטָה"
+  },
+  {
+    "word": "דיוֹתָה",
+    "level": 6,
+    "explanation": "שם עצם: דיוֹתָה"
+  },
+  {
+    "word": "דֹּכִי",
+    "level": 6,
+    "explanation": "שם תואר/עצם: דֹּכִי"
+  },
+  {
+    "word": "דַלְפוֹן",
+    "level": 6,
+    "explanation": "שם תואר/עצם: דַלְפוֹן"
+  },
+  {
+    "word": "הִבְרִיחַ",
+    "level": 6,
+    "explanation": "פועל: הִבְרִיחַ"
+  },
+  {
+    "word": "הִגִיר",
+    "level": 6,
+    "explanation": "פועל: הִגִיר"
+  },
+  {
+    "word": "הוֹלֵ בָּטֵל",
+    "level": 6,
+    "explanation": "ביטוי: הוֹלֵ בָּטֵל"
+  },
+  {
+    "word": "הוֹקִיעַ",
+    "level": 6,
+    "explanation": "פועל: הוֹקִיעַ"
+  },
+  {
+    "word": "הֵזֵם",
+    "level": 6,
+    "explanation": "פועל: הֵזֵם"
+  },
+  {
+    "word": "הֶחְפִּיץ",
+    "level": 6,
+    "explanation": "פועל: הֶחְפִּיץ"
+  },
+  {
+    "word": "הִכָּה עַל חֵטְא",
+    "level": 6,
+    "explanation": "ביטוי: הִכָּה עַל חֵטְא"
+  },
+  {
+    "word": "הִלֵּך אֵימִים",
+    "level": 6,
+    "explanation": "ביטוי: הִלֵּך אֵימִים"
+  },
+  {
+    "word": "ֵהֵץ",
+    "level": 6,
+    "explanation": "מילה עברית: ֵהֵץ"
+  },
+  {
+    "word": "הִשְלִיך אַחֲרֵי גֵּווֹ",
+    "level": 6,
+    "explanation": "ביטוי: הִשְלִיך אַחֲרֵי גֵּווֹ"
+  },
+  {
+    "word": "הִתְבַּשֵּׂם",
+    "level": 6,
+    "explanation": "פועל: הִתְבַּשֵּׂם"
+  },
+  {
+    "word": "הִתְפַּקֵּר",
+    "level": 6,
+    "explanation": "פועל: הִתְפַּקֵּר"
+  },
+  {
+    "word": "זִבּוּרִית",
+    "level": 6,
+    "explanation": "שם עצם: זִבּוּרִית"
+  },
+  {
+    "word": "זַג",
+    "level": 6,
+    "explanation": "מילה עברית: זַג"
+  },
+  {
+    "word": "זְחִיחוּת דַּעַת",
+    "level": 6,
+    "explanation": "ביטוי: זְחִיחוּת דַּעַת"
+  },
+  {
+    "word": "חָוָוק",
+    "level": 6,
+    "explanation": "מילה עברית: חָוָוק"
+  },
+  {
+    "word": "חִילָּה",
+    "level": 6,
+    "explanation": "שם עצם: חִילָּה"
+  },
+  {
+    "word": "חִילָּה אֶת פָָּיו",
+    "level": 6,
+    "explanation": "ביטוי: חִילָּה אֶת פָָּיו"
+  },
+  {
+    "word": "חִישוּר",
+    "level": 6,
+    "explanation": "מילה עברית: חִישוּר"
+  },
+  {
+    "word": "חָמַד לָצוֹן",
+    "level": 6,
+    "explanation": "ביטוי: חָמַד לָצוֹן"
+  },
+  {
+    "word": "חֲמַרְמֹרֶת",
+    "level": 6,
+    "explanation": "מילה עברית: חֲמַרְמֹרֶת"
+  },
+  {
+    "word": "חָרֵד",
+    "level": 6,
+    "explanation": "מילה עברית: חָרֵד"
+  },
+  {
+    "word": "חֶרְמֵשׁ",
+    "level": 6,
+    "explanation": "מילה עברית: חֶרְמֵשׁ"
+  },
+  {
+    "word": "חָתוּל בַּשַּׁק",
+    "level": 6,
+    "explanation": "ביטוי: חָתוּל בַּשַּׁק"
+  },
+  {
+    "word": "טַס",
+    "level": 6,
+    "explanation": "מילה עברית: טַס"
+  },
+  {
+    "word": "טַפְסָן",
+    "level": 6,
+    "explanation": "שם תואר/עצם: טַפְסָן"
+  },
+  {
+    "word": "טַפְסָר",
+    "level": 6,
+    "explanation": "מילה עברית: טַפְסָר"
+  },
+  {
+    "word": "טָרַף",
+    "level": 6,
+    "explanation": "מילה עברית: טָרַף"
+  },
+  {
+    "word": "ִיבוֹן",
+    "level": 6,
+    "explanation": "שם תואר/עצם: ִיבוֹן"
+  },
+  {
+    "word": "יָגוֹר",
+    "level": 6,
+    "explanation": "מילה עברית: יָגוֹר"
+  },
+  {
+    "word": "יוֹשֵׁב עַל הַגָּדֵר",
+    "level": 6,
+    "explanation": "ביטוי: יוֹשֵׁב עַל הַגָּדֵר"
+  },
+  {
+    "word": "יִחֵל",
+    "level": 6,
+    "explanation": "מילה עברית: יִחֵל"
+  },
+  {
+    "word": "יִצְהָר",
+    "level": 6,
+    "explanation": "מילה עברית: יִצְהָר"
+  },
+  {
+    "word": "יָשַׁב עַל הַמְּדוֹכָה",
+    "level": 6,
+    "explanation": "ביטוי: יָשַׁב עַל הַמְּדוֹכָה"
+  },
+  {
+    "word": "כְּבָרָה",
+    "level": 6,
+    "explanation": "שם עצם: כְּבָרָה"
+  },
+  {
+    "word": "כִּיוּל",
+    "level": 6,
+    "explanation": "מילה עברית: כִּיוּל"
+  },
+  {
+    "word": "כִּיפֵחַ",
+    "level": 6,
+    "explanation": "מילה עברית: כִּיפֵחַ"
+  },
+  {
+    "word": "כִּלְאַחַר יָד",
+    "level": 6,
+    "explanation": "ביטוי: כִּלְאַחַר יָד"
+  },
+  {
+    "word": "לאֹ בִּכְדִי",
+    "level": 6,
+    "explanation": "ביטוי: לאֹ בִּכְדִי"
+  },
+  {
+    "word": "לְהַוָּתִי",
+    "level": 6,
+    "explanation": "שם תואר/עצם: לְהַוָּתִי"
+  },
+  {
+    "word": "לוֹקָלִי",
+    "level": 6,
+    "explanation": "שם תואר/עצם: לוֹקָלִי"
+  },
+  {
+    "word": "לֵיל שִמּוּרִים",
+    "level": 6,
+    "explanation": "ביטוי: לֵיל שִמּוּרִים"
+  },
+  {
+    "word": "מָאוֹר",
+    "level": 6,
+    "explanation": "שם עצם: מָאוֹר"
+  },
+  {
+    "word": "מַגְלֵב",
+    "level": 6,
+    "explanation": "שם עצם: מַגְלֵב"
+  },
+  {
+    "word": "מְדוּשָן עוֶֹג",
+    "level": 6,
+    "explanation": "ביטוי: מְדוּשָן עוֶֹג"
+  },
+  {
+    "word": "מוּג לֵב",
+    "level": 6,
+    "explanation": "ביטוי: מוּג לֵב"
+  },
+  {
+    "word": "מוֹוֹלוֹג",
+    "level": 6,
+    "explanation": "שם עצם: מוֹוֹלוֹג"
+  },
+  {
+    "word": "מוֹץ",
+    "level": 6,
+    "explanation": "מילה עברית: מוֹץ"
+  },
+  {
+    "word": "מוּשְׂכָּל רִאשׁוֹן",
+    "level": 6,
+    "explanation": "ביטוי: מוּשְׂכָּל רִאשׁוֹן"
+  },
+  {
+    "word": "מָט",
+    "level": 6,
+    "explanation": "מילה עברית: מָט"
+  },
+  {
+    "word": "מַט לְִפּוֹל",
+    "level": 6,
+    "explanation": "ביטוי: מַט לְִפּוֹל"
+  },
+  {
+    "word": "מַכְלֵב",
+    "level": 6,
+    "explanation": "שם עצם: מַכְלֵב"
+  },
+  {
+    "word": "ִמְלַ בּוֹ",
+    "level": 6,
+    "explanation": "ביטוי: ִמְלַ בּוֹ"
+  },
+  {
+    "word": "מִלְּגוֹ / מִלְגַו",
+    "level": 6,
+    "explanation": "ביטוי: מִלְּגוֹ / מִלְגַו"
+  },
+  {
+    "word": "מִלְּגוֹ וּמִלְבַּר",
+    "level": 6,
+    "explanation": "ביטוי: מִלְּגוֹ וּמִלְבַּר"
+  },
+  {
+    "word": "מֶלוֹדִי",
+    "level": 6,
+    "explanation": "שם עצם: מֶלוֹדִי"
+  },
+  {
+    "word": "מְלִיצָה",
+    "level": 6,
+    "explanation": "שם עצם: מְלִיצָה"
+  },
+  {
+    "word": "ִמְלַך בְּדַעֲתוֹ",
+    "level": 6,
+    "explanation": "ביטוי: ִמְלַך בְּדַעֲתוֹ"
+  },
+  {
+    "word": "מַמְגוּרָה",
+    "level": 6,
+    "explanation": "שם עצם: מַמְגוּרָה"
+  },
+  {
+    "word": "מְסוּקָס",
+    "level": 6,
+    "explanation": "שם עצם: מְסוּקָס"
+  },
+  {
+    "word": "מִסְרוֹן",
+    "level": 6,
+    "explanation": "שם עצם: מִסְרוֹן"
+  },
+  {
+    "word": "מְעוּשֶׂה",
+    "level": 6,
+    "explanation": "שם עצם: מְעוּשֶׂה"
+  },
+  {
+    "word": "מָרָה שְחוֹרָה",
+    "level": 6,
+    "explanation": "ביטוי: מָרָה שְחוֹרָה"
+  },
+  {
+    "word": "מָרִית",
+    "level": 6,
+    "explanation": "שם עצם: מָרִית"
+  },
+  {
+    "word": "מַשׂוֹא פִָּים",
+    "level": 6,
+    "explanation": "ביטוי: מַשׂוֹא פִָּים"
+  },
+  {
+    "word": "מַשְכּוּכִית",
+    "level": 6,
+    "explanation": "שם עצם: מַשְכּוּכִית"
+  },
+  {
+    "word": "סְגַלְגַל",
+    "level": 6,
+    "explanation": "מילה עברית: סְגַלְגַל"
+  },
+  {
+    "word": "סָר",
+    "level": 6,
+    "explanation": "מילה עברית: סָר"
+  },
+  {
+    "word": "סִרְהֵב",
+    "level": 6,
+    "explanation": "מילה עברית: סִרְהֵב"
+  },
+  {
+    "word": "עוֹקֵר הָרִים",
+    "level": 6,
+    "explanation": "ביטוי: עוֹקֵר הָרִים"
+  },
+  {
+    "word": "עוּר!",
+    "level": 6,
+    "explanation": "מילה עברית: עוּר!"
+  },
+  {
+    "word": "עִזָבוֹן",
+    "level": 6,
+    "explanation": "שם תואר/עצם: עִזָבוֹן"
+  },
+  {
+    "word": "עִידִּית",
+    "level": 6,
+    "explanation": "שם עצם: עִידִּית"
+  },
+  {
+    "word": "עֵיַיִים טְרוּטוֹת",
+    "level": 6,
+    "explanation": "ביטוי: עֵיַיִים טְרוּטוֹת"
+  },
+  {
+    "word": "עָלֶה ִידָּף",
+    "level": 6,
+    "explanation": "ביטוי: עָלֶה ִידָּף"
+  },
+  {
+    "word": "עַפְרָה",
+    "level": 6,
+    "explanation": "שם עצם: עַפְרָה"
+  },
+  {
+    "word": "עַפְרוֹת זָהָב",
+    "level": 6,
+    "explanation": "ביטוי: עַפְרוֹת זָהָב"
+  },
+  {
+    "word": "עִקֵּר",
+    "level": 6,
+    "explanation": "מילה עברית: עִקֵּר"
+  },
+  {
+    "word": "עָקַר אֶת רַגְלָיו",
+    "level": 6,
+    "explanation": "ביטוי: עָקַר אֶת רַגְלָיו"
+  },
+  {
+    "word": "עַרְדָלַיים",
+    "level": 6,
+    "explanation": "שם תואר/עצם: עַרְדָלַיים"
+  },
+  {
+    "word": "פֶּה מֵפִיק מַרְגָּלִיוֹת",
+    "level": 6,
+    "explanation": "ביטוי: פֶּה מֵפִיק מַרְגָּלִיוֹת"
+  },
+  {
+    "word": "פּוֹלִיגַמְיָה",
+    "level": 6,
+    "explanation": "שם עצם: פּוֹלִיגַמְיָה"
+  },
+  {
+    "word": "ָפִיל",
+    "level": 6,
+    "explanation": "מילה עברית: ָפִיל"
+  },
+  {
+    "word": "פָּלוּש",
+    "level": 6,
+    "explanation": "מילה עברית: פָּלוּש"
+  },
+  {
+    "word": "פָּסַח עַל שְׁתֵּי הַסְּעִיפִּים",
+    "level": 6,
+    "explanation": "ביטוי: פָּסַח עַל שְׁתֵּי הַסְּעִיפִּים"
+  },
+  {
+    "word": "פַרְהֶסְיָה",
+    "level": 6,
+    "explanation": "שם עצם: פַרְהֶסְיָה"
+  },
+  {
+    "word": "פְּרַקְלִיט",
+    "level": 6,
+    "explanation": "מילה עברית: פְּרַקְלִיט"
+  },
+  {
+    "word": "צִחְצוּחַ חַרָבוֹת",
+    "level": 6,
+    "explanation": "ביטוי: צִחְצוּחַ חַרָבוֹת"
+  },
+  {
+    "word": "צִינָּה",
+    "level": 6,
+    "explanation": "שם עצם: צִינָּה"
+  },
+  {
+    "word": "צִלְצָל",
+    "level": 6,
+    "explanation": "מילה עברית: צִלְצָל"
+  },
+  {
+    "word": "ִצְרָך",
+    "level": 6,
+    "explanation": "מילה עברית: ִצְרָך"
+  },
+  {
+    "word": "קִבּוֹרֶת",
+    "level": 6,
+    "explanation": "מילה עברית: קִבּוֹרֶת"
+  },
+  {
+    "word": "קְדִימוֹן",
+    "level": 6,
+    "explanation": "שם תואר/עצם: קְדִימוֹן"
+  },
+  {
+    "word": "קוּ ְרָס",
+    "level": 6,
+    "explanation": "ביטוי: קוּ ְרָס"
+  },
+  {
+    "word": "קוֹטֵל קָ ִים",
+    "level": 6,
+    "explanation": "ביטוי: קוֹטֵל קָ ִים"
+  },
+  {
+    "word": "קְטַן אֱמוָּה",
+    "level": 6,
+    "explanation": "ביטוי: קְטַן אֱמוָּה"
+  },
+  {
+    "word": "ֶקְטָר",
+    "level": 6,
+    "explanation": "מילה עברית: ֶקְטָר"
+  },
+  {
+    "word": "קִיצֵּץ אֶת  ְכָּפָיו",
+    "level": 6,
+    "explanation": "ביטוי: קִיצֵּץ אֶת  ְכָּפָיו"
+  },
+  {
+    "word": "קִיתוֹן",
+    "level": 6,
+    "explanation": "שם תואר/עצם: קִיתוֹן"
+  },
+  {
+    "word": "קָץ",
+    "level": 6,
+    "explanation": "מילה עברית: קָץ"
+  },
+  {
+    "word": "קִרְקֵעַ",
+    "level": 6,
+    "explanation": "מילה עברית: קִרְקֵעַ"
+  },
+  {
+    "word": "רֵחַיִים",
+    "level": 6,
+    "explanation": "שם תואר/עצם: רֵחַיִים"
+  },
+  {
+    "word": "רֵיחַיִים עַל צַוָּארוֹ",
+    "level": 6,
+    "explanation": "ביטוי: רֵיחַיִים עַל צַוָּארוֹ"
+  },
+  {
+    "word": "שְבִיב",
+    "level": 6,
+    "explanation": "מילה עברית: שְבִיב"
+  },
+  {
+    "word": "שָׁדוּף",
+    "level": 6,
+    "explanation": "מילה עברית: שָׁדוּף"
+  },
+  {
+    "word": "שׁוּר",
+    "level": 6,
+    "explanation": "מילה עברית: שׁוּר"
+  },
+  {
+    "word": "שָׁח / שָׁחָה",
+    "level": 6,
+    "explanation": "ביטוי: שָׁח / שָׁחָה"
+  },
+  {
+    "word": "שִׂחֲקָה לוֹ הַשָּׁעָה",
+    "level": 6,
+    "explanation": "ביטוי: שִׂחֲקָה לוֹ הַשָּׁעָה"
+  },
+  {
+    "word": "שִיוָּוה  )בְּ ַפְשוֹ (",
+    "level": 6,
+    "explanation": "ביטוי: שִיוָּוה  )בְּ ַפְשוֹ ("
+  },
+  {
+    "word": "שִׂיחוֹן",
+    "level": 6,
+    "explanation": "שם תואר/עצם: שִׂיחוֹן"
+  },
+  {
+    "word": "שְׂרָרָה",
+    "level": 6,
+    "explanation": "שם עצם: שְׂרָרָה"
+  },
+  {
+    "word": "תּוּפִין",
+    "level": 6,
+    "explanation": "שם תואר/עצם: תּוּפִין"
+  },
+  {
+    "word": "תְּזָזִית",
+    "level": 6,
+    "explanation": "שם עצם: תְּזָזִית"
+  },
+  {
+    "word": "אֶ ְתָן",
+    "level": 7,
+    "explanation": "ביטוי: אֶ ְתָן"
+  },
+  {
+    "word": "אֶבְיוֹן",
+    "level": 7,
+    "explanation": "עני, חסר כל"
+  },
+  {
+    "word": "אִבֵּק",
+    "level": 7,
+    "explanation": "מילה עברית: אִבֵּק"
+  },
+  {
+    "word": "אֹד",
+    "level": 7,
+    "explanation": "מילה עברית: אֹד"
+  },
+  {
+    "word": "ָאוֹר",
+    "level": 7,
+    "explanation": "מילה עברית: ָאוֹר"
+  },
+  {
+    "word": "אוּרִים וְתֻמִּים",
+    "level": 7,
+    "explanation": "ביטוי: אוּרִים וְתֻמִּים"
+  },
+  {
+    "word": "אֶזוֹטֶרִי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: אֶזוֹטֶרִי"
+  },
+  {
+    "word": "אִיְטֶגְרָלִי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: אִיְטֶגְרָלִי"
+  },
+  {
+    "word": "אִילוּחַ",
+    "level": 7,
+    "explanation": "מילה עברית: אִילוּחַ"
+  },
+  {
+    "word": "ֶאֱלָם",
+    "level": 7,
+    "explanation": "שם תואר/עצם: ֶאֱלָם"
+  },
+  {
+    "word": "אֶפִּילוֹג",
+    "level": 7,
+    "explanation": "מילה עברית: אֶפִּילוֹג"
+  },
+  {
+    "word": "ְאָצָה",
+    "level": 7,
+    "explanation": "מילה עברית: ְאָצָה"
+  },
+  {
+    "word": "אִצְטְלָה",
+    "level": 7,
+    "explanation": "שם עצם: אִצְטְלָה"
+  },
+  {
+    "word": "אִשְׁרוּר",
+    "level": 7,
+    "explanation": "מילה עברית: אִשְׁרוּר"
+  },
+  {
+    "word": "בְּאִיבּוֹ",
+    "level": 7,
+    "explanation": "מילה עברית: בְּאִיבּוֹ"
+  },
+  {
+    "word": "בְּדוּתָה",
+    "level": 7,
+    "explanation": "שם עצם: בְּדוּתָה"
+  },
+  {
+    "word": "בְּדַיָה",
+    "level": 7,
+    "explanation": "שם עצם: בְּדַיָה"
+  },
+  {
+    "word": "בּוּלְמוּס",
+    "level": 7,
+    "explanation": "מילה עברית: בּוּלְמוּס"
+  },
+  {
+    "word": "בַּחֲטָף",
+    "level": 7,
+    "explanation": "מילה עברית: בַּחֲטָף"
+  },
+  {
+    "word": "ֶבֶט",
+    "level": 7,
+    "explanation": "מילה עברית: ֶבֶט"
+  },
+  {
+    "word": "בִּיגַמְיָה",
+    "level": 7,
+    "explanation": "שם עצם: בִּיגַמְיָה"
+  },
+  {
+    "word": "בָּלוּם",
+    "level": 7,
+    "explanation": "שם תואר/עצם: בָּלוּם"
+  },
+  {
+    "word": "ִבְעָר",
+    "level": 7,
+    "explanation": "מילה עברית: ִבְעָר"
+  },
+  {
+    "word": "בַּרְדָס",
+    "level": 7,
+    "explanation": "מילה עברית: בַּרְדָס"
+  },
+  {
+    "word": "גָחוֹן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: גָחוֹן"
+  },
+  {
+    "word": "גִילְדָה",
+    "level": 7,
+    "explanation": "שם עצם: גִילְדָה"
+  },
+  {
+    "word": "ִגַר",
+    "level": 7,
+    "explanation": "מילה עברית: ִגַר"
+  },
+  {
+    "word": "דְּבוּקָּה",
+    "level": 7,
+    "explanation": "שם עצם: דְּבוּקָּה"
+  },
+  {
+    "word": "דְּבֵלָה",
+    "level": 7,
+    "explanation": "שם עצם: דְּבֵלָה"
+  },
+  {
+    "word": "דָּגָן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: דָּגָן"
+  },
+  {
+    "word": "דוּאָלִי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: דוּאָלִי"
+  },
+  {
+    "word": "דּוֹרוֹן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: דּוֹרוֹן"
+  },
+  {
+    "word": "דֶּחִי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: דֶּחִי"
+  },
+  {
+    "word": "דָּלוּחַ",
+    "level": 7,
+    "explanation": "מילה עברית: דָּלוּחַ"
+  },
+  {
+    "word": "דִּמְדּוּמִים",
+    "level": 7,
+    "explanation": "שם תואר/עצם: דִּמְדּוּמִים"
+  },
+  {
+    "word": "דִמְעוֹת שָׁלִישׁ",
+    "level": 7,
+    "explanation": "ביטוי: דִמְעוֹת שָׁלִישׁ"
+  },
+  {
+    "word": "דֹּפִי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: דֹּפִי"
+  },
+  {
+    "word": "דַפְתָר",
+    "level": 7,
+    "explanation": "מילה עברית: דַפְתָר"
+  },
+  {
+    "word": "דֵרָאוֹן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: דֵרָאוֹן"
+  },
+  {
+    "word": "דַרְגָש",
+    "level": 7,
+    "explanation": "מילה עברית: דַרְגָש"
+  },
+  {
+    "word": "הָבִיל",
+    "level": 7,
+    "explanation": "פועל: הָבִיל"
+  },
+  {
+    "word": "הִבְלִיעַ",
+    "level": 7,
+    "explanation": "פועל: הִבְלִיעַ"
+  },
+  {
+    "word": "הָגִיג",
+    "level": 7,
+    "explanation": "פועל: הָגִיג"
+  },
+  {
+    "word": "הִגִּיהַּ",
+    "level": 7,
+    "explanation": "פועל: הִגִּיהַּ"
+  },
+  {
+    "word": "הִגְלִיד",
+    "level": 7,
+    "explanation": "פועל: הִגְלִיד"
+  },
+  {
+    "word": "הִדִּיר",
+    "level": 7,
+    "explanation": "פועל: הִדִּיר"
+  },
+  {
+    "word": "ָהָה",
+    "level": 7,
+    "explanation": "מילה עברית: ָהָה"
+  },
+  {
+    "word": "הַזָחָה",
+    "level": 7,
+    "explanation": "פועל: הַזָחָה"
+  },
+  {
+    "word": "הֵזִיחַ",
+    "level": 7,
+    "explanation": "פועל: הֵזִיחַ"
+  },
+  {
+    "word": "ְהִי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: ְהִי"
+  },
+  {
+    "word": "הִילֵּ",
+    "level": 7,
+    "explanation": "פועל: הִילֵּ"
+  },
+  {
+    "word": "הִכָּה גַּלִּים",
+    "level": 7,
+    "explanation": "ביטוי: הִכָּה גַּלִּים"
+  },
+  {
+    "word": "הִכָּה שׁוֹרֵש",
+    "level": 7,
+    "explanation": "ביטוי: הִכָּה שׁוֹרֵש"
+  },
+  {
+    "word": "הֶעֱתִיק",
+    "level": 7,
+    "explanation": "פועל: הֶעֱתִיק"
+  },
+  {
+    "word": "הֶקְהִיל",
+    "level": 7,
+    "explanation": "פועל: הֶקְהִיל"
+  },
+  {
+    "word": "הֶרֶף",
+    "level": 7,
+    "explanation": "פועל: הֶרֶף"
+  },
+  {
+    "word": "הִתִּיק",
+    "level": 7,
+    "explanation": "פועל: הִתִּיק"
+  },
+  {
+    "word": "וֹאָל",
+    "level": 7,
+    "explanation": "מילה עברית: וֹאָל"
+  },
+  {
+    "word": "וֹקֵד",
+    "level": 7,
+    "explanation": "מילה עברית: וֹקֵד"
+  },
+  {
+    "word": "וֹשֶה",
+    "level": 7,
+    "explanation": "מילה עברית: וֹשֶה"
+  },
+  {
+    "word": "זָב",
+    "level": 7,
+    "explanation": "מילה עברית: זָב"
+  },
+  {
+    "word": "זָב חֹטֶם",
+    "level": 7,
+    "explanation": "ביטוי: זָב חֹטֶם"
+  },
+  {
+    "word": "זֶבֶד",
+    "level": 7,
+    "explanation": "מילה עברית: זֶבֶד"
+  },
+  {
+    "word": "זוֹט",
+    "level": 7,
+    "explanation": "מילה עברית: זוֹט"
+  },
+  {
+    "word": "זוּטָא",
+    "level": 7,
+    "explanation": "מילה עברית: זוּטָא"
+  },
+  {
+    "word": "זוּטוֹת",
+    "level": 7,
+    "explanation": "שם עצם: זוּטוֹת"
+  },
+  {
+    "word": "זוּלָת",
+    "level": 7,
+    "explanation": "מילה עברית: זוּלָת"
+  },
+  {
+    "word": "זוּלָתָן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: זוּלָתָן"
+  },
+  {
+    "word": "זָח",
+    "level": 7,
+    "explanation": "מילה עברית: זָח"
+  },
+  {
+    "word": "חֶבֶל",
+    "level": 7,
+    "explanation": "מילה עברית: חֶבֶל"
+  },
+  {
+    "word": "חֲבַרְבָּר",
+    "level": 7,
+    "explanation": "מילה עברית: חֲבַרְבָּר"
+  },
+  {
+    "word": "חָג",
+    "level": 7,
+    "explanation": "חג, מועד"
+  },
+  {
+    "word": "חוֹזֵר",
+    "level": 7,
+    "explanation": "מילה עברית: חוֹזֵר"
+  },
+  {
+    "word": "חֲטָף",
+    "level": 7,
+    "explanation": "מילה עברית: חֲטָף"
+  },
+  {
+    "word": "חִיגֵּר",
+    "level": 7,
+    "explanation": "מילה עברית: חִיגֵּר"
+  },
+  {
+    "word": "ְחִירָה",
+    "level": 7,
+    "explanation": "שם עצם: ְחִירָה"
+  },
+  {
+    "word": "חֲכִירָה",
+    "level": 7,
+    "explanation": "שם עצם: חֲכִירָה"
+  },
+  {
+    "word": "חֵלְכָּאִי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: חֵלְכָּאִי"
+  },
+  {
+    "word": "חָרֵב",
+    "level": 7,
+    "explanation": "מילה עברית: חָרֵב"
+  },
+  {
+    "word": "חָרָבָה",
+    "level": 7,
+    "explanation": "שם עצם: חָרָבָה"
+  },
+  {
+    "word": "טַבּוּלָה רָאסָה",
+    "level": 7,
+    "explanation": "ביטוי: טַבּוּלָה רָאסָה"
+  },
+  {
+    "word": "יַוּקָא",
+    "level": 7,
+    "explanation": "מילה עברית: יַוּקָא"
+  },
+  {
+    "word": "יוֹקֵב",
+    "level": 7,
+    "explanation": "מילה עברית: יוֹקֵב"
+  },
+  {
+    "word": "יוֹרֶה",
+    "level": 7,
+    "explanation": "שם עצם: יוֹרֶה"
+  },
+  {
+    "word": "יַעֲרָה",
+    "level": 7,
+    "explanation": "שם עצם: יַעֲרָה"
+  },
+  {
+    "word": "ִיר",
+    "level": 7,
+    "explanation": "מילה עברית: ִיר"
+  },
+  {
+    "word": "ַכְלוּלִי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: ַכְלוּלִי"
+  },
+  {
+    "word": "כְּסִיל",
+    "level": 7,
+    "explanation": "מילה עברית: כְּסִיל"
+  },
+  {
+    "word": "כְּפִיר",
+    "level": 7,
+    "explanation": "מילה עברית: כְּפִיר"
+  },
+  {
+    "word": "כָּפַן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: כָּפַן"
+  },
+  {
+    "word": "כָּפַת",
+    "level": 7,
+    "explanation": "מילה עברית: כָּפַת"
+  },
+  {
+    "word": "לַאֲשוּרוֹ",
+    "level": 7,
+    "explanation": "מילה עברית: לַאֲשוּרוֹ"
+  },
+  {
+    "word": "לָבִיא",
+    "level": 7,
+    "explanation": "מילה עברית: לָבִיא"
+  },
+  {
+    "word": "לִבֵּן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: לִבֵּן"
+  },
+  {
+    "word": "לִפְרָקִים",
+    "level": 7,
+    "explanation": "שם תואר/עצם: לִפְרָקִים"
+  },
+  {
+    "word": "ָמ",
+    "level": 7,
+    "explanation": "מילה עברית: ָמ"
+  },
+  {
+    "word": "מַ ְפֵּטָה",
+    "level": 7,
+    "explanation": "ביטוי: מַ ְפֵּטָה"
+  },
+  {
+    "word": "מַאְפֵּלְיָה",
+    "level": 7,
+    "explanation": "שם עצם: מַאְפֵּלְיָה"
+  },
+  {
+    "word": "מִבְדוֹק",
+    "level": 7,
+    "explanation": "שם עצם: מִבְדוֹק"
+  },
+  {
+    "word": "מְבוּזָּר",
+    "level": 7,
+    "explanation": "שם עצם: מְבוּזָּר"
+  },
+  {
+    "word": "מָגוֹר",
+    "level": 7,
+    "explanation": "שם עצם: מָגוֹר"
+  },
+  {
+    "word": "מִגֵּר",
+    "level": 7,
+    "explanation": "מילה עברית: מִגֵּר"
+  },
+  {
+    "word": "מְהֻקְצָע",
+    "level": 7,
+    "explanation": "שם עצם: מְהֻקְצָע"
+  },
+  {
+    "word": "מוּבָאָה",
+    "level": 7,
+    "explanation": "שם עצם: מוּבָאָה"
+  },
+  {
+    "word": "מוֹרַג",
+    "level": 7,
+    "explanation": "שם עצם: מוֹרַג"
+  },
+  {
+    "word": "מָזוֹר",
+    "level": 7,
+    "explanation": "שם עצם: מָזוֹר"
+  },
+  {
+    "word": "מִזְקָקָה",
+    "level": 7,
+    "explanation": "שם עצם: מִזְקָקָה"
+  },
+  {
+    "word": "מַחְבּוֹש",
+    "level": 7,
+    "explanation": "שם עצם: מַחְבּוֹש"
+  },
+  {
+    "word": "מַחְבֵּצָה",
+    "level": 7,
+    "explanation": "שם עצם: מַחְבֵּצָה"
+  },
+  {
+    "word": "מְחֻטָּט",
+    "level": 7,
+    "explanation": "שם עצם: מְחֻטָּט"
+  },
+  {
+    "word": "מָלֵא תְּכוָּה",
+    "level": 7,
+    "explanation": "ביטוי: מָלֵא תְּכוָּה"
+  },
+  {
+    "word": "מֵלִיץ",
+    "level": 7,
+    "explanation": "שם עצם: מֵלִיץ"
+  },
+  {
+    "word": "מָסַ",
+    "level": 7,
+    "explanation": "מילה עברית: מָסַ"
+  },
+  {
+    "word": "מְסוֹאָב",
+    "level": 7,
+    "explanation": "שם עצם: מְסוֹאָב"
+  },
+  {
+    "word": "מִסּוּך",
+    "level": 7,
+    "explanation": "שם עצם: מִסּוּך"
+  },
+  {
+    "word": "מַעֲרֶה הַיַּעַר",
+    "level": 7,
+    "explanation": "ביטוי: מַעֲרֶה הַיַּעַר"
+  },
+  {
+    "word": "מַפְסֶלֶת",
+    "level": 7,
+    "explanation": "שם עצם: מַפְסֶלֶת"
+  },
+  {
+    "word": "מַק",
+    "level": 7,
+    "explanation": "מילה עברית: מַק"
+  },
+  {
+    "word": "מַרְ ִין",
+    "level": 7,
+    "explanation": "ביטוי: מַרְ ִין"
+  },
+  {
+    "word": "מַרְזֵחַ",
+    "level": 7,
+    "explanation": "שם עצם: מַרְזֵחַ"
+  },
+  {
+    "word": "מֹרֶך לֵב",
+    "level": 7,
+    "explanation": "ביטוי: מֹרֶך לֵב"
+  },
+  {
+    "word": "מִשְׂגָּב",
+    "level": 7,
+    "explanation": "שם עצם: מִשְׂגָּב"
+  },
+  {
+    "word": "מִשְׁוֶרֶת",
+    "level": 7,
+    "explanation": "שם עצם: מִשְׁוֶרֶת"
+  },
+  {
+    "word": "מַשְׂטֵמָה",
+    "level": 7,
+    "explanation": "שם עצם: מַשְׂטֵמָה"
+  },
+  {
+    "word": "סַד",
+    "level": 7,
+    "explanation": "מילה עברית: סַד"
+  },
+  {
+    "word": "סַהַר",
+    "level": 7,
+    "explanation": "מילה עברית: סַהַר"
+  },
+  {
+    "word": "סְחִי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: סְחִי"
+  },
+  {
+    "word": "סֵיפָא",
+    "level": 7,
+    "explanation": "מילה עברית: סֵיפָא"
+  },
+  {
+    "word": "סְפּוֹרָדי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: סְפּוֹרָדי"
+  },
+  {
+    "word": "סְפָר",
+    "level": 7,
+    "explanation": "מילה עברית: סְפָר"
+  },
+  {
+    "word": "סְתַגְּלָן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: סְתַגְּלָן"
+  },
+  {
+    "word": "עָב",
+    "level": 7,
+    "explanation": "מילה עברית: עָב"
+  },
+  {
+    "word": "עֲבוֹתוֹת",
+    "level": 7,
+    "explanation": "שם עצם: עֲבוֹתוֹת"
+  },
+  {
+    "word": "עֲזוּבָה",
+    "level": 7,
+    "explanation": "שם עצם: עֲזוּבָה"
+  },
+  {
+    "word": "עֲלוּמִים",
+    "level": 7,
+    "explanation": "שם תואר/עצם: עֲלוּמִים"
+  },
+  {
+    "word": "עֲלָטָה",
+    "level": 7,
+    "explanation": "שם עצם: עֲלָטָה"
+  },
+  {
+    "word": "עָשָׂה ְפָשׁוֹת",
+    "level": 7,
+    "explanation": "ביטוי: עָשָׂה ְפָשׁוֹת"
+  },
+  {
+    "word": "ָפָה",
+    "level": 7,
+    "explanation": "מילה עברית: ָפָה"
+  },
+  {
+    "word": "פּוּלְמוּס",
+    "level": 7,
+    "explanation": "מילה עברית: פּוּלְמוּס"
+  },
+  {
+    "word": "פּוּר",
+    "level": 7,
+    "explanation": "מילה עברית: פּוּר"
+  },
+  {
+    "word": "פּוּרְתָּא",
+    "level": 7,
+    "explanation": "מילה עברית: פּוּרְתָּא"
+  },
+  {
+    "word": "פִּיד",
+    "level": 7,
+    "explanation": "מילה עברית: פִּיד"
+  },
+  {
+    "word": "פִּיל לָבָן",
+    "level": 7,
+    "explanation": "ביטוי: פִּיל לָבָן"
+  },
+  {
+    "word": "פִּילֵּל",
+    "level": 7,
+    "explanation": "מילה עברית: פִּילֵּל"
+  },
+  {
+    "word": "פִּיסֵח",
+    "level": 7,
+    "explanation": "מילה עברית: פִּיסֵח"
+  },
+  {
+    "word": "פַּרְגּוֹד",
+    "level": 7,
+    "explanation": "מילה עברית: פַּרְגּוֹד"
+  },
+  {
+    "word": "פְּרוֹלוֹג",
+    "level": 7,
+    "explanation": "מילה עברית: פְּרוֹלוֹג"
+  },
+  {
+    "word": "פִּתְחוֹן פֶּה",
+    "level": 7,
+    "explanation": "ביטוי: פִּתְחוֹן פֶּה"
+  },
+  {
+    "word": "צְבִיר",
+    "level": 7,
+    "explanation": "מילה עברית: צְבִיר"
+  },
+  {
+    "word": "צְדִיָּה",
+    "level": 7,
+    "explanation": "שם עצם: צְדִיָּה"
+  },
+  {
+    "word": "צַדְקָ וּת",
+    "level": 7,
+    "explanation": "ביטוי: צַדְקָ וּת"
+  },
+  {
+    "word": "צָמִיג",
+    "level": 7,
+    "explanation": "מילה עברית: צָמִיג"
+  },
+  {
+    "word": "צִקְצוּק",
+    "level": 7,
+    "explanation": "מילה עברית: צִקְצוּק"
+  },
+  {
+    "word": "ֵצֶר",
+    "level": 7,
+    "explanation": "מילה עברית: ֵצֶר"
+  },
+  {
+    "word": "צָרוּף",
+    "level": 7,
+    "explanation": "מילה עברית: צָרוּף"
+  },
+  {
+    "word": "צָרַר",
+    "level": 7,
+    "explanation": "מילה עברית: צָרַר"
+  },
+  {
+    "word": "קְבָסְתָּן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: קְבָסְתָּן"
+  },
+  {
+    "word": "קוֹבַע",
+    "level": 7,
+    "explanation": "מילה עברית: קוֹבַע"
+  },
+  {
+    "word": "קוֹלָן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: קוֹלָן"
+  },
+  {
+    "word": "קִטְרֶג",
+    "level": 7,
+    "explanation": "מילה עברית: קִטְרֶג"
+  },
+  {
+    "word": "ַקְטְרָן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: ַקְטְרָן"
+  },
+  {
+    "word": "ִקְיָן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: ִקְיָן"
+  },
+  {
+    "word": "קִיקְיוִֹי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: קִיקְיוִֹי"
+  },
+  {
+    "word": "קָלוֹן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: קָלוֹן"
+  },
+  {
+    "word": "קְלוֹקֵל",
+    "level": 7,
+    "explanation": "מילה עברית: קְלוֹקֵל"
+  },
+  {
+    "word": "קִלֵּס",
+    "level": 7,
+    "explanation": "מילה עברית: קִלֵּס"
+  },
+  {
+    "word": "קַפְֶּדַרְיָא / קַפְַּדְּרִיָּה",
+    "level": 7,
+    "explanation": "ביטוי: קַפְֶּדַרְיָא / קַפְַּדְּרִיָּה"
+  },
+  {
+    "word": "קַרְדּוֹם",
+    "level": 7,
+    "explanation": "שם תואר/עצם: קַרְדּוֹם"
+  },
+  {
+    "word": "קַרְפִּיף",
+    "level": 7,
+    "explanation": "מילה עברית: קַרְפִּיף"
+  },
+  {
+    "word": "רְבָב",
+    "level": 7,
+    "explanation": "מילה עברית: רְבָב"
+  },
+  {
+    "word": "רָבִיד",
+    "level": 7,
+    "explanation": "מילה עברית: רָבִיד"
+  },
+  {
+    "word": "רַהַב",
+    "level": 7,
+    "explanation": "מילה עברית: רַהַב"
+  },
+  {
+    "word": "רָהוּי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: רָהוּי"
+  },
+  {
+    "word": "רֵישָא",
+    "level": 7,
+    "explanation": "מילה עברית: רֵישָא"
+  },
+  {
+    "word": "רַכָּב",
+    "level": 7,
+    "explanation": "מילה עברית: רַכָּב"
+  },
+  {
+    "word": "רִנֵּן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: רִנֵּן"
+  },
+  {
+    "word": "רַפְרֶפֶת",
+    "level": 7,
+    "explanation": "מילה עברית: רַפְרֶפֶת"
+  },
+  {
+    "word": "רָצַץ",
+    "level": 7,
+    "explanation": "מילה עברית: רָצַץ"
+  },
+  {
+    "word": "רָקַח",
+    "level": 7,
+    "explanation": "מילה עברית: רָקַח"
+  },
+  {
+    "word": "רָש",
+    "level": 7,
+    "explanation": "מילה עברית: רָש"
+  },
+  {
+    "word": "ֶ ֶשׁ",
+    "level": 7,
+    "explanation": "מילה עברית: ֶ ֶשׁ"
+  },
+  {
+    "word": "שִׁגָיוֹן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: שִׁגָיוֹן"
+  },
+  {
+    "word": "ָשָׁה",
+    "level": 7,
+    "explanation": "מילה עברית: ָשָׁה"
+  },
+  {
+    "word": "שִׁהוּי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: שִׁהוּי"
+  },
+  {
+    "word": "שׁוֹחֵר",
+    "level": 7,
+    "explanation": "מילה עברית: שׁוֹחֵר"
+  },
+  {
+    "word": "שׁוֹעַ",
+    "level": 7,
+    "explanation": "מילה עברית: שׁוֹעַ"
+  },
+  {
+    "word": "שָׁזַף",
+    "level": 7,
+    "explanation": "מילה עברית: שָׁזַף"
+  },
+  {
+    "word": "שָׁחוּחַ",
+    "level": 7,
+    "explanation": "מילה עברית: שָׁחוּחַ"
+  },
+  {
+    "word": "שָׁחוּן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: שָׁחוּן"
+  },
+  {
+    "word": "שַׁחַל",
+    "level": 7,
+    "explanation": "מילה עברית: שַׁחַל"
+  },
+  {
+    "word": "ָשִׂיא",
+    "level": 7,
+    "explanation": "מילה עברית: ָשִׂיא"
+  },
+  {
+    "word": "ְשִׁיוִֹי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: ְשִׁיוִֹי"
+  },
+  {
+    "word": "שִׁיפּוּי",
+    "level": 7,
+    "explanation": "שם תואר/עצם: שִׁיפּוּי"
+  },
+  {
+    "word": "שְׂכַלְתָן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: שְׂכַלְתָן"
+  },
+  {
+    "word": "שִׁסֵּעַ",
+    "level": 7,
+    "explanation": "מילה עברית: שִׁסֵּעַ"
+  },
+  {
+    "word": "שַׁעַל",
+    "level": 7,
+    "explanation": "מילה עברית: שַׁעַל"
+  },
+  {
+    "word": "ִשְפֶּה",
+    "level": 7,
+    "explanation": "מילה עברית: ִשְפֶּה"
+  },
+  {
+    "word": "שְׁתַדְלָן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: שְׁתַדְלָן"
+  },
+  {
+    "word": "תְּ וּבָה",
+    "level": 7,
+    "explanation": "ביטוי: תְּ וּבָה"
+  },
+  {
+    "word": "תַּאֲִיָּה וַאֲִיָּה",
+    "level": 7,
+    "explanation": "ביטוי: תַּאֲִיָּה וַאֲִיָּה"
+  },
+  {
+    "word": "תּוֹעַמְלָן",
+    "level": 7,
+    "explanation": "שם תואר/עצם: תּוֹעַמְלָן"
+  },
+  {
+    "word": "תִּחוּחַ",
+    "level": 7,
+    "explanation": "מילה עברית: תִּחוּחַ"
+  },
+  {
+    "word": "תִּיתוֹרָה / תִּיתוֹרֶת",
+    "level": 7,
+    "explanation": "ביטוי: תִּיתוֹרָה / תִּיתוֹרֶת"
+  },
+  {
+    "word": "תַּכְרִיכִים",
+    "level": 7,
+    "explanation": "שם תואר/עצם: תַּכְרִיכִים"
+  },
+  {
+    "word": "תִּכְתּוֹבֶת",
+    "level": 7,
+    "explanation": "מילה עברית: תִּכְתּוֹבֶת"
+  },
+  {
+    "word": "תִּלֵי תִּילִים",
+    "level": 7,
+    "explanation": "ביטוי: תִּלֵי תִּילִים"
+  },
+  {
+    "word": "תְּמוּרָה",
+    "level": 7,
+    "explanation": "שם עצם: תְּמוּרָה"
+  },
+  {
+    "word": "תַּמְלִיל",
+    "level": 7,
+    "explanation": "מילה עברית: תַּמְלִיל"
+  },
+  {
+    "word": "תְּעוּדַת עֲִיוּת",
+    "level": 7,
+    "explanation": "ביטוי: תְּעוּדַת עֲִיוּת"
+  },
+  {
+    "word": "תַּעַל",
+    "level": 7,
+    "explanation": "מילה עברית: תַּעַל"
+  },
+  {
+    "word": "תַּשׁ",
+    "level": 7,
+    "explanation": "מילה עברית: תַּשׁ"
+  },
+  {
+    "word": "תַּשְׁלִיל",
+    "level": 7,
+    "explanation": "מילה עברית: תַּשְׁלִיל"
+  },
+  {
+    "word": "אִבְחָה",
+    "level": 8,
+    "explanation": "אבחה, מחלה"
+  },
+  {
+    "word": "אֶבֶן ֶגֶף",
+    "level": 8,
+    "explanation": "ביטוי: אֶבֶן ֶגֶף"
+  },
+  {
+    "word": "אֶבֶן הָראֹשָׁה",
+    "level": 8,
+    "explanation": "אבן הראשה, פינה"
+  },
+  {
+    "word": "אֶבֶן פִּינָּה",
+    "level": 8,
+    "explanation": "אבן פינה, יסוד"
+  },
+  {
+    "word": "אֶבֶן שׁוֹאֶבֶת",
+    "level": 8,
+    "explanation": "אבן שואבת, מגנט"
+  },
+  {
+    "word": "אֶבֶן שָׂפָה",
+    "level": 8,
+    "explanation": "אבן שפה, ביצת גבול"
+  },
+  {
+    "word": "אַגַּב אוֹרְחָא",
+    "level": 8,
+    "explanation": "אגב, בדרך אגב"
+  },
+  {
+    "word": "אִדְרָה",
+    "level": 8,
+    "explanation": "אידרה, לבושה"
+  },
+  {
+    "word": "אוֹטוֹקְרַטְיָה",
+    "level": 8,
+    "explanation": "אוטוקרטיה, שלטון יחיד"
+  },
+  {
+    "word": "אוְּקְיָה",
+    "level": 8,
+    "explanation": "שם עצם: אוְּקְיָה"
+  },
+  {
+    "word": "אָזַר מָ ְתָיו / חַלְצָיו / חַיִל",
+    "level": 8,
+    "explanation": "ביטוי: אָזַר מָ ְתָיו / חַלְצָיו / חַיִל"
+  },
+  {
+    "word": "אַחֲרִית",
+    "level": 8,
+    "explanation": "שם עצם: אַחֲרִית"
+  },
+  {
+    "word": "אִיטֵּר ) יַד יְמִיוֹ(",
+    "level": 8,
+    "explanation": "ביטוי: אִיטֵּר ) יַד יְמִיוֹ("
+  },
+  {
+    "word": "אַמְתַּחַת",
+    "level": 8,
+    "explanation": "מילה עברית: אַמְתַּחַת"
+  },
+  {
+    "word": "אַסְפַּקְלַרְיָה",
+    "level": 8,
+    "explanation": "שם עצם: אַסְפַּקְלַרְיָה"
+  },
+  {
+    "word": "אָפוּף",
+    "level": 8,
+    "explanation": "מילה עברית: אָפוּף"
+  },
+  {
+    "word": "אַפִּרְיוֹן",
+    "level": 8,
+    "explanation": "שם תואר/עצם: אַפִּרְיוֹן"
+  },
+  {
+    "word": "אָצַר",
+    "level": 8,
+    "explanation": "אצר, צבר"
+  },
+  {
+    "word": "אֲרוֹמָה",
+    "level": 8,
+    "explanation": "שם עצם: אֲרוֹמָה"
+  },
+  {
+    "word": "אֹרַח",
+    "level": 8,
+    "explanation": "ארח, הלך"
+  },
+  {
+    "word": "אַרְכֻּבָּה",
+    "level": 8,
+    "explanation": "שם עצם: אַרְכֻּבָּה"
+  },
+  {
+    "word": "אֲרֶשֶׁת ) פִָּים(",
+    "level": 8,
+    "explanation": "ביטוי: אֲרֶשֶׁת ) פִָּים("
+  },
+  {
+    "word": "אַשְׁמַאי",
+    "level": 8,
+    "explanation": "שם תואר/עצם: אַשְׁמַאי"
+  },
+  {
+    "word": "בַּד",
+    "level": 8,
+    "explanation": "מילה עברית: בַּד"
+  },
+  {
+    "word": "בְּחֵרוּק שִׁינַּיִים",
+    "level": 8,
+    "explanation": "ביטוי: בְּחֵרוּק שִׁינַּיִים"
+  },
+  {
+    "word": "בְּיֶתֶר שְׂאֵת",
+    "level": 8,
+    "explanation": "ביתר שאת, יותר"
+  },
+  {
+    "word": "ִבְכֵי פְשוֹ",
+    "level": 8,
+    "explanation": "ביטוי: ִבְכֵי פְשוֹ"
+  },
+  {
+    "word": "בִּכְפִיפָה אַחַת",
+    "level": 8,
+    "explanation": "ביטוי: בִּכְפִיפָה אַחַת"
+  },
+  {
+    "word": "בִּלְתִּי אֶמְצָעִי",
+    "level": 8,
+    "explanation": "ביטוי: בִּלְתִּי אֶמְצָעִי"
+  },
+  {
+    "word": "בִּלְתִּי ִדְלֶה",
+    "level": 8,
+    "explanation": "ביטוי: בִּלְתִּי ִדְלֶה"
+  },
+  {
+    "word": "בְּמֵישָׁרִין",
+    "level": 8,
+    "explanation": "שם תואר/עצם: בְּמֵישָׁרִין"
+  },
+  {
+    "word": "בְּעוֹד מוֹעֵד",
+    "level": 8,
+    "explanation": "ביטוי: בְּעוֹד מוֹעֵד"
+  },
+  {
+    "word": "בַּצַּר לוֹ",
+    "level": 8,
+    "explanation": "ביטוי: בַּצַּר לוֹ"
+  },
+  {
+    "word": "גָּאָה",
+    "level": 8,
+    "explanation": "מילה עברית: גָּאָה"
+  },
+  {
+    "word": "גֵּב",
+    "level": 8,
+    "explanation": "מילה עברית: גֵּב"
+  },
+  {
+    "word": "גִּבֵּן",
+    "level": 8,
+    "explanation": "שם תואר/עצם: גִּבֵּן"
+  },
+  {
+    "word": "גִּינּוּי",
+    "level": 8,
+    "explanation": "שם תואר/עצם: גִּינּוּי"
+  },
+  {
+    "word": "גָּלְמִי / גּוֹלְמִי",
+    "level": 8,
+    "explanation": "ביטוי: גָּלְמִי / גּוֹלְמִי"
+  },
+  {
+    "word": "גַּרְדוֹם",
+    "level": 8,
+    "explanation": "שם תואר/עצם: גַּרְדוֹם"
+  },
+  {
+    "word": "גָרוּם",
+    "level": 8,
+    "explanation": "שם תואר/עצם: גָרוּם"
+  },
+  {
+    "word": "דְּאָבוֹן",
+    "level": 8,
+    "explanation": "שם תואר/עצם: דְּאָבוֹן"
+  },
+  {
+    "word": "דוֹמֶן",
+    "level": 8,
+    "explanation": "שם תואר/עצם: דוֹמֶן"
+  },
+  {
+    "word": "ִדְרַשׁ",
+    "level": 8,
+    "explanation": "דרש, ביקש"
+  },
+  {
+    "word": "הִבְכִּיר",
+    "level": 8,
+    "explanation": "פועל: הִבְכִּיר"
+  },
+  {
+    "word": "הֲוָיָה",
+    "level": 8,
+    "explanation": "פועל: הֲוָיָה"
+  },
+  {
+    "word": "הוֹלֵל",
+    "level": 8,
+    "explanation": "פועל: הוֹלֵל"
+  },
+  {
+    "word": "הֵחִישׁ )אֶת ( צְעָדָיו / פְּעָמָיו",
+    "level": 8,
+    "explanation": "ביטוי: הֵחִישׁ )אֶת ( צְעָדָיו / פְּעָמָיו"
+  },
+  {
+    "word": "הֶחְרִישׁ",
+    "level": 8,
+    "explanation": "פועל: הֶחְרִישׁ"
+  },
+  {
+    "word": "הִכָּה בְּאֶצְבַּע צְרֵדָה",
+    "level": 8,
+    "explanation": "ביטוי: הִכָּה בְּאֶצְבַּע צְרֵדָה"
+  },
+  {
+    "word": "הִכְפִּישׁ",
+    "level": 8,
+    "explanation": "פועל: הִכְפִּישׁ"
+  },
+  {
+    "word": "הָלַך בְּדֶרֶך כָּל בָּשָר / הָאָרֶץ",
+    "level": 8,
+    "explanation": "ביטוי: הָלַך בְּדֶרֶך כָּל בָּשָר / הָאָרֶץ"
+  },
+  {
+    "word": "הִסְכִּין",
+    "level": 8,
+    "explanation": "פועל: הִסְכִּין"
+  },
+  {
+    "word": "הֶעֱלָה עַל ֵס",
+    "level": 8,
+    "explanation": "ביטוי: הֶעֱלָה עַל ֵס"
+  },
+  {
+    "word": "הָפַ אֶת עוֹרוֹ",
+    "level": 8,
+    "explanation": "ביטוי: הָפַ אֶת עוֹרוֹ"
+  },
+  {
+    "word": "ְהָרָה",
+    "level": 8,
+    "explanation": "הרה, בהריון"
+  },
+  {
+    "word": "הִרְכִּין",
+    "level": 8,
+    "explanation": "פועל: הִרְכִּין"
+  },
+  {
+    "word": "הִשְׁלִיך ַפְשׁוֹ מִנֶּגֶד",
+    "level": 8,
+    "explanation": "ביטוי: הִשְׁלִיך ַפְשׁוֹ מִנֶּגֶד"
+  },
+  {
+    "word": "הִתְגַּלֵּעַ רִיב",
+    "level": 8,
+    "explanation": "ביטוי: הִתְגַּלֵּעַ רִיב"
+  },
+  {
+    "word": "הִתְוָוה",
+    "level": 8,
+    "explanation": "פועל: הִתְוָוה"
+  },
+  {
+    "word": "הִתְרִיס",
+    "level": 8,
+    "explanation": "פועל: הִתְרִיס"
+  },
+  {
+    "word": "זֵד",
+    "level": 8,
+    "explanation": "מילה עברית: זֵד"
+  },
+  {
+    "word": "חָבוּש",
+    "level": 8,
+    "explanation": "מילה עברית: חָבוּש"
+  },
+  {
+    "word": "חִדָלוֹן",
+    "level": 8,
+    "explanation": "שם תואר/עצם: חִדָלוֹן"
+  },
+  {
+    "word": "חוּט הַשָּׁ ִי",
+    "level": 8,
+    "explanation": "ביטוי: חוּט הַשָּׁ ִי"
+  },
+  {
+    "word": "חַט",
+    "level": 8,
+    "explanation": "מילה עברית: חַט"
+  },
+  {
+    "word": "חֲטוֹטֶרֶת",
+    "level": 8,
+    "explanation": "מילה עברית: חֲטוֹטֶרֶת"
+  },
+  {
+    "word": "חֹסֶן",
+    "level": 8,
+    "explanation": "שם תואר/עצם: חֹסֶן"
+  },
+  {
+    "word": "חֲסַר  ְפִּיּוֹת",
+    "level": 8,
+    "explanation": "ביטוי: חֲסַר  ְפִּיּוֹת"
+  },
+  {
+    "word": "חֲפָתִים",
+    "level": 8,
+    "explanation": "שם תואר/עצם: חֲפָתִים"
+  },
+  {
+    "word": "חָרוֹן  )אַף (",
+    "level": 8,
+    "explanation": "ביטוי: חָרוֹן  )אַף ("
+  },
+  {
+    "word": "חַת",
+    "level": 8,
+    "explanation": "מילה עברית: חַת"
+  },
+  {
+    "word": "ַחְתּוֹם",
+    "level": 8,
+    "explanation": "שם תואר/עצם: ַחְתּוֹם"
+  },
+  {
+    "word": "טְ ַרְסְפוֹרְמַצְיָה",
+    "level": 8,
+    "explanation": "ביטוי: טְ ַרְסְפוֹרְמַצְיָה"
+  },
+  {
+    "word": "טֶלֶף",
+    "level": 8,
+    "explanation": "מילה עברית: טֶלֶף"
+  },
+  {
+    "word": "ִיכָּר",
+    "level": 8,
+    "explanation": "מילה עברית: ִיכָּר"
+  },
+  {
+    "word": "יָצוּל",
+    "level": 8,
+    "explanation": "מילה עברית: יָצוּל"
+  },
+  {
+    "word": "כָּל אֵימַת  ֶשׁ-",
+    "level": 8,
+    "explanation": "ביטוי: כָּל אֵימַת  ֶשׁ-"
+  },
+  {
+    "word": "כְּפִיפוּת",
+    "level": 8,
+    "explanation": "שם עצם: כְּפִיפוּת"
+  },
+  {
+    "word": "לָא מִנֵּיהּ וְלָא מִקְּצָתֵיהּ",
+    "level": 8,
+    "explanation": "ביטוי: לָא מִנֵּיהּ וְלָא מִקְּצָתֵיהּ"
+  },
+  {
+    "word": "לַבִּירִיְתְּ",
+    "level": 8,
+    "explanation": "שם עצם: לַבִּירִיְתְּ"
+  },
+  {
+    "word": "להד\"ם",
+    "level": 8,
+    "explanation": "שם תואר/עצם: להד\"ם"
+  },
+  {
+    "word": "לִיבְּרָה",
+    "level": 8,
+    "explanation": "שם עצם: לִיבְּרָה"
+  },
+  {
+    "word": "לַיִּש",
+    "level": 8,
+    "explanation": "מילה עברית: לַיִּש"
+  },
+  {
+    "word": "לְמַכְבִּיר",
+    "level": 8,
+    "explanation": "מילה עברית: לְמַכְבִּיר"
+  },
+  {
+    "word": "לְמִצְעָר",
+    "level": 8,
+    "explanation": "מילה עברית: לְמִצְעָר"
+  },
+  {
+    "word": "לְמַרְאִית עַיִן",
+    "level": 8,
+    "explanation": "ביטוי: לְמַרְאִית עַיִן"
+  },
+  {
+    "word": "לָעַז",
+    "level": 8,
+    "explanation": "מילה עברית: לָעַז"
+  },
+  {
+    "word": "מַאֲוַיִּים",
+    "level": 8,
+    "explanation": "שם עצם: מַאֲוַיִּים"
+  },
+  {
+    "word": "מְבֻדָּר",
+    "level": 8,
+    "explanation": "שם עצם: מְבֻדָּר"
+  },
+  {
+    "word": "מֻבְלַעַת",
+    "level": 8,
+    "explanation": "שם עצם: מֻבְלַעַת"
+  },
+  {
+    "word": "מִבְּעוֹד מוֹעֵד",
+    "level": 8,
+    "explanation": "ביטוי: מִבְּעוֹד מוֹעֵד"
+  },
+  {
+    "word": "מְדוּכָה",
+    "level": 8,
+    "explanation": "שם עצם: מְדוּכָה"
+  },
+  {
+    "word": "מְהַדְּרִין",
+    "level": 8,
+    "explanation": "שם עצם: מְהַדְּרִין"
+  },
+  {
+    "word": "מָחַט",
+    "level": 8,
+    "explanation": "מילה עברית: מָחַט"
+  },
+  {
+    "word": "מַחְתָּה",
+    "level": 8,
+    "explanation": "שם עצם: מַחְתָּה"
+  },
+  {
+    "word": "מַטְרוָֹה / מַטְרוִֹית",
+    "level": 8,
+    "explanation": "ביטוי: מַטְרוָֹה / מַטְרוִֹית"
+  },
+  {
+    "word": "מִיָּמִים יָמִימָה",
+    "level": 8,
+    "explanation": "ביטוי: מִיָּמִים יָמִימָה"
+  },
+  {
+    "word": "מִנִּי אָז",
+    "level": 8,
+    "explanation": "ביטוי: מִנִּי אָז"
+  },
+  {
+    "word": "מְסוֹבָב",
+    "level": 8,
+    "explanation": "שם עצם: מְסוֹבָב"
+  },
+  {
+    "word": "מִקַּדְמַת  ְדָּא",
+    "level": 8,
+    "explanation": "ביטוי: מִקַּדְמַת  ְדָּא"
+  },
+  {
+    "word": "מְרוּפָּט",
+    "level": 8,
+    "explanation": "שם עצם: מְרוּפָּט"
+  },
+  {
+    "word": "מִשְׁבָּר",
+    "level": 8,
+    "explanation": "שם עצם: מִשְׁבָּר"
+  },
+  {
+    "word": "מַשְׁמִים",
+    "level": 8,
+    "explanation": "שם עצם: מַשְׁמִים"
+  },
+  {
+    "word": "סָ ַט",
+    "level": 8,
+    "explanation": "ביטוי: סָ ַט"
+  },
+  {
+    "word": "סִדְקִית",
+    "level": 8,
+    "explanation": "שם עצם: סִדְקִית"
+  },
+  {
+    "word": "סִילּוּף",
+    "level": 8,
+    "explanation": "מילה עברית: סִילּוּף"
+  },
+  {
+    "word": "ְסִיקָה",
+    "level": 8,
+    "explanation": "שם עצם: ְסִיקָה"
+  },
+  {
+    "word": "סְפּוְֹטָ ִי",
+    "level": 8,
+    "explanation": "ביטוי: סְפּוְֹטָ ִי"
+  },
+  {
+    "word": "עֹל",
+    "level": 8,
+    "explanation": "מילה עברית: עֹל"
+  },
+  {
+    "word": "עֶלֶם / עַלְמָה",
+    "level": 8,
+    "explanation": "ביטוי: עֶלֶם / עַלְמָה"
+  },
+  {
+    "word": "ִעֵר ) אֶת(  חָצְ וֹ מ-",
+    "level": 8,
+    "explanation": "ביטוי: ִעֵר ) אֶת(  חָצְ וֹ מ-"
+  },
+  {
+    "word": "ֶעְתְּקוּ מִילִּים מִפִּיו",
+    "level": 8,
+    "explanation": "ביטוי: ֶעְתְּקוּ מִילִּים מִפִּיו"
+  },
+  {
+    "word": "פֵּאָה",
+    "level": 8,
+    "explanation": "מילה עברית: פֵּאָה"
+  },
+  {
+    "word": "פַּח ) יָקוּשׁ(",
+    "level": 8,
+    "explanation": "ביטוי: פַּח ) יָקוּשׁ("
+  },
+  {
+    "word": "פִּיתוֹם",
+    "level": 8,
+    "explanation": "שם תואר/עצם: פִּיתוֹם"
+  },
+  {
+    "word": "פָּכַר",
+    "level": 8,
+    "explanation": "מילה עברית: פָּכַר"
+  },
+  {
+    "word": "פָּכַר אֶת יָדָיו / אֶצְבְּעוֹתָיו",
+    "level": 8,
+    "explanation": "ביטוי: פָּכַר אֶת יָדָיו / אֶצְבְּעוֹתָיו"
+  },
+  {
+    "word": "פְּלוּגְתָּא",
+    "level": 8,
+    "explanation": "מילה עברית: פְּלוּגְתָּא"
+  },
+  {
+    "word": "פְּלוִֹי",
+    "level": 8,
+    "explanation": "שם תואר/עצם: פְּלוִֹי"
+  },
+  {
+    "word": "פַּלָּצוּת",
+    "level": 8,
+    "explanation": "שם עצם: פַּלָּצוּת"
+  },
+  {
+    "word": "פָּרִיץ",
+    "level": 8,
+    "explanation": "מילה עברית: פָּרִיץ"
+  },
+  {
+    "word": "ַפְשׁוֹ יָצְאָה",
+    "level": 8,
+    "explanation": "ביטוי: ַפְשׁוֹ יָצְאָה"
+  },
+  {
+    "word": "פֵּשֶׁר",
+    "level": 8,
+    "explanation": "מילה עברית: פֵּשֶׁר"
+  },
+  {
+    "word": "צוֹרֵף",
+    "level": 8,
+    "explanation": "מילה עברית: צוֹרֵף"
+  },
+  {
+    "word": "צַלְיָן",
+    "level": 8,
+    "explanation": "שם תואר/עצם: צַלְיָן"
+  },
+  {
+    "word": "צָפוּד",
+    "level": 8,
+    "explanation": "מילה עברית: צָפוּד"
+  },
+  {
+    "word": "צַרְכִָיָּה",
+    "level": 8,
+    "explanation": "שם עצם: צַרְכִָיָּה"
+  },
+  {
+    "word": "קְ וֹ ֶקֶת",
+    "level": 8,
+    "explanation": "ביטוי: קְ וֹ ֶקֶת"
+  },
+  {
+    "word": "קְבָס / קֶבֶס",
+    "level": 8,
+    "explanation": "ביטוי: קְבָס / קֶבֶס"
+  },
+  {
+    "word": "קִטּוּב",
+    "level": 8,
+    "explanation": "מילה עברית: קִטּוּב"
+  },
+  {
+    "word": "קִיפֵּחַ",
+    "level": 8,
+    "explanation": "מילה עברית: קִיפֵּחַ"
+  },
+  {
+    "word": "קַלּוּת ראֹשׁ",
+    "level": 8,
+    "explanation": "ביטוי: קַלּוּת ראֹשׁ"
+  },
+  {
+    "word": "קַצְרָ וּת",
+    "level": 8,
+    "explanation": "ביטוי: קַצְרָ וּת"
+  },
+  {
+    "word": "קֶרֶן יַעַר",
+    "level": 8,
+    "explanation": "ביטוי: קֶרֶן יַעַר"
+  },
+  {
+    "word": "רָחַשׁ",
+    "level": 8,
+    "explanation": "מילה עברית: רָחַשׁ"
+  },
+  {
+    "word": "רֶמֶץ",
+    "level": 8,
+    "explanation": "מילה עברית: רֶמֶץ"
+  },
+  {
+    "word": "רֶפוֹרְמָה",
+    "level": 8,
+    "explanation": "שם עצם: רֶפוֹרְמָה"
+  },
+  {
+    "word": "שָׁבִיס",
+    "level": 8,
+    "explanation": "מילה עברית: שָׁבִיס"
+  },
+  {
+    "word": "שִׁוָּוה",
+    "level": 8,
+    "explanation": "שם עצם: שִׁוָּוה"
+  },
+  {
+    "word": "שַׁוֵּוה בְּ ַפְשֵׁך",
+    "level": 8,
+    "explanation": "ביטוי: שַׁוֵּוה בְּ ַפְשֵׁך"
+  },
+  {
+    "word": "שְׁוֵוה ֶפֶשׁ",
+    "level": 8,
+    "explanation": "ביטוי: שְׁוֵוה ֶפֶשׁ"
+  },
+  {
+    "word": "שַׁחֲרִית",
+    "level": 8,
+    "explanation": "שם עצם: שַׁחֲרִית"
+  },
+  {
+    "word": "שִׁנֵּס",
+    "level": 8,
+    "explanation": "מילה עברית: שִׁנֵּס"
+  },
+  {
+    "word": "שָׁעָה",
+    "level": 8,
+    "explanation": "מילה עברית: שָׁעָה"
+  },
+  {
+    "word": "שָׁפוּף",
+    "level": 8,
+    "explanation": "מילה עברית: שָׁפוּף"
+  },
+  {
+    "word": "שָׁרִיר וְקַיָם",
+    "level": 8,
+    "explanation": "ביטוי: שָׁרִיר וְקַיָם"
+  },
+  {
+    "word": "שַׂרְעַפִּים",
+    "level": 8,
+    "explanation": "שם תואר/עצם: שַׂרְעַפִּים"
+  },
+  {
+    "word": "תַּבְלִיט",
+    "level": 8,
+    "explanation": "מילה עברית: תַּבְלִיט"
+  },
+  {
+    "word": "תּוֹחֶלֶת",
+    "level": 8,
+    "explanation": "מילה עברית: תּוֹחֶלֶת"
+  },
+  {
+    "word": "תִּיָה ) אֶת צָרוֹתָיו(",
+    "level": 8,
+    "explanation": "ביטוי: תִּיָה ) אֶת צָרוֹתָיו("
+  },
+  {
+    "word": "תִּינָּה",
+    "level": 8,
+    "explanation": "שם עצם: תִּינָּה"
+  },
+  {
+    "word": "תַּמְלוּגִים",
+    "level": 8,
+    "explanation": "שם תואר/עצם: תַּמְלוּגִים"
+  },
+  {
+    "word": "תַּעֲרִיף",
+    "level": 8,
+    "explanation": "מילה עברית: תַּעֲרִיף"
+  },
+  {
+    "word": "תִּקְרוֹבֶת",
+    "level": 8,
+    "explanation": "מילה עברית: תִּקְרוֹבֶת"
+  },
+  {
+    "word": "אֶ ְתַחְתָּא",
+    "level": 9,
+    "explanation": "ביטוי: אֶ ְתַחְתָּא"
+  },
+  {
+    "word": "אֶבֶן יְסוֹד",
+    "level": 9,
+    "explanation": "אבן יסוד, בסיס"
+  },
+  {
+    "word": "אַבְּסוּרְדִי",
+    "level": 9,
+    "explanation": "אבסורדי, לא הגיוני"
+  },
+  {
+    "word": "אַדְּרַבָּה",
+    "level": 9,
+    "explanation": "אדרבה, להיפך"
+  },
+  {
+    "word": "אוֹב",
+    "level": 9,
+    "explanation": "אוב, רוח"
+  },
+  {
+    "word": "אוֹטוֹרִיטָה",
+    "level": 9,
+    "explanation": "סמכות, עוצמה"
+  },
+  {
+    "word": "אוֹרַח",
+    "level": 9,
+    "explanation": "מילה עברית: אוֹרַח"
+  },
+  {
+    "word": "ָאוֹת",
+    "level": 9,
+    "explanation": "מילה עברית: ָאוֹת"
+  },
+  {
+    "word": "ֶאִיגְמָה",
+    "level": 9,
+    "explanation": "שם עצם: ֶאִיגְמָה"
+  },
+  {
+    "word": "אֵין תּוֹכוֹ כְּבָרוֹ",
+    "level": 9,
+    "explanation": "ביטוי: אֵין תּוֹכוֹ כְּבָרוֹ"
+  },
+  {
+    "word": "אִיֵּשׁ",
+    "level": 9,
+    "explanation": "מילה עברית: אִיֵּשׁ"
+  },
+  {
+    "word": "אִישׁ אֶשְׁכּוֹלוֹת",
+    "level": 9,
+    "explanation": "ביטוי: אִישׁ אֶשְׁכּוֹלוֹת"
+  },
+  {
+    "word": "אַפְּרַקְדָן",
+    "level": 9,
+    "explanation": "שם תואר/עצם: אַפְּרַקְדָן"
+  },
+  {
+    "word": "אֶשְׁתָּקַד",
+    "level": 9,
+    "explanation": "אשתקד, השנה שעברה"
+  },
+  {
+    "word": "בְּ ַפְשׁוֹ הַדָּבָר",
+    "level": 9,
+    "explanation": "ביטוי: בְּ ַפְשׁוֹ הַדָּבָר"
+  },
+  {
+    "word": "בְּחוּבּוֹ",
+    "level": 9,
+    "explanation": "מילה עברית: בְּחוּבּוֹ"
+  },
+  {
+    "word": "בִּיזָארִי",
+    "level": 9,
+    "explanation": "שם תואר/עצם: בִּיזָארִי"
+  },
+  {
+    "word": "בִּכָּה",
+    "level": 9,
+    "explanation": "בכה, הוריד דמעות"
+  },
+  {
+    "word": "בַּלְדָּר",
+    "level": 9,
+    "explanation": "מילה עברית: בַּלְדָּר"
+  },
+  {
+    "word": "בָּלוּי",
+    "level": 9,
+    "explanation": "שם תואר/עצם: בָּלוּי"
+  },
+  {
+    "word": "בִּקֵּשׁ עַל ַפְשׁוֹ",
+    "level": 9,
+    "explanation": "ביטוי: בִּקֵּשׁ עַל ַפְשׁוֹ"
+  },
+  {
+    "word": "גְּדִיל",
+    "level": 9,
+    "explanation": "מילה עברית: גְּדִיל"
+  },
+  {
+    "word": "גָּדַם / גָּדַע",
+    "level": 9,
+    "explanation": "ביטוי: גָּדַם / גָּדַע"
+  },
+  {
+    "word": "ֹגַהּ",
+    "level": 9,
+    "explanation": "מילה עברית: ֹגַהּ"
+  },
+  {
+    "word": "גְּלִימָה",
+    "level": 9,
+    "explanation": "שם עצם: גְּלִימָה"
+  },
+  {
+    "word": "גָּמַר עָלָיו אֶת הַהַלֵּל",
+    "level": 9,
+    "explanation": "ביטוי: גָּמַר עָלָיו אֶת הַהַלֵּל"
+  },
+  {
+    "word": "ָד / הִתְ וֹדֵד",
+    "level": 9,
+    "explanation": "ביטוי: ָד / הִתְ וֹדֵד"
+  },
+  {
+    "word": "ִדְבָּך",
+    "level": 9,
+    "explanation": "מילה עברית: ִדְבָּך"
+  },
+  {
+    "word": "דִּבְרֵי חֲלָקוֹת",
+    "level": 9,
+    "explanation": "ביטוי: דִּבְרֵי חֲלָקוֹת"
+  },
+  {
+    "word": "דָּחָה אוֹתוֹ בְּקַש",
+    "level": 9,
+    "explanation": "ביטוי: דָּחָה אוֹתוֹ בְּקַש"
+  },
+  {
+    "word": "דֹּחַק",
+    "level": 9,
+    "explanation": "מילה עברית: דֹּחַק"
+  },
+  {
+    "word": "דָּמַם",
+    "level": 9,
+    "explanation": "שם תואר/עצם: דָּמַם"
+  },
+  {
+    "word": "הִ ְתַגֵּחַ",
+    "level": 9,
+    "explanation": "ביטוי: הִ ְתַגֵּחַ"
+  },
+  {
+    "word": "הֶאֱפִיל",
+    "level": 9,
+    "explanation": "פועל: הֶאֱפִיל"
+  },
+  {
+    "word": "הֲגַם  ֶשׁ-",
+    "level": 9,
+    "explanation": "ביטוי: הֲגַם  ֶשׁ-"
+  },
+  {
+    "word": "הֵחִישׁ",
+    "level": 9,
+    "explanation": "פועל: הֵחִישׁ"
+  },
+  {
+    "word": "הֶחֱשָה",
+    "level": 9,
+    "explanation": "פועל: הֶחֱשָה"
+  },
+  {
+    "word": "הִכְלִים",
+    "level": 9,
+    "explanation": "פועל: הִכְלִים"
+  },
+  {
+    "word": "הִכְתִּיר",
+    "level": 9,
+    "explanation": "פועל: הִכְתִּיר"
+  },
+  {
+    "word": "הִמְרָה אֶת פִּיו",
+    "level": 9,
+    "explanation": "ביטוי: הִמְרָה אֶת פִּיו"
+  },
+  {
+    "word": "הֵסִיר אֶת הַלּוֹט",
+    "level": 9,
+    "explanation": "ביטוי: הֵסִיר אֶת הַלּוֹט"
+  },
+  {
+    "word": "הִסְתּוֹפֵף",
+    "level": 9,
+    "explanation": "פועל: הִסְתּוֹפֵף"
+  },
+  {
+    "word": "הִסְתּוֹפֵף בְּצִלּוֹ",
+    "level": 9,
+    "explanation": "ביטוי: הִסְתּוֹפֵף בְּצִלּוֹ"
+  },
+  {
+    "word": "הֶעֱרָה",
+    "level": 9,
+    "explanation": "פועל: הֶעֱרָה"
+  },
+  {
+    "word": "הִצְמִית",
+    "level": 9,
+    "explanation": "פועל: הִצְמִית"
+  },
+  {
+    "word": "הִקְצָה",
+    "level": 9,
+    "explanation": "פועל: הִקְצָה"
+  },
+  {
+    "word": "הִרְעִים",
+    "level": 9,
+    "explanation": "פועל: הִרְעִים"
+  },
+  {
+    "word": "הִתְאוֵֹן",
+    "level": 9,
+    "explanation": "פועל: הִתְאוֵֹן"
+  },
+  {
+    "word": "הִתְגַּפֵּף",
+    "level": 9,
+    "explanation": "פועל: הִתְגַּפֵּף"
+  },
+  {
+    "word": "התקין",
+    "level": 9,
+    "explanation": "תיקן, הכין"
+  },
+  {
+    "word": "ווַרְיַאצְיָה",
+    "level": 9,
+    "explanation": "שם עצם: ווַרְיַאצְיָה"
+  },
+  {
+    "word": "וִירְטוּאוֹז",
+    "level": 9,
+    "explanation": "מילה עברית: וִירְטוּאוֹז"
+  },
+  {
+    "word": "זִכָּיוֹן",
+    "level": 9,
+    "explanation": "שם תואר/עצם: זִכָּיוֹן"
+  },
+  {
+    "word": "זַלְזַל",
+    "level": 9,
+    "explanation": "מילה עברית: זַלְזַל"
+  },
+  {
+    "word": "חָפַן",
+    "level": 9,
+    "explanation": "שם תואר/עצם: חָפַן"
+  },
+  {
+    "word": "חָרַץ",
+    "level": 9,
+    "explanation": "מילה עברית: חָרַץ"
+  },
+  {
+    "word": "טְפִיפָה",
+    "level": 9,
+    "explanation": "שם עצם: טְפִיפָה"
+  },
+  {
+    "word": "טַרְזִָי",
+    "level": 9,
+    "explanation": "שם תואר/עצם: טַרְזִָי"
+  },
+  {
+    "word": "ִטַּשׁ",
+    "level": 9,
+    "explanation": "מילה עברית: ִטַּשׁ"
+  },
+  {
+    "word": "יִעוּד",
+    "level": 9,
+    "explanation": "מילה עברית: יִעוּד"
+  },
+  {
+    "word": "יָצָא חוֹצֵץ",
+    "level": 9,
+    "explanation": "ביטוי: יָצָא חוֹצֵץ"
+  },
+  {
+    "word": "יָצָא לָשׂוּחַ",
+    "level": 9,
+    "explanation": "ביטוי: יָצָא לָשׂוּחַ"
+  },
+  {
+    "word": "כִּילַי",
+    "level": 9,
+    "explanation": "שם תואר/עצם: כִּילַי"
+  },
+  {
+    "word": "כָּמוּס",
+    "level": 9,
+    "explanation": "מילה עברית: כָּמוּס"
+  },
+  {
+    "word": "ִכְמַר לִבּוֹ",
+    "level": 9,
+    "explanation": "ביטוי: ִכְמַר לִבּוֹ"
+  },
+  {
+    "word": "כָּפַר",
+    "level": 9,
+    "explanation": "מילה עברית: כָּפַר"
+  },
+  {
+    "word": "כְּרוּב",
+    "level": 9,
+    "explanation": "מילה עברית: כְּרוּב"
+  },
+  {
+    "word": "לִ ְפַי וְלִ ְפִים",
+    "level": 9,
+    "explanation": "ביטוי: לִ ְפַי וְלִ ְפִים"
+  },
+  {
+    "word": "לָאַט",
+    "level": 9,
+    "explanation": "מילה עברית: לָאַט"
+  },
+  {
+    "word": "לוּט",
+    "level": 9,
+    "explanation": "מילה עברית: לוּט"
+  },
+  {
+    "word": "לוּט בָּעֲרָפֶל",
+    "level": 9,
+    "explanation": "ביטוי: לוּט בָּעֲרָפֶל"
+  },
+  {
+    "word": "לָחַך",
+    "level": 9,
+    "explanation": "מילה עברית: לָחַך"
+  },
+  {
+    "word": "לְלאֹ כָּחָל וְסָרָק",
+    "level": 9,
+    "explanation": "ביטוי: לְלאֹ כָּחָל וְסָרָק"
+  },
+  {
+    "word": "לְמַפְרֵע",
+    "level": 9,
+    "explanation": "מילה עברית: לְמַפְרֵע"
+  },
+  {
+    "word": "לְמִשְעִי",
+    "level": 9,
+    "explanation": "שם תואר/עצם: לְמִשְעִי"
+  },
+  {
+    "word": "לִסְטִים",
+    "level": 9,
+    "explanation": "שם תואר/עצם: לִסְטִים"
+  },
+  {
+    "word": "מִגְ ָדּוֹת",
+    "level": 9,
+    "explanation": "ביטוי: מִגְ ָדּוֹת"
+  },
+  {
+    "word": "מָגוֹף / מְגוּפָה",
+    "level": 9,
+    "explanation": "ביטוי: מָגוֹף / מְגוּפָה"
+  },
+  {
+    "word": "מוּבְהָק",
+    "level": 9,
+    "explanation": "שם עצם: מוּבְהָק"
+  },
+  {
+    "word": "מוּפְשָט",
+    "level": 9,
+    "explanation": "שם עצם: מוּפְשָט"
+  },
+  {
+    "word": "מִיוּת",
+    "level": 9,
+    "explanation": "שם עצם: מִיוּת"
+  },
+  {
+    "word": "מְלוּבָּן",
+    "level": 9,
+    "explanation": "שם עצם: מְלוּבָּן"
+  },
+  {
+    "word": "מַעֲקָשׁ",
+    "level": 9,
+    "explanation": "שם עצם: מַעֲקָשׁ"
+  },
+  {
+    "word": "מְשׁוֹבֵב ֶפֶשׁ",
+    "level": 9,
+    "explanation": "ביטוי: מְשׁוֹבֵב ֶפֶשׁ"
+  },
+  {
+    "word": "ִמְשָר",
+    "level": 9,
+    "explanation": "מילה עברית: ִמְשָר"
+  },
+  {
+    "word": "מִתְוֶוה",
+    "level": 9,
+    "explanation": "שם עצם: מִתְוֶוה"
+  },
+  {
+    "word": "סְבָרָה",
+    "level": 9,
+    "explanation": "שם עצם: סְבָרָה"
+  },
+  {
+    "word": "סוֹלְלָה",
+    "level": 9,
+    "explanation": "שם עצם: סוֹלְלָה"
+  },
+  {
+    "word": "סָלַד",
+    "level": 9,
+    "explanation": "מילה עברית: סָלַד"
+  },
+  {
+    "word": "סָעַד",
+    "level": 9,
+    "explanation": "מילה עברית: סָעַד"
+  },
+  {
+    "word": "סָעַד ) אֶת(  לִבּוֹ",
+    "level": 9,
+    "explanation": "ביטוי: סָעַד ) אֶת(  לִבּוֹ"
+  },
+  {
+    "word": "סָפַק אֶת כָּפָּיו",
+    "level": 9,
+    "explanation": "ביטוי: סָפַק אֶת כָּפָּיו"
+  },
+  {
+    "word": "עַבְדְקָן",
+    "level": 9,
+    "explanation": "שם תואר/עצם: עַבְדְקָן"
+  },
+  {
+    "word": "עֲבוֹט",
+    "level": 9,
+    "explanation": "מילה עברית: עֲבוֹט"
+  },
+  {
+    "word": "עִוְעִים",
+    "level": 9,
+    "explanation": "שם תואר/עצם: עִוְעִים"
+  },
+  {
+    "word": "עוֹפֶר",
+    "level": 9,
+    "explanation": "מילה עברית: עוֹפֶר"
+  },
+  {
+    "word": "עַמוּד הַתָּוֶוך",
+    "level": 9,
+    "explanation": "ביטוי: עַמוּד הַתָּוֶוך"
+  },
+  {
+    "word": "עֵרָה",
+    "level": 9,
+    "explanation": "מילה עברית: עֵרָה"
+  },
+  {
+    "word": "פּאֹרָה",
+    "level": 9,
+    "explanation": "שם עצם: פּאֹרָה"
+  },
+  {
+    "word": "פּוֹחֵז",
+    "level": 9,
+    "explanation": "מילה עברית: פּוֹחֵז"
+  },
+  {
+    "word": "פֶּלֶך",
+    "level": 9,
+    "explanation": "מילה עברית: פֶּלֶך"
+  },
+  {
+    "word": "פַּס",
+    "level": 9,
+    "explanation": "מילה עברית: פַּס"
+  },
+  {
+    "word": "פָּקַד",
+    "level": 9,
+    "explanation": "פקד, ביקר"
+  },
+  {
+    "word": "פַּרְסָה",
+    "level": 9,
+    "explanation": "שם עצם: פַּרְסָה"
+  },
+  {
+    "word": "צָבָא",
+    "level": 9,
+    "explanation": "מילה עברית: צָבָא"
+  },
+  {
+    "word": "צוֹעֵר",
+    "level": 9,
+    "explanation": "מילה עברית: צוֹעֵר"
+  },
+  {
+    "word": "צָוּף",
+    "level": 9,
+    "explanation": "מילה עברית: צָוּף"
+  },
+  {
+    "word": "צוּר",
+    "level": 9,
+    "explanation": "מילה עברית: צוּר"
+  },
+  {
+    "word": "צוּר מַחְצַבְתּוֹ",
+    "level": 9,
+    "explanation": "ביטוי: צוּר מַחְצַבְתּוֹ"
+  },
+  {
+    "word": "צִיַה",
+    "level": 9,
+    "explanation": "מילה עברית: צִיַה"
+  },
+  {
+    "word": "קַב",
+    "level": 9,
+    "explanation": "מילה עברית: קַב"
+  },
+  {
+    "word": "קְדֵרָה",
+    "level": 9,
+    "explanation": "שם עצם: קְדֵרָה"
+  },
+  {
+    "word": "ִקְהַל",
+    "level": 9,
+    "explanation": "מילה עברית: ִקְהַל"
+  },
+  {
+    "word": "קוֹלֶגָה",
+    "level": 9,
+    "explanation": "שם עצם: קוֹלֶגָה"
+  },
+  {
+    "word": "קָטוּם",
+    "level": 9,
+    "explanation": "שם תואר/עצם: קָטוּם"
+  },
+  {
+    "word": "קָם",
+    "level": 9,
+    "explanation": "קם, עמד"
+  },
+  {
+    "word": "קְסַרְקְטִין / קְסַרְקָט",
+    "level": 9,
+    "explanation": "ביטוי: קְסַרְקְטִין / קְסַרְקָט"
+  },
+  {
+    "word": "ַקְקַן זָפוּת",
+    "level": 9,
+    "explanation": "ביטוי: ַקְקַן זָפוּת"
+  },
+  {
+    "word": "ִקְרָה",
+    "level": 9,
+    "explanation": "מילה עברית: ִקְרָה"
+  },
+  {
+    "word": "קָרוּץ",
+    "level": 9,
+    "explanation": "מילה עברית: קָרוּץ"
+  },
+  {
+    "word": "רָבַץ לְפִתְחוֹ",
+    "level": 9,
+    "explanation": "ביטוי: רָבַץ לְפִתְחוֹ"
+  },
+  {
+    "word": "רֵיאָלִי",
+    "level": 9,
+    "explanation": "שם תואר/עצם: רֵיאָלִי"
+  },
+  {
+    "word": "רַעֲמָה",
+    "level": 9,
+    "explanation": "שם עצם: רַעֲמָה"
+  },
+  {
+    "word": "רָצַע",
+    "level": 9,
+    "explanation": "מילה עברית: רָצַע"
+  },
+  {
+    "word": "שָׁוְא",
+    "level": 9,
+    "explanation": "מילה עברית: שָׁוְא"
+  },
+  {
+    "word": "שָׁוֶוה לְכֹל ֶפֶשׁ",
+    "level": 9,
+    "explanation": "ביטוי: שָׁוֶוה לְכֹל ֶפֶשׁ"
+  },
+  {
+    "word": "ֶשֶׁץ",
+    "level": 9,
+    "explanation": "מילה עברית: ֶשֶׁץ"
+  },
+  {
+    "word": "שֶׁצֶף",
+    "level": 9,
+    "explanation": "מילה עברית: שֶׁצֶף"
+  },
+  {
+    "word": "שְׁרִירוּת",
+    "level": 9,
+    "explanation": "שם עצם: שְׁרִירוּת"
+  },
+  {
+    "word": "שְׁרִירוּת לֵב",
+    "level": 9,
+    "explanation": "ביטוי: שְׁרִירוּת לֵב"
+  },
+  {
+    "word": "שְׁרִירוּתִי",
+    "level": 9,
+    "explanation": "שם תואר/עצם: שְׁרִירוּתִי"
+  },
+  {
+    "word": "שָׂרָף",
+    "level": 9,
+    "explanation": "שרף, בער"
+  },
+  {
+    "word": "תּוֹאֲָה",
+    "level": 9,
+    "explanation": "שם עצם: תּוֹאֲָה"
+  },
+  {
+    "word": "תּוֹכָחָה / תּוֹכֵחָה",
+    "level": 9,
+    "explanation": "ביטוי: תּוֹכָחָה / תּוֹכֵחָה"
+  },
+  {
+    "word": "תּוֹלָדָה",
+    "level": 9,
+    "explanation": "שם עצם: תּוֹלָדָה"
+  },
+  {
+    "word": "תְּכִיפוּת",
+    "level": 9,
+    "explanation": "שם עצם: תְּכִיפוּת"
+  },
+  {
+    "word": "תָּכַף",
+    "level": 9,
+    "explanation": "מילה עברית: תָּכַף"
+  },
+  {
+    "word": "תָּר",
+    "level": 9,
+    "explanation": "מילה עברית: תָּר"
+  },
+  {
+    "word": "תְּשׁוּרָה",
+    "level": 9,
+    "explanation": "שם עצם: תְּשׁוּרָה"
+  },
+  {
+    "word": "אַ ְבֵט",
+    "level": 10,
+    "explanation": "אבנט, חגורה כהנית"
+  },
+  {
+    "word": "אַבְקָן",
+    "level": 10,
+    "explanation": "אבקן, אבקת פרחים"
+  },
+  {
+    "word": "אַבְרֵך",
+    "level": 10,
+    "explanation": "אברך, תלמיד בכולל"
+  },
+  {
+    "word": "אוֹ ְמִיפּוֹ ֶטְטִי",
+    "level": 10,
+    "explanation": "אומניפוטנטי, כל-יכול"
+  },
+  {
+    "word": "אוֹטוֹבִּיוֹגְרַפְיָה",
+    "level": 10,
+    "explanation": "אוטוביוגרפיה, סיפור חייו"
+  },
+  {
+    "word": "אָזַר עֹז / כֹּחַ / אֹמֶץ",
+    "level": 10,
+    "explanation": "אזר עוז, אסף אומץ"
+  },
+  {
+    "word": "אָחַז אֶת הַשּׁוֹר בְּקַרְ ָיו",
+    "level": 10,
+    "explanation": "אחז בבעיה ישירות"
+  },
+  {
+    "word": "אִידֵאָל",
+    "level": 10,
+    "explanation": "אידיאל, מושג עליון"
+  },
+  {
+    "word": "אִיְהֶ ֶרְטִי",
+    "level": 10,
+    "explanation": "ביטוי: אִיְהֶ ֶרְטִי"
+  },
+  {
+    "word": "אִיּוּשׁ",
+    "level": 10,
+    "explanation": "מילה עברית: אִיּוּשׁ"
+  },
+  {
+    "word": "אֵיפָה",
+    "level": 10,
+    "explanation": "איפה, היכן"
+  },
+  {
+    "word": "אִישׁ מָדוֹן / מְדָ ִים",
+    "level": 10,
+    "explanation": "ביטוי: אִישׁ מָדוֹן / מְדָ ִים"
+  },
+  {
+    "word": "אִכּוּל",
+    "level": 10,
+    "explanation": "מילה עברית: אִכּוּל"
+  },
+  {
+    "word": "ֶאֱלָח",
+    "level": 10,
+    "explanation": "מילה עברית: ֶאֱלָח"
+  },
+  {
+    "word": "אֲסוּפָה",
+    "level": 10,
+    "explanation": "שם עצם: אֲסוּפָה"
+  },
+  {
+    "word": "אַפְסָר",
+    "level": 10,
+    "explanation": "מילה עברית: אַפְסָר"
+  },
+  {
+    "word": "אֲֶקְדּוֹטָה",
+    "level": 10,
+    "explanation": "שם עצם: אֲֶקְדּוֹטָה"
+  },
+  {
+    "word": "אָקוּטִי",
+    "level": 10,
+    "explanation": "שם תואר/עצם: אָקוּטִי"
+  },
+  {
+    "word": "אָרִיחַ",
+    "level": 10,
+    "explanation": "מילה עברית: אָרִיחַ"
+  },
+  {
+    "word": "אָרִיס",
+    "level": 10,
+    "explanation": "מילה עברית: אָרִיס"
+  },
+  {
+    "word": "אָשְׁיוֹת",
+    "level": 10,
+    "explanation": "שם עצם: אָשְׁיוֹת"
+  },
+  {
+    "word": "אֶשְׁכָּר",
+    "level": 10,
+    "explanation": "מילה עברית: אֶשְׁכָּר"
+  },
+  {
+    "word": "בְּחִישָׁה",
+    "level": 10,
+    "explanation": "שם עצם: בְּחִישָׁה"
+  },
+  {
+    "word": "בִּיכֵּר",
+    "level": 10,
+    "explanation": "מילה עברית: בִּיכֵּר"
+  },
+  {
+    "word": "בִּכּוּרִים",
+    "level": 10,
+    "explanation": "שם תואר/עצם: בִּכּוּרִים"
+  },
+  {
+    "word": "בְּלִי מֵשִׂים",
+    "level": 10,
+    "explanation": "ביטוי: בְּלִי מֵשִׂים"
+  },
+  {
+    "word": "בִּלְתִּי ִלְאֶה",
+    "level": 10,
+    "explanation": "ביטוי: בִּלְתִּי ִלְאֶה"
+  },
+  {
+    "word": "בִּמְבֵּם",
+    "level": 10,
+    "explanation": "שם תואר/עצם: בִּמְבֵּם"
+  },
+  {
+    "word": "בְּצַוְותָּא",
+    "level": 10,
+    "explanation": "מילה עברית: בְּצַוְותָּא"
+  },
+  {
+    "word": "בַּר- חֲלוֹף",
+    "level": 10,
+    "explanation": "ביטוי: בַּר- חֲלוֹף"
+  },
+  {
+    "word": "בְּרַם",
+    "level": 10,
+    "explanation": "שם תואר/עצם: בְּרַם"
+  },
+  {
+    "word": "גָבִין",
+    "level": 10,
+    "explanation": "שם תואר/עצם: גָבִין"
+  },
+  {
+    "word": "גַּחֲמָה",
+    "level": 10,
+    "explanation": "שם עצם: גַּחֲמָה"
+  },
+  {
+    "word": "גְּלָלִים",
+    "level": 10,
+    "explanation": "שם תואר/עצם: גְּלָלִים"
+  },
+  {
+    "word": "גָלְמוּד",
+    "level": 10,
+    "explanation": "מילה עברית: גָלְמוּד"
+  },
+  {
+    "word": "גִנּוִּים",
+    "level": 10,
+    "explanation": "שם תואר/עצם: גִנּוִּים"
+  },
+  {
+    "word": "ָגַשׂ",
+    "level": 10,
+    "explanation": "מילה עברית: ָגַשׂ"
+  },
+  {
+    "word": "גַשְׁמִי",
+    "level": 10,
+    "explanation": "שם תואר/עצם: גַשְׁמִי"
+  },
+  {
+    "word": "דָּא עָקָא",
+    "level": 10,
+    "explanation": "ביטוי: דָּא עָקָא"
+  },
+  {
+    "word": "דָּהוּי",
+    "level": 10,
+    "explanation": "שם תואר/עצם: דָּהוּי"
+  },
+  {
+    "word": "דּוֹבְרָה",
+    "level": 10,
+    "explanation": "שם עצם: דּוֹבְרָה"
+  },
+  {
+    "word": "דְפוּס",
+    "level": 10,
+    "explanation": "מילה עברית: דְפוּס"
+  },
+  {
+    "word": "דֹק",
+    "level": 10,
+    "explanation": "מילה עברית: דֹק"
+  },
+  {
+    "word": "הִ ְתוֹדֵד",
+    "level": 10,
+    "explanation": "ביטוי: הִ ְתוֹדֵד"
+  },
+  {
+    "word": "הִ ְתוֹפֵף",
+    "level": 10,
+    "explanation": "ביטוי: הִ ְתוֹפֵף"
+  },
+  {
+    "word": "הֶאֱצִיל",
+    "level": 10,
+    "explanation": "פועל: הֶאֱצִיל"
+  },
+  {
+    "word": "הֶגְמוְֹיָה",
+    "level": 10,
+    "explanation": "פועל: הֶגְמוְֹיָה"
+  },
+  {
+    "word": "הוּדְרְכָה  ְמוּחָתוֹ",
+    "level": 10,
+    "explanation": "ביטוי: הוּדְרְכָה  ְמוּחָתוֹ"
+  },
+  {
+    "word": "הוֹלֵך בַּתֶּלֶם",
+    "level": 10,
+    "explanation": "ביטוי: הוֹלֵך בַּתֶּלֶם"
+  },
+  {
+    "word": "הֵחִיל",
+    "level": 10,
+    "explanation": "פועל: הֵחִיל"
+  },
+  {
+    "word": "הָיָה בְּעוֹכְרָיו",
+    "level": 10,
+    "explanation": "ביטוי: הָיָה בְּעוֹכְרָיו"
+  },
+  {
+    "word": "הִכְפִּיף",
+    "level": 10,
+    "explanation": "פועל: הִכְפִּיף"
+  },
+  {
+    "word": "הַלָּה",
+    "level": 10,
+    "explanation": "פועל: הַלָּה"
+  },
+  {
+    "word": "הִלִּין",
+    "level": 10,
+    "explanation": "פועל: הִלִּין"
+  },
+  {
+    "word": "הַלְמוּת",
+    "level": 10,
+    "explanation": "פועל: הַלְמוּת"
+  },
+  {
+    "word": "הִלְעִיז",
+    "level": 10,
+    "explanation": "פועל: הִלְעִיז"
+  },
+  {
+    "word": "הִמְצִיא",
+    "level": 10,
+    "explanation": "פועל: הִמְצִיא"
+  },
+  {
+    "word": "הִסְתַּיֵּג",
+    "level": 10,
+    "explanation": "פועל: הִסְתַּיֵּג"
+  },
+  {
+    "word": "ִהְפִּיק",
+    "level": 10,
+    "explanation": "פועל: ִהְפִּיק"
+  },
+  {
+    "word": "הִשְׁלִיך יְהָבוֹ עַל",
+    "level": 10,
+    "explanation": "ביטוי: הִשְׁלִיך יְהָבוֹ עַל"
+  },
+  {
+    "word": "הִתְבַּדְּרוּת",
+    "level": 10,
+    "explanation": "פועל: הִתְבַּדְּרוּת"
+  },
+  {
+    "word": "הִתְחַקָּה",
+    "level": 10,
+    "explanation": "פועל: הִתְחַקָּה"
+  },
+  {
+    "word": "הִתְלַהֵם",
+    "level": 10,
+    "explanation": "פועל: הִתְלַהֵם"
+  },
+  {
+    "word": "הִתְקַשֵּׁט בְּ וֹצוֹת זָרִים",
+    "level": 10,
+    "explanation": "ביטוי: הִתְקַשֵּׁט בְּ וֹצוֹת זָרִים"
+  },
+  {
+    "word": "וֹחַ לַבְּרִיּוֹת",
+    "level": 10,
+    "explanation": "ביטוי: וֹחַ לַבְּרִיּוֹת"
+  },
+  {
+    "word": "וֹפֶך",
+    "level": 10,
+    "explanation": "מילה עברית: וֹפֶך"
+  },
+  {
+    "word": "זִבְדָה",
+    "level": 10,
+    "explanation": "שם עצם: זִבְדָה"
+  },
+  {
+    "word": "זְמָם",
+    "level": 10,
+    "explanation": "שם תואר/עצם: זְמָם"
+  },
+  {
+    "word": "חֲגָוִים",
+    "level": 10,
+    "explanation": "שם תואר/עצם: חֲגָוִים"
+  },
+  {
+    "word": "חֲוִילָה",
+    "level": 10,
+    "explanation": "שם עצם: חֲוִילָה"
+  },
+  {
+    "word": "חוֹסֶה",
+    "level": 10,
+    "explanation": "שם עצם: חוֹסֶה"
+  },
+  {
+    "word": "חִיוַּורְיָין",
+    "level": 10,
+    "explanation": "שם תואר/עצם: חִיוַּורְיָין"
+  },
+  {
+    "word": "חִיל ) וּרְעָדָה(",
+    "level": 10,
+    "explanation": "ביטוי: חִיל ) וּרְעָדָה("
+  },
+  {
+    "word": "חַכְלִילִי",
+    "level": 10,
+    "explanation": "שם תואר/עצם: חַכְלִילִי"
+  },
+  {
+    "word": "חָמָס",
+    "level": 10,
+    "explanation": "מילה עברית: חָמָס"
+  },
+  {
+    "word": "חָרוּל",
+    "level": 10,
+    "explanation": "מילה עברית: חָרוּל"
+  },
+  {
+    "word": "חֲרוּשׁ",
+    "level": 10,
+    "explanation": "מילה עברית: חֲרוּשׁ"
+  },
+  {
+    "word": "חֲרִיץ",
+    "level": 10,
+    "explanation": "מילה עברית: חֲרִיץ"
+  },
+  {
+    "word": "חִשּׁוּל",
+    "level": 10,
+    "explanation": "מילה עברית: חִשּׁוּל"
+  },
+  {
+    "word": "טָרוּף",
+    "level": 10,
+    "explanation": "מילה עברית: טָרוּף"
+  },
+  {
+    "word": "יְהָב",
+    "level": 10,
+    "explanation": "מילה עברית: יְהָב"
+  },
+  {
+    "word": "יוּ ַאְס",
+    "level": 10,
+    "explanation": "ביטוי: יוּ ַאְס"
+  },
+  {
+    "word": "יוֹרֵד יָם",
+    "level": 10,
+    "explanation": "ביטוי: יוֹרֵד יָם"
+  },
+  {
+    "word": "ִיחָר",
+    "level": 10,
+    "explanation": "מילה עברית: ִיחָר"
+  },
+  {
+    "word": "כּוֹחוֹ יָפֶה",
+    "level": 10,
+    "explanation": "ביטוי: כּוֹחוֹ יָפֶה"
+  },
+  {
+    "word": "כִּיוּן",
+    "level": 10,
+    "explanation": "שם תואר/עצם: כִּיוּן"
+  },
+  {
+    "word": "כִּיּוּר",
+    "level": 10,
+    "explanation": "מילה עברית: כִּיּוּר"
+  },
+  {
+    "word": "כְּלוָֹס",
+    "level": 10,
+    "explanation": "מילה עברית: כְּלוָֹס"
+  },
+  {
+    "word": "כִּמֵּת",
+    "level": 10,
+    "explanation": "מילה עברית: כִּמֵּת"
+  },
+  {
+    "word": "ִכְסָף",
+    "level": 10,
+    "explanation": "מילה עברית: ִכְסָף"
+  },
+  {
+    "word": "כִּתֵּר",
+    "level": 10,
+    "explanation": "מילה עברית: כִּתֵּר"
+  },
+  {
+    "word": "לְאַלְתַּר",
+    "level": 10,
+    "explanation": "מילה עברית: לְאַלְתַּר"
+  },
+  {
+    "word": "לִבָּה אֶת הַיְּצָרִים",
+    "level": 10,
+    "explanation": "ביטוי: לִבָּה אֶת הַיְּצָרִים"
+  },
+  {
+    "word": "לִבְלוּב",
+    "level": 10,
+    "explanation": "מילה עברית: לִבְלוּב"
+  },
+  {
+    "word": "לְמֵישָׁרִין",
+    "level": 10,
+    "explanation": "שם תואר/עצם: לְמֵישָׁרִין"
+  },
+  {
+    "word": "לְסֵרוּגִין",
+    "level": 10,
+    "explanation": "שם תואר/עצם: לְסֵרוּגִין"
+  },
+  {
+    "word": "מַבְכִּירָה",
+    "level": 10,
+    "explanation": "שם עצם: מַבְכִּירָה"
+  },
+  {
+    "word": "מִגְבַּעַת",
+    "level": 10,
+    "explanation": "שם עצם: מִגְבַּעַת"
+  },
+  {
+    "word": "מַדְוֶה",
+    "level": 10,
+    "explanation": "שם עצם: מַדְוֶה"
+  },
+  {
+    "word": "מַדְמֵ ָה",
+    "level": 10,
+    "explanation": "ביטוי: מַדְמֵ ָה"
+  },
+  {
+    "word": "מַהֲדִיר",
+    "level": 10,
+    "explanation": "שם עצם: מַהֲדִיר"
+  },
+  {
+    "word": "מוֹעֵד",
+    "level": 10,
+    "explanation": "שם עצם: מוֹעֵד"
+  },
+  {
+    "word": "מוֹרֶך ) לֵב(",
+    "level": 10,
+    "explanation": "ביטוי: מוֹרֶך ) לֵב("
+  },
+  {
+    "word": "מִזְכָּר",
+    "level": 10,
+    "explanation": "שם עצם: מִזְכָּר"
+  },
+  {
+    "word": "מַחְמָל",
+    "level": 10,
+    "explanation": "שם עצם: מַחְמָל"
+  },
+  {
+    "word": "מְטוּרְזָן",
+    "level": 10,
+    "explanation": "שם עצם: מְטוּרְזָן"
+  },
+  {
+    "word": "מְטֻלָּל",
+    "level": 10,
+    "explanation": "שם עצם: מְטֻלָּל"
+  },
+  {
+    "word": "מְכוּרְכָּם",
+    "level": 10,
+    "explanation": "שם עצם: מְכוּרְכָּם"
+  },
+  {
+    "word": "מִלְטָשָׁה",
+    "level": 10,
+    "explanation": "שם עצם: מִלְטָשָׁה"
+  },
+  {
+    "word": "מִסְדָּר",
+    "level": 10,
+    "explanation": "שם עצם: מִסְדָּר"
+  },
+  {
+    "word": "מַסָּה",
+    "level": 10,
+    "explanation": "מילה עברית: מַסָּה"
+  },
+  {
+    "word": "מָש",
+    "level": 10,
+    "explanation": "מילה עברית: מָש"
+  },
+  {
+    "word": "מַשְׂאַת לֵב / ֶפֶש",
+    "level": 10,
+    "explanation": "ביטוי: מַשְׂאַת לֵב / ֶפֶש"
+  },
+  {
+    "word": "מִשֶּׁכְּבָר הַיָּמִים",
+    "level": 10,
+    "explanation": "ביטוי: מִשֶּׁכְּבָר הַיָּמִים"
+  },
+  {
+    "word": "מַתְמִיהַּ",
+    "level": 10,
+    "explanation": "שם עצם: מַתְמִיהַּ"
+  },
+  {
+    "word": "סָ ַמ יָדוֹ על  )משהו (",
+    "level": 10,
+    "explanation": "ביטוי: סָ ַמ יָדוֹ על  )משהו ("
+  },
+  {
+    "word": "סָדוּר",
+    "level": 10,
+    "explanation": "מילה עברית: סָדוּר"
+  },
+  {
+    "word": "סוּרֵיאָלִיסְטִי",
+    "level": 10,
+    "explanation": "שם תואר/עצם: סוּרֵיאָלִיסְטִי"
+  },
+  {
+    "word": "סָמוּך עַל שוּלְ ָחוֹ",
+    "level": 10,
+    "explanation": "ביטוי: סָמוּך עַל שוּלְ ָחוֹ"
+  },
+  {
+    "word": "סָר מֵרַע",
+    "level": 10,
+    "explanation": "ביטוי: סָר מֵרַע"
+  },
+  {
+    "word": "סְרָק",
+    "level": 10,
+    "explanation": "מילה עברית: סְרָק"
+  },
+  {
+    "word": "עָלָה בְּקָ ֶה אֶחָד",
+    "level": 10,
+    "explanation": "ביטוי: עָלָה בְּקָ ֶה אֶחָד"
+  },
+  {
+    "word": "עָמִיל",
+    "level": 10,
+    "explanation": "מילה עברית: עָמִיל"
+  },
+  {
+    "word": "עֲָק",
+    "level": 10,
+    "explanation": "מילה עברית: עֲָק"
+  },
+  {
+    "word": "עַרְכָּאָה",
+    "level": 10,
+    "explanation": "שם עצם: עַרְכָּאָה"
+  },
+  {
+    "word": "פָּג",
+    "level": 10,
+    "explanation": "מילה עברית: פָּג"
+  },
+  {
+    "word": "פּוֹרֵק עֹל",
+    "level": 10,
+    "explanation": "ביטוי: פּוֹרֵק עֹל"
+  },
+  {
+    "word": "פִּזּוּר דַּעַת / ֶפֶש",
+    "level": 10,
+    "explanation": "ביטוי: פִּזּוּר דַּעַת / ֶפֶש"
+  },
+  {
+    "word": "פִּכָּה",
+    "level": 10,
+    "explanation": "מילה עברית: פִּכָּה"
+  },
+  {
+    "word": "פְּעָמָיו",
+    "level": 10,
+    "explanation": "מילה עברית: פְּעָמָיו"
+  },
+  {
+    "word": "פָּרָדוֹקְס",
+    "level": 10,
+    "explanation": "מילה עברית: פָּרָדוֹקְס"
+  },
+  {
+    "word": "פְּרִישוּת",
+    "level": 10,
+    "explanation": "שם עצם: פְּרִישוּת"
+  },
+  {
+    "word": "פֶּרְמָ ְֶטִי",
+    "level": 10,
+    "explanation": "ביטוי: פֶּרְמָ ְֶטִי"
+  },
+  {
+    "word": "ִפְרַע",
+    "level": 10,
+    "explanation": "מילה עברית: ִפְרַע"
+  },
+  {
+    "word": "פָּרַף",
+    "level": 10,
+    "explanation": "מילה עברית: פָּרַף"
+  },
+  {
+    "word": "פַּשְׁטָ ִי",
+    "level": 10,
+    "explanation": "ביטוי: פַּשְׁטָ ִי"
+  },
+  {
+    "word": "צְ ִיפָה",
+    "level": 10,
+    "explanation": "ביטוי: צְ ִיפָה"
+  },
+  {
+    "word": "צָבָה",
+    "level": 10,
+    "explanation": "מילה עברית: צָבָה"
+  },
+  {
+    "word": "צֶדַע/ צְדָעַיִם / צְדָעוֹת",
+    "level": 10,
+    "explanation": "ביטוי: צֶדַע/ צְדָעַיִם / צְדָעוֹת"
+  },
+  {
+    "word": "צוֵֹן",
+    "level": 10,
+    "explanation": "שם תואר/עצם: צוֵֹן"
+  },
+  {
+    "word": "ִצַּחַת",
+    "level": 10,
+    "explanation": "מילה עברית: ִצַּחַת"
+  },
+  {
+    "word": "צָלַח",
+    "level": 10,
+    "explanation": "מילה עברית: צָלַח"
+  },
+  {
+    "word": "קָבַל",
+    "level": 10,
+    "explanation": "מילה עברית: קָבַל"
+  },
+  {
+    "word": "קֳבָל עַם וְעֵדָה",
+    "level": 10,
+    "explanation": "ביטוי: קֳבָל עַם וְעֵדָה"
+  },
+  {
+    "word": "קוְּדֵּסוּת",
+    "level": 10,
+    "explanation": "שם עצם: קוְּדֵּסוּת"
+  },
+  {
+    "word": "קִילּוּחַ",
+    "level": 10,
+    "explanation": "מילה עברית: קִילּוּחַ"
+  },
+  {
+    "word": "קַל דַּעַת",
+    "level": 10,
+    "explanation": "ביטוי: קַל דַּעַת"
+  },
+  {
+    "word": "קַל תְּפִיסָה",
+    "level": 10,
+    "explanation": "ביטוי: קַל תְּפִיסָה"
+  },
+  {
+    "word": "קָפַח",
+    "level": 10,
+    "explanation": "מילה עברית: קָפַח"
+  },
+  {
+    "word": "קְרֵי",
+    "level": 10,
+    "explanation": "שם תואר/עצם: קְרֵי"
+  },
+  {
+    "word": "קָרַם עוֹר וְגִידִים",
+    "level": 10,
+    "explanation": "ביטוי: קָרַם עוֹר וְגִידִים"
+  },
+  {
+    "word": "קָשִׁישׁ",
+    "level": 10,
+    "explanation": "מילה עברית: קָשִׁישׁ"
+  },
+  {
+    "word": "רְבָבָה",
+    "level": 10,
+    "explanation": "שם עצם: רְבָבָה"
+  },
+  {
+    "word": "רָמָה / עָלְתָה קַ ְרוֹ",
+    "level": 10,
+    "explanation": "ביטוי: רָמָה / עָלְתָה קַ ְרוֹ"
+  },
+  {
+    "word": "רִפְרֵף",
+    "level": 10,
+    "explanation": "מילה עברית: רִפְרֵף"
+  },
+  {
+    "word": "שָׁ וּן",
+    "level": 10,
+    "explanation": "ביטוי: שָׁ וּן"
+  },
+  {
+    "word": "שְׁאֵר בָּשָׂר",
+    "level": 10,
+    "explanation": "ביטוי: שְׁאֵר בָּשָׂר"
+  },
+  {
+    "word": "שׁוּמָה",
+    "level": 10,
+    "explanation": "שם עצם: שׁוּמָה"
+  },
+  {
+    "word": "שְׁכִיב מְרַע",
+    "level": 10,
+    "explanation": "ביטוי: שְׁכִיב מְרַע"
+  },
+  {
+    "word": "שָׂם ַפְשוֹ בְּכַפּוֹ",
+    "level": 10,
+    "explanation": "ביטוי: שָׂם ַפְשוֹ בְּכַפּוֹ"
+  },
+  {
+    "word": "שִׁעוּר",
+    "level": 10,
+    "explanation": "מילה עברית: שִׁעוּר"
+  },
+  {
+    "word": "שִׁפּוּל",
+    "level": 10,
+    "explanation": "מילה עברית: שִׁפּוּל"
+  },
+  {
+    "word": "ָשַק /  ִשֵק",
+    "level": 10,
+    "explanation": "ביטוי: ָשַק /  ִשֵק"
+  },
+  {
+    "word": "שָׁת",
+    "level": 10,
+    "explanation": "מילה עברית: שָׁת"
+  },
+  {
+    "word": "תִּמּוּכִין",
+    "level": 10,
+    "explanation": "שם תואר/עצם: תִּמּוּכִין"
+  },
+  {
+    "word": "תָּמִיר",
+    "level": 10,
+    "explanation": "מילה עברית: תָּמִיר"
+  },
+  {
+    "word": "תַּעַר",
+    "level": 10,
+    "explanation": "מילה עברית: תַּעַר"
+  },
+  {
+    "word": "תָּפֵל",
+    "level": 10,
+    "explanation": "מילה עברית: תָּפֵל"
+  },
+  {
+    "word": "תֶּקֶר",
+    "level": 10,
+    "explanation": "מילה עברית: תֶּקֶר"
+  }
+]
